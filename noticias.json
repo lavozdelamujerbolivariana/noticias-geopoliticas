@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "Comunero Ángel Prado: “Con esta Consulta Popular se demuestra que Venezuela en unidad defiende su Democracia”",
+      "link": "https://www.comunas.gob.ve/2026/10/18/comunero-angel-prado-consulta-popular-demuestra-venezuela-unidad-defiende-democracia/"
+    },
+    {
       "titulo": "Poder Popular de El Valle y Coche ejercen su derecho al voto en la Segunda Consulta Popular Nacional 2026",
       "link": "https://www.comunas.gob.ve/2026/10/18/poder-popular-de-el-valle-y-coche-ejercen-su-derecho-al-voto-en-la-segunda-consulta-popular-nacional-2026/"
     },
@@ -15,10 +19,6 @@
     {
       "titulo": "‎Comunas de Sucre participan en segunda Consulta Popular Nacional 2026 con 1.567 proyectos postulados",
       "link": "https://www.comunas.gob.ve/2026/10/18/comunas-sucre-participan-segunda-consulta-popular-nacional-2026-1567-proyectos-postulados/"
-    },
-    {
-      "titulo": "‎Comunero Ángel Prado ejerce derecho al voto en Lara y marca inicio de segunda Consulta Popular Nacional 2026",
-      "link": "https://www.comunas.gob.ve/2026/10/18/comunero-angel-prado-ejerce-derecho-voto-lara-marca-inicio-segunda-consulta-popular-nacional-2026/"
     }
   ],
   "Mippci Medios Comunitarios": [
@@ -47,46 +47,46 @@
   "El Mazo Dando": [],
   "VTV": [
     {
-      "titulo": "Ángel Prado: En la próxima semana empezarán a llegar los financiamientos de la Consulta Nacional",
-      "link": "https://vtv.com.ve/angel-prado-proxima-semana-financiamientos-consulta-nacional/"
+      "titulo": "BCV | Dólar se cotiza en Bs. 881,06y el euro en Bs. 991,16",
+      "link": "https://vtv.com.ve/bcv-dolar-se-cotiza-en-bs-88106-y-el-euro-en-bs-99116/"
     },
     {
-      "titulo": "Avanza la Fiesta Nacional de Inmunización en Barinas con despliegue comunitario",
-      "link": "https://vtv.com.ve/avanza-inmunizacion-barinas-despliegue-comunitario/"
+      "titulo": "Presidenta Rodríguez felicita al pueblo venezolano por su participación en la Segunda Consulta Nacional 2026",
+      "link": "https://vtv.com.ve/presidenta-rodriguez-felicita-pueblo-venezolano-participacion-consulta-nacional/"
     },
     {
-      "titulo": "Economía digital venezolana registra un crecimiento de 84 % entre enero y septiembre de 2026",
-      "link": "https://vtv.com.ve/economia-digital-venezolana-registra-crecimiento-84/"
+      "titulo": "Nueva corriente “Psicología de Herramientas” busca dar recursos prácticos a cada paciente",
+      "link": "https://vtv.com.ve/nueva-corriente-psicologia-recursos-practicos-paciente/"
     },
     {
-      "titulo": "Consulta Nacional es una demostración de democracia participativa, afirmó Lacava",
-      "link": "https://vtv.com.ve/consulta-nacional-demostracion-democracia-participativa/"
+      "titulo": "Sistema Nacional de Medios Públicos realizó cobertura de más de 12 horas en Segunda Consulta de 2026",
+      "link": "https://vtv.com.ve/sistema-medios-publicos-realizo-cobertura-12horas-segunda-consulta-nacional/"
     },
     {
-      "titulo": "Pedro Infante: Segunda Consulta Nacional consolida la democracia participativa y protagónica",
-      "link": "https://vtv.com.ve/infante-consulta-nacional-democracia-participativa-protagonica/"
+      "titulo": "Participación de Juntas de Condominio marca hito de convivencia en Consulta Nacional 2026",
+      "link": "https://vtv.com.ve/participacion-juntas-condominio-convivencia-consulta-nacional/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Venezuela se alista para celebrar el primer aniversario de la canonización de José Gregorio Hernández y Carmen Rendiles",
-      "link": "https://rnv.gob.ve/venezuela-se-alista-para-aniversario-de-canonizacion-de-sus-santos/"
+      "titulo": "Presidenta Delcy Rodríguez felicitó al pueblo organizado por su participación en la Segunda Consulta Popular Nacional 2026",
+      "link": "https://rnv.gob.ve/delcy-rodriguez-consulta-popular-nacional-2026/"
     },
     {
-      "titulo": "Pedro Infante: Segunda Consulta Nacional consolida la democracia participativa y protagónica",
-      "link": "https://rnv.gob.ve/pedro-infante-consulta-nacional-consolida-la-democracia/"
+      "titulo": "Presidenta Delcy Rodríguez intervino en el cierre de la conferencia de Energía, Petróleo y Gas 2026",
+      "link": "https://rnv.gob.ve/presidenta-delcy-rodriguez-intervino-en-el-cierre-de-la-conferencia-de-energia-petroleo-y-gas-2026/"
     },
     {
-      "titulo": "80 comunas del estado La Guaira participan en elección de 522 proyectos locales",
-      "link": "https://rnv.gob.ve/80-comunas-del-estado-la-guaira-participan-en-eleccion-de-522-proyectos-i/"
+      "titulo": "Juntas comunales se suman a consulta popular en Guaicaipuro",
+      "link": "https://rnv.gob.ve/juntas-comunales-se-suman-a-consulta-popular-en-guaicaipuro/"
     },
     {
-      "titulo": "Pueblo comuneros llanero destaca rapidez en el ejercicio del voto en Consulta Popular",
-      "link": "https://rnv.gob.ve/pueblo-comunero-llanero-destaca-rapidez-en-ejercicio-del-voto/"
+      "titulo": "Debate presidencial en Brasil enciende el duelo entre Lula y Flávio Bolsonaro",
+      "link": "https://rnv.gob.ve/debate-presidencial-brasil-entre-lula-y-flavio-bolsonaro/"
     },
     {
-      "titulo": "CNE extiende una hora el proceso de votación en la Segunda Consulta Popular Nacional 2026",
-      "link": "https://rnv.gob.ve/cne-extiende-una-hora-el-proceso-de-votacion-en-la-consulta-popular/"
+      "titulo": "Pueblo de Santa María de Ipire ratificó su compromiso democrático en la Consulta Popular Nacional",
+      "link": "https://rnv.gob.ve/santa-maria-de-ipire-ratifico-compromiso-consulta-popular/"
     }
   ],
   "Radio Mundial": [
@@ -137,24 +137,24 @@
   "Agencia Xinhua": [],
   "RT en Español": [
     {
-      "titulo": "\"¿Quieren volver a probar suerte?\": Canciller iraní no se guarda nada y lanza fuerte dardo contra EE.UU.",
-      "link": "https://actualidad-rt.com/actualidad/633121-quieren-volver-suerte-canciller-lanza-dardo-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "\"Roza el caos\": Kremlin comenta la ola de protestas en Europa",
+      "link": "https://actualidad-rt.com/actualidad/633176-roza-caos-kremlin-comentar-ola?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Macron viajará a Oriente Medio en busca de combustible mientras Francia arde",
-      "link": "https://actualidad-rt.com/actualidad/633123-macron-viajara-oriente-medio-combustible-francia-arde?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "\"Todavía estamos al aire\": el bochornoso momento de presentadora de BBC se viraliza en la red",
+      "link": "https://actualidad-rt.com/viral/633167-todavia-aire-momento-presentadora-bbc?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "VIDEOS: Ola de saqueos en tiendas en Milán inspirada por los disturbios en Francia",
-      "link": "https://actualidad-rt.com/actualidad/633118-videos-saqueos-tiendas-milan-inspirada-disturbios-francia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Futbolista muere tras descompensarse en pleno partido",
+      "link": "https://actualidad-rt.com/actualidad/633166-futbolista-morir-descompensarse-pleno-partido?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "¿Héroe sin capa?: Un hombre lanza ollas con agua hirviendo sobre saqueadores en París (VIDEO)",
-      "link": "https://actualidad-rt.com/actualidad/633120-video-hombre-ollas-agua-hirviendo-saqueadores-paris?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Kremlin comenta posible reunión trilateral entre Putin, Trump y Xi Jinping",
+      "link": "https://actualidad-rt.com/actualidad/633170-kremlin-posible-reunion-putin-trump-xi?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Vende todo y viaja 2.000 kilómetros por una mujer que resulta ser una IA",
-      "link": "https://actualidad-rt.com/actualidad/633102-vender-viajar-kilometros-mujer-ia-brasil?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "País de Oriente Medio debate apoyo militar a Arabia Saudita contra los hutíes",
+      "link": "https://actualidad-rt.com/actualidad/633158-pais-oriente-medio-debate-apoyo-militar-arabia-saudita?utm_source=rss&utm_medium=rss&utm_campaign=all"
     }
   ],
   "Telesur": [],
