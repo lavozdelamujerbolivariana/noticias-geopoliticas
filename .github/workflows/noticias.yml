@@ -1,0 +1,88 @@
+name: Recopilar Noticias Geopolíticas
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 6:00 AM hora de Venezuela (10:00 UTC)
+    - cron: '0 10 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente cuando quieras
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: pip install feedparser requests
+
+      - name: Descargar noticias de los 14 medios
+        run: |
+          python - << 'EOF'
+          import feedparser
+          import json
+          import urllib.request
+          import ssl
+
+          # Bypass de verificación SSL para medios con certificados vencidos o estrictos
+          ctx = ssl.create_default_context()
+          ctx.check_hostname = False
+          ctx.verify_mode = ssl.CERT_NONE
+
+          fuentes = [
+              {"nombre": "Ministerio de Comunas", "url": "https://www.comunas.gob.ve/feed/"},
+              {"nombre": "Mippci Medios Comunitarios", "url": "https://mippci.gob.ve/category/medios-comunitarios/feed/"},
+              {"nombre": "Correo del Orinoco", "url": "https://www.correodelorinoco.gob.ve/feed/"},
+              {"nombre": "El Mazo Dando", "url": "https://mazo4f.com/feed"},
+              {"nombre": "VTV", "url": "https://vtv.com.ve/feed/"},
+              {"nombre": "RNV", "url": "https://rnv.gob.ve/feed/"},
+              {"nombre": "Radio Mundial", "url": "https://radiomundial.com.ve/feed/"},
+              {"nombre": "La Radio del Sur", "url": "https://www.laradiodelsur.com.ve/feed/"},
+              {"nombre": "Ministerio de Cultura", "url": "https://www.mincultura.gob.ve/feed/"},
+              {"nombre": "Agencia Xinhua", "url": "https://spanish.xinhuanet.com/rss/xinhuanet_spanish.xml"},
+              {"nombre": "RT en Español", "url": "https://actualidad.rt.com/feeds/all.rss"},
+              {"nombre": "Telesur", "url": "https://www.telesurtv.net/rss/RssPortada.xml"},
+              {"nombre": "HispanTV", "url": "https://www.hispantv.com/rss"},
+              {"nombre": "La Voz de Vietnam", "url": "https://vovworld.vn/es-ES/rss/de-interes-general-235.vov"}
+          ]
+
+          resultado = {}
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+
+          for f in fuentes:
+              try:
+                  req = urllib.request.Request(f['url'], headers=headers)
+                  html = urllib.request.urlopen(req, context=ctx, timeout=10).read()
+                  parsed = feedparser.parse(html)
+                  
+                  titulares = []
+                  for entry in parsed.entries[:5]: # Extrae los 5 titulares
+                      titulares.append({
+                          "titulo": entry.title,
+                          "link": entry.link
+                      })
+                  resultado[f['nombre']] = titulares
+                  print(f"Éxito: {f['nombre']} ({len(titulares)} noticias)")
+              except Exception as e:
+                  print(f"Error en {f['nombre']}: {e}")
+                  resultado[f['nombre']] = []
+
+          with open("noticias.json", "w", encoding="utf-8") as file:
+              json.dump(resultado, file, ensure_ascii=False, indent=2)
+          EOF
+
+      - name: Guardar y publicar el JSON en el Repositorio
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias.json
+          git commit -m "Actualización diaria de noticias [6:00 AM]" || exit 0
+          git push
