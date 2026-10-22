@@ -1,114 +1,93 @@
 {
-  "Ministerio de Comunas": [
-    {
-      "titulo": "Llegan recursos a las Comunas tras segunda Consulta Popular Nacional 2026",
-      "link": "https://www.comunas.gob.ve/2026/10/20/llegan-recursos-a-las-comunas-tras-segunda-consulta-popular-nacional-2026/"
-    },
-    {
-      "titulo": "Fundacomunal y Sunacoop promueven la prevención del cáncer de mama con conversatorio dirigido a sus trabajadoras",
-      "link": "https://www.comunas.gob.ve/2026/10/19/fundacomunal-y-sunacoop-promueven-la-prevencion-del-cancer-de-mama-con-conversatorio-dirigido-a-sus-trabajadoras/"
-    },
-    {
-      "titulo": "Financiamiento para proyectos de la segunda Consulta Popular Nacional comenzará la próxima semana",
-      "link": "https://www.comunas.gob.ve/2026/10/19/financiamiento-para-proyectos-de-la-segunda-consulta-popular-nacional-comenzara-la-proxima-semana/"
-    },
-    {
-      "titulo": "Comunero Ángel Prado: “Con esta Consulta Popular se demuestra que Venezuela en unidad defiende su Democracia”",
-      "link": "https://www.comunas.gob.ve/2026/10/18/comunero-angel-prado-consulta-popular-demuestra-venezuela-unidad-defiende-democracia/"
-    },
-    {
-      "titulo": "Poder Popular de El Valle y Coche ejercen su derecho al voto en la Segunda Consulta Popular Nacional 2026",
-      "link": "https://www.comunas.gob.ve/2026/10/18/poder-popular-de-el-valle-y-coche-ejercen-su-derecho-al-voto-en-la-segunda-consulta-popular-nacional-2026/"
-    }
-  ],
+  "Ministerio de Comunas": [],
   "Mippci Medios Comunitarios": [
     {
-      "titulo": "Realizan Taller de Sensibilización en el Uso del Software Libre en la UPTTMBI de Trujillo",
-      "link": "https://mippci.gob.ve/realizan-taller-de-sensibilizacion-en-el-uso-del-software-libre-en-la-upttmbi-de-trujillo/"
+      "titulo": "INTT iniciará Ruta Universitaria de Trámites Vehiculares en Miranda",
+      "link": "https://mippci.gob.ve/intt-iniciara-ruta-universitaria-de-tramites-vehiculares-en-miranda/"
     },
     {
-      "titulo": "Realizan jornada práctica de laboratorio sobre análisis e investigación de suelos en Portuguesa",
-      "link": "https://mippci.gob.ve/realizan-jornada-practica-de-laboratorio-sobre-analisis-e-investigacion-de-suelos-en-portuguesa/"
+      "titulo": "Avanza instalación de tuberías y reemplazo de colectores en Falcón",
+      "link": "https://mippci.gob.ve/avanza-instalacion-de-tuberias-y-reemplazo-de-colectores-en-falcon/"
     },
     {
-      "titulo": "Avanzan jornadas de asistencia técnica y mantenimiento de Cayapa Heroica en Apure y Sucre",
-      "link": "https://mippci.gob.ve/avanzan-jornadas-de-asistencia-tecnica-y-mantenimiento-de-cayapa-heroica-en-apure-y-sucre/"
+      "titulo": "Entregan títulos de tierras urbanas a familias de Aragua",
+      "link": "https://mippci.gob.ve/entregan-titulos-de-tierras-urbanas-a-familias-de-aragua/"
     },
     {
-      "titulo": "Realizan jornada de salud y ecografías mamarias en Clínica de los Trabajadores en Mérida",
-      "link": "https://mippci.gob.ve/realizan-jornada-de-salud-y-ecografias-mamarias-en-clinica-de-los-trabajadores-en-merida/"
+      "titulo": "Jornada de cedulación atendió comunidades de Tocuyito",
+      "link": "https://mippci.gob.ve/jornada-de-cedulacion-atendio-comunidades-de-tocuyito/"
     },
     {
-      "titulo": "Activan estación de bombeo «Crucero» para beneficiar a más de 50 mil falconianos",
-      "link": "https://mippci.gob.ve/activan-estacion-de-bombeo-crucero-para-beneficiar-a-mas-de-50-mil-falconianos/"
+      "titulo": "Impulsan II Consulta Universitaria en Aragua",
+      "link": "https://mippci.gob.ve/impulsan-ii-consulta-universitaria-en-aragua/"
     }
   ],
   "Correo del Orinoco": [],
   "El Mazo Dando": [],
   "VTV": [
     {
-      "titulo": "BCV | Dólar se cotiza en Bs. 883,39 y el euro en Bs. 993,17",
-      "link": "https://vtv.com.ve/bcv-dolar-cotiza-bs88339-euro-bs99317/"
+      "titulo": "BCV | Dólar se cotiza en Bs. 884,74 y el euro en Bs. 993,21",
+      "link": "https://vtv.com.ve/bcv-dolar-cotiza-bs88474-euro-bs99321/"
     },
     {
-      "titulo": "José Elías y Yanubis Rodríguez brillan en el concurso “Canta tu sueño”",
-      "link": "https://vtv.com.ve/jose-elias-yanubis-rodriguez-brillan-pantalla-canta-sueno/"
+      "titulo": "Capturan a un hombre por hurto en colegios y centros culturales en Monagas",
+      "link": "https://vtv.com.ve/capturan-hombre-hurto-colegioscentros-culturales-monagas/"
     },
     {
-      "titulo": "BCV y Banco de España estrechan lazos de cooperación técnica en materia estadística",
-      "link": "https://vtv.com.ve/bcv-banco-espana-estrechan-lazos-cooperacion-tecnica-estadistica/"
+      "titulo": "Carrera nocturna We Run Rayocero Led reunirá deporte, luz y marcas en Falcón",
+      "link": "https://vtv.com.ve/carrera-nocturna-werunrayoceroled-reunira-deporte-falcon/"
     },
     {
-      "titulo": "Patinadoras venezolanas suman plata y bronce en Campeonato del Mundo en Paraguay",
-      "link": "https://vtv.com.ve/patinadoras-venezolanas-plata-bronce-campeonato-mundo-paraguay/"
+      "titulo": "Culmina tercera ronda de diálogo entre el Gobierno nacional y exdiputados de 2015 con seis acuerdos",
+      "link": "https://vtv.com.ve/culmina-tercera-ronda-dialogo-gobierno-nacional-exdiputados2015/"
     },
     {
-      "titulo": "Dayana Chirinos: Escuchar el Himno Nacional en el podio es la mejor sensación para un atleta",
-      "link": "https://vtv.com.ve/dayana-chirinos-himno-nacional-podio-sensacion-atleta/"
+      "titulo": "Jorge Rodríguez: Venezuela controla todos los recursos generados por la venta de petróleo",
+      "link": "https://vtv.com.ve/jorge-rodriguez-venezuela-controla-recursos-venta-petroleo/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Presidenta Delcy Rodríguez entrega 500 viviendas transitorias en Ciudad Caribia",
-      "link": "https://rnv.gob.ve/presidenta-delcy-rodriguez-entrega-500-viviendas-transitorias-en-ciudad-caribia/"
+      "titulo": "Diosdado Cabello destaca la alta participación femenina en la segunda Consulta Nacional Popular 2026",
+      "link": "https://rnv.gob.ve/cabello-destaca-participacion-femenina-consulta/"
     },
     {
-      "titulo": "Diputado Jorge Rodríguez: 200 viviendas transitorias se construyen diariamente en Ciudad Caribia",
-      "link": "https://rnv.gob.ve/viviendas-transitorias-ciudad-caribia/"
+      "titulo": "Diosdado Cabello calificó de extraordinaria la jornada de la Consulta Popular Nacional",
+      "link": "https://rnv.gob.ve/cabello-califica-extraordinaria-consulta-popular/"
     },
     {
-      "titulo": "EE.UU. evalúa retirar impedimentos para envío de petróleo venezolano a India",
-      "link": "https://rnv.gob.ve/eeuu-petroleo-venezolano-india/"
+      "titulo": "Diálogo Nacional discute creación de defensoría de garantías políticas",
+      "link": "https://rnv.gob.ve/dialogo-nacional-defensoria-garantias/"
     },
     {
-      "titulo": "Ministerio Público y UNFPA articulan agenda de trabajo para la atención de víctimas de violencia de género",
-      "link": "https://rnv.gob.ve/mp-unfpa-violencia-genero/"
+      "titulo": "Delegaciones de Diálogo Nacional insisten en recuperar el oro venezolano retenido en Reino Unido",
+      "link": "https://rnv.gob.ve/dialogo-insisten-en-recuperar-el-oro-en-reino-unido/"
     },
     {
-      "titulo": "MinSalud administró 11.000 vacunas durante la Semana Andina de Vacunación",
-      "link": "https://rnv.gob.ve/minsalud-administra-11000-vacunas-semana-andina/"
+      "titulo": "Delegaciones del Diálogo Nacional priorizan recuperación económica del país",
+      "link": "https://rnv.gob.ve/dialogo-nacional-prioriza-recuperacion-economica/"
     }
   ],
   "Radio Mundial": [
     {
-      "titulo": "Cultivan más de un millón de plántulas de café en el estado Anzoátegui",
-      "link": "https://radiomundial.com.ve/cultivan-mas-de-un-millon-de-plantulas-de-cafe-en-el-estado-anzoategui/"
+      "titulo": "Museo del Táchira activa visitas guiadas dominicales para la clase trabajadora",
+      "link": "https://radiomundial.com.ve/museo-del-tachira-activa-visitas-guiadas-dominicales-para-la-clase-trabajadora/"
     },
     {
-      "titulo": "Venezuela reafirma en México su compromiso con la protección internacional y prevención de la sustracción de niños",
-      "link": "https://radiomundial.com.ve/venezuela-participa-reunion-la-haya-proteccion-sustraccion-internacional-ninos/"
+      "titulo": "Presidenta Delcy Rodríguez anuncia reducción de contribuyentes especiales y reforma tributaria",
+      "link": "https://radiomundial.com.ve/delcy-rodriguez-reforma-tributaria-contribuyentes-especiales-recaudacion/"
     },
     {
-      "titulo": "Poder Popular de Guaicaipuro se despliega rumbo a la Consulta del 18 de Octubre",
-      "link": "https://radiomundial.com.ve/poder-popular-de-guaicaipuro-se-despliega-rumbo-a-la-consulta-del-18-de-octubre/"
+      "titulo": "Proponen plan de reincorporación para el personal jubilado de la ULA",
+      "link": "https://radiomundial.com.ve/propuesta-reincorporacion-laboral-jubilados-ula-bono-academico/"
     },
     {
-      "titulo": "Más de 45 mil familias se suman al Registro Único de Vivienda",
-      "link": "https://radiomundial.com.ve/mas-de-45-mil-familias-se-suman-al-registro-unico-de-vivienda/"
+      "titulo": "Jefa de Estado suspende con efecto inmediato la obligatoriedad de la máquina fiscal",
+      "link": "https://radiomundial.com.ve/delcy-rodriguez-suspende-obligatoriedad-maquina-fiscal-seniat/"
     },
     {
-      "titulo": "Se intensifican las protestas estudiantiles en Francia con bloqueos en más de 350 centros y más de 600 detenidos",
-      "link": "https://radiomundial.com.ve/protestas-estudiantiles-francia-bloqueos-detenidos-gabinetes-crisis/"
+      "titulo": "Gobernación del Táchira promovió la prevención del cáncer de mama con arte y cultura",
+      "link": "https://radiomundial.com.ve/gobernacion-del-tachira-promovio-la-prevencion-del-cancer-de-mama-con-arte-y-cultura/"
     }
   ],
   "La Radio del Sur": [],
@@ -137,24 +116,24 @@
   "Agencia Xinhua": [],
   "RT en Español": [
     {
-      "titulo": "PRIMERAS IMÁGENES de la reunión de Putin con el enviado de Trump",
-      "link": "https://actualidad-rt.com/actualidad/633512-primeras-imagenes-reunion-putin-enviado-trump?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Este es el mayor problema de Europa en medio del diálogo entre EE.UU. y Rusia",
+      "link": "https://actualidad-rt.com/actualidad/633657-mayor-problema-europa-medio-dialogo-eeuu-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "¿Qué alimenta la rabia en las calles de Europa?",
-      "link": "https://actualidad-rt.com/actualidad/633485-tres-fuerzas-rabia-calles-europeas?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "'Robar lo robado': Caos por helado durante disturbios en Milán (VIDEO)",
+      "link": "https://actualidad-rt.com/actualidad/633679-saqueador-robar-helado-milan-video?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "\"Preparamos varios tanqueros\": Putin aborda el acuerdo de diésel con EE.UU. en su reunión con Witkoff",
-      "link": "https://actualidad-rt.com/actualidad/633511-putin-acuerdo-diesel-eeuu-reunion-witkoff?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "VIDEO: Hace una arriesgada maniobra y el castigo llega instantáneamente",
+      "link": "https://actualidad-rt.com/actualidad/633680-video-trailer-embestido-tren-vuelta-vias?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Rusia captura a un mercenario alemán que desertó de las filas ucranianas tras una promesa incumplida",
-      "link": "https://actualidad-rt.com/actualidad/633502-rusia-captura-mercenario-aleman-abandono?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Irán advierte que el alcance de confrontación \"se extenderá\" bajo este escenario",
+      "link": "https://actualidad-rt.com/actualidad/633673-iran-eeuu-facilitar-navegacion-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "La sorprendente solución de Trump tras \"observar los centros de datos muy de cerca\"",
-      "link": "https://actualidad-rt.com/actualidad/633499-trump-observar-centros-datos-conclusion-firme?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Una modelo desaparece misteriosamente en Colombia",
+      "link": "https://actualidad-rt.com/actualidad/633676-modelo-desaparece-misteriosamente-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all"
     }
   ],
   "Telesur": [],
