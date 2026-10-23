@@ -1,71 +1,92 @@
 {
-  "Ministerio de Comunas": [],
+  "Ministerio de Comunas": [
+    {
+      "titulo": "Llegan recursos a las Comunas tras segunda Consulta Popular Nacional 2026",
+      "link": "https://www.comunas.gob.ve/2026/10/20/llegan-recursos-a-las-comunas-tras-segunda-consulta-popular-nacional-2026/"
+    },
+    {
+      "titulo": "Fundacomunal y Sunacoop promueven la prevención del cáncer de mama con conversatorio dirigido a sus trabajadoras",
+      "link": "https://www.comunas.gob.ve/2026/10/19/fundacomunal-y-sunacoop-promueven-la-prevencion-del-cancer-de-mama-con-conversatorio-dirigido-a-sus-trabajadoras/"
+    },
+    {
+      "titulo": "Financiamiento para proyectos de la segunda Consulta Popular Nacional comenzará la próxima semana",
+      "link": "https://www.comunas.gob.ve/2026/10/19/financiamiento-para-proyectos-de-la-segunda-consulta-popular-nacional-comenzara-la-proxima-semana/"
+    },
+    {
+      "titulo": "Comunero Ángel Prado: “Con esta Consulta Popular se demuestra que Venezuela en unidad defiende su Democracia”",
+      "link": "https://www.comunas.gob.ve/2026/10/18/comunero-angel-prado-consulta-popular-demuestra-venezuela-unidad-defiende-democracia/"
+    },
+    {
+      "titulo": "Poder Popular de El Valle y Coche ejercen su derecho al voto en la Segunda Consulta Popular Nacional 2026",
+      "link": "https://www.comunas.gob.ve/2026/10/18/poder-popular-de-el-valle-y-coche-ejercen-su-derecho-al-voto-en-la-segunda-consulta-popular-nacional-2026/"
+    }
+  ],
   "Mippci Medios Comunitarios": [
     {
-      "titulo": "INTT iniciará Ruta Universitaria de Trámites Vehiculares en Miranda",
-      "link": "https://mippci.gob.ve/intt-iniciara-ruta-universitaria-de-tramites-vehiculares-en-miranda/"
+      "titulo": "Despliegan II fase del Programa Nacional Semilleros Científicos en Guárico",
+      "link": "https://mippci.gob.ve/despliegan-ii-fase-del-programa-nacional-semilleros-cientificos-en-guarico/"
     },
     {
-      "titulo": "Avanza instalación de tuberías y reemplazo de colectores en Falcón",
-      "link": "https://mippci.gob.ve/avanza-instalacion-de-tuberias-y-reemplazo-de-colectores-en-falcon/"
+      "titulo": "Inicia rehabilitación del CDI Ezequiel Zamora para favorecer a 14 mil habitantes en Cojedes",
+      "link": "https://mippci.gob.ve/inicia-rehabilitacion-del-cdi-ezequiel-zamora-para-favorecer-a-14-mil-habitantes-en-cojedes/"
     },
     {
-      "titulo": "Entregan títulos de tierras urbanas a familias de Aragua",
-      "link": "https://mippci.gob.ve/entregan-titulos-de-tierras-urbanas-a-familias-de-aragua/"
+      "titulo": "Celebran I Encuentro Regional de Prestadores de Turísticos en Mérida",
+      "link": "https://mippci.gob.ve/celebran-i-encuentro-regional-de-prestadores-de-turisticos-en-merida/"
     },
     {
-      "titulo": "Jornada de cedulación atendió comunidades de Tocuyito",
-      "link": "https://mippci.gob.ve/jornada-de-cedulacion-atendio-comunidades-de-tocuyito/"
+      "titulo": "Avanza sustitución de red de aguas servidas en sector de Guarenas",
+      "link": "https://mippci.gob.ve/avanza-sustitucion-de-red-de-aguas-servidas-en-sector-de-guarenas/"
     },
     {
-      "titulo": "Impulsan II Consulta Universitaria en Aragua",
-      "link": "https://mippci.gob.ve/impulsan-ii-consulta-universitaria-en-aragua/"
+      "titulo": "Misión Milagro ejecuta 370 intervenciones oftalmológicas gratuitas en Monagas",
+      "link": "https://mippci.gob.ve/mision-milagro-ejecuta-370-intervenciones-oftalmologicas-gratuitas-en-monagas/"
     }
   ],
   "Correo del Orinoco": [],
   "El Mazo Dando": [],
   "VTV": [
     {
-      "titulo": "BCV | Dólar se cotiza en Bs. 884,74 y el euro en Bs. 993,21",
-      "link": "https://vtv.com.ve/bcv-dolar-cotiza-bs88474-euro-bs99321/"
+      "titulo": "BCV | Dólar se cotiza en Bs. 886,22 y el euro en Bs. 993,08",
+      "link": "https://vtv.com.ve/bcv-dolar-se-cotiza-en-bs-88622-y-el-euro-en-bs-99308/"
     },
     {
-      "titulo": "Capturan a un hombre por hurto en colegios y centros culturales en Monagas",
-      "link": "https://vtv.com.ve/capturan-hombre-hurto-colegioscentros-culturales-monagas/"
+      "titulo": "Amaranta Pérez en «Con Silva de Noche»: La música tradicional es el mantra de nuestra identidad",
+      "link": "https://vtv.com.ve/amaranta-perez-musica-tradicional-mantra-nuestra-identidad/"
     },
     {
-      "titulo": "Carrera nocturna We Run Rayocero Led reunirá deporte, luz y marcas en Falcón",
-      "link": "https://vtv.com.ve/carrera-nocturna-werunrayoceroled-reunira-deporte-falcon/"
+      "titulo": "Navegantes sumó su segundo triunfo de la temporada al vencer a Caribes en Valencia",
+      "link": "https://vtv.com.ve/navegantes-sumo-segundo-triunfo-temporada-vencer-caribes/"
     },
     {
-      "titulo": "Culmina tercera ronda de diálogo entre el Gobierno nacional y exdiputados de 2015 con seis acuerdos",
-      "link": "https://vtv.com.ve/culmina-tercera-ronda-dialogo-gobierno-nacional-exdiputados2015/"
+      "titulo": "Instalan nueve transformadores para optimizar el servicio eléctrico en Anaco",
+      "link": "https://vtv.com.ve/instalan-nueve-transformadores-optimizar-servicio-electrico/"
     },
     {
-      "titulo": "Jorge Rodríguez: Venezuela controla todos los recursos generados por la venta de petróleo",
-      "link": "https://vtv.com.ve/jorge-rodriguez-venezuela-controla-recursos-venta-petroleo/"
+      "titulo": "Dictarán Diplomado de Muñequería Artesanal Tradicional Venezolana en Yaracuy",
+      "link": "https://vtv.com.ve/dictaran-diplomado-munequeria-artesanal-venezolana-yaracuy/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Diosdado Cabello destaca la alta participación femenina en la segunda Consulta Nacional Popular 2026",
-      "link": "https://rnv.gob.ve/cabello-destaca-participacion-femenina-consulta/"
+      "titulo": "Héctor Rodríguez sostiene encuentro con movimientos sociales de Amazonas para fortalecer gestión comunal",
+      "link": "https://rnv.gob.ve/hector-rodriguez-amazonas/"
     },
     {
-      "titulo": "Diosdado Cabello calificó de extraordinaria la jornada de la Consulta Popular Nacional",
-      "link": "https://rnv.gob.ve/cabello-califica-extraordinaria-consulta-popular/"
+      "titulo": "Sapi estrena portal web para agilizar trámites y registro de propiedad intelectual",
+      "link": "https://rnv.gob.ve/sapi-estrena-nuevo-portal-web/"
     },
     {
-      "titulo": "Diálogo Nacional discute creación de defensoría de garantías políticas",
-      "link": "https://rnv.gob.ve/dialogo-nacional-defensoria-garantias/"
+      "titulo": "Gobernador Freddy Bernal inicia rehabilitación integral del puente Burgua tras daños por lluvias",
+      "link": "https://rnv.gob.ve/rehabilitacion-puente-burgua/"
     },
     {
-      "titulo": "Delegaciones de Diálogo Nacional insisten en recuperar el oro venezolano retenido en Reino Unido",
-      "link": "https://rnv.gob.ve/dialogo-insisten-en-recuperar-el-oro-en-reino-unido/"
+      "titulo": "La Guaira despliega más de 100 atletas en los Juegos Nacionales Comunales 2026",
+      "link": "https://rnv.gob.ve/la-guaira-atletas-juegos-nacionales-comunales/"
     },
     {
-      "titulo": "Delegaciones del Diálogo Nacional priorizan recuperación económica del país",
-      "link": "https://rnv.gob.ve/dialogo-nacional-prioriza-recuperacion-economica/"
+      "titulo": "Presidenta destaca acuerdos sobre garantías políticas, justicia y recuperación económica en mesa de diálogo",
+      "link": "https://rnv.gob.ve/presidenta-destaca-acuerdos-mesa-dialogo/"
     }
   ],
   "Radio Mundial": [
@@ -90,7 +111,28 @@
       "link": "https://radiomundial.com.ve/gobernacion-del-tachira-promovio-la-prevencion-del-cancer-de-mama-con-arte-y-cultura/"
     }
   ],
-  "La Radio del Sur": [],
+  "La Radio del Sur": [
+    {
+      "titulo": "Sondeo refleja empate numérico entre Lula y Bolsonaro a tres días de balotaje en Brasil",
+      "link": "https://www.laradiodelsur.com.ve/sondeo-refleja-empate-numerico-entre-lula-y-bolsonaro-a-tres-dias-de-balotaje-en-brasil/"
+    },
+    {
+      "titulo": "Cabello: ¡Hoy la mujer venezolana es el motor en cualquier lugar!",
+      "link": "https://www.laradiodelsur.com.ve/cabello-hoy-la-mujer-venezolana-es-el-motor-en-cualquier-lugar/"
+    },
+    {
+      "titulo": "Presidenta Rodríguez insta a las mujeres a continuar el trabajo por el progreso de Venezuela",
+      "link": "https://www.laradiodelsur.com.ve/presidenta-rodriguez-insta-a-las-mujeres-a-continuar-el-trabajo-por-el-progreso-de-venezuela/"
+    },
+    {
+      "titulo": "Deuda pública del Reino Unido supera por primera vez los 3 billones de libras",
+      "link": "https://www.laradiodelsur.com.ve/deuda-publica-del-reino-unido-supera-por-primera-vez-los-3-billones-de-libras/"
+    },
+    {
+      "titulo": "Cuba denuncia impacto extraterritorial del bloqueo estadounidense",
+      "link": "https://www.laradiodelsur.com.ve/cuba-denuncia-impacto-extraterritorial-del-bloqueo-estadounidense/"
+    }
+  ],
   "Ministerio de Cultura": [
     {
       "titulo": "Mateo Manaure: el maestro que ilumina Caracas con sus figuras y colores",
@@ -116,24 +158,24 @@
   "Agencia Xinhua": [],
   "RT en Español": [
     {
-      "titulo": "Este es el mayor problema de Europa en medio del diálogo entre EE.UU. y Rusia",
-      "link": "https://actualidad-rt.com/actualidad/633657-mayor-problema-europa-medio-dialogo-eeuu-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Un muerto y varios heridos tras ataque de un hombre armado cerca de París",
+      "link": "https://actualidad-rt.com/actualidad/633865-hombre-armado-matar-persona-herir-paris?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "'Robar lo robado': Caos por helado durante disturbios en Milán (VIDEO)",
-      "link": "https://actualidad-rt.com/actualidad/633679-saqueador-robar-helado-milan-video?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Cuando el perdón puede esperar: cura italiano responde con un dedo medio a un manifestante",
+      "link": "https://actualidad-rt.com/actualidad/633856-perdon-esperar-cura-italiano-manifestante?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "VIDEO: Hace una arriesgada maniobra y el castigo llega instantáneamente",
-      "link": "https://actualidad-rt.com/actualidad/633680-video-trailer-embestido-tren-vuelta-vias?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Impactante cifra: ¿cuánta gente murió por el calor de este verano en Europa?",
+      "link": "https://actualidad-rt.com/actualidad/633851-verano-mortal-europa-registra-50000-muertes-calor?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Irán advierte que el alcance de confrontación \"se extenderá\" bajo este escenario",
-      "link": "https://actualidad-rt.com/actualidad/633673-iran-eeuu-facilitar-navegacion-ormuz?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Estrangulaba gatos, golpeó a su esposa embarazada y sirvió a Hitler",
+      "link": "https://actualidad-rt.com/a-fondo/633749-estrangulaba-gatos-hitler-embarazada-bandera?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Una modelo desaparece misteriosamente en Colombia",
-      "link": "https://actualidad-rt.com/actualidad/633676-modelo-desaparece-misteriosamente-colombia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "El Kremlin da detalles de las negociaciones trilaterales con Kiev y Washington",
+      "link": "https://actualidad-rt.com/actualidad/633861-kremlin-da-detalles-negociaciones-trilaterales?utm_source=rss&utm_medium=rss&utm_campaign=all"
     }
   ],
   "Telesur": [],
