@@ -1,6 +1,14 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "La Comuna avanza y produce: El Poder Popular consolida su desarrollo económico en Alberto Adriani",
+      "link": "https://www.comunas.gob.ve/2026/10/25/la-comuna-avanza-y-produce-el-poder-popular-consolida-su-desarrollo-economico-en-alberto-adriani/"
+    },
+    {
+      "titulo": "Mérida y el Poder Popular consolidaron el éxito de la segunda Consulta Popular Nacional 2026",
+      "link": "https://www.comunas.gob.ve/2026/10/25/merida-y-el-poder-popular-consolidaron-el-exito-de-la-segunda-consulta-popular-nacional-2026/"
+    },
+    {
       "titulo": "​El Poder Popular de Irapa consolida su protagonismo agrícola con la aprobación de financiamiento para el segundo proyecto de la Consulta Popular",
       "link": "https://www.comunas.gob.ve/2026/10/24/el-poder-popular-de-irapa-consolida-su-protagonismo-agricola-con-la-aprobacion-de-financiamiento-para-el-segundo-proyecto-de-la-consulta-popular/"
     },
@@ -11,14 +19,6 @@
     {
       "titulo": "Plan Venezuela Alimenta Hambre Cero consolida la producción Comunal y asegura el abastecimiento Nacional",
       "link": "https://www.comunas.gob.ve/2026/10/24/plan-venezuela-alimenta-hambre-cero-consolida-la-produccion-comunal-y-asegura-el-abastecimiento-nacional/"
-    },
-    {
-      "titulo": "Nace Plan Comunal del Cacao con la participación de 120 Comunas a nivel nacional",
-      "link": "https://www.comunas.gob.ve/2026/10/23/nace-plan-comunal-del-cacao-con-la-participacion-de-120-comunas-a-nivel-nacional/"
-    },
-    {
-      "titulo": "​El Poder Popular consolida al Municipio Antonio Pinto Salinas como un territorio 100 % Comunal",
-      "link": "https://www.comunas.gob.ve/2026/10/23/el-poder-popular-consolida-al-municipio-antonio-pinto-salinas-como-un-territorio-100-comunal/"
     }
   ],
   "Mippci Medios Comunitarios": [
@@ -47,46 +47,46 @@
   "El Mazo Dando": [],
   "VTV": [
     {
-      "titulo": "LVBP: Leones del Caracas explotó el relevo del Magallanes y le dio una paliza en el Monumental",
-      "link": "https://vtv.com.ve/lvbp-leones-del-caracas-exploto-el-relevo-del-magallanes-y-le-dio-una-paliza-en-el-monumental/"
+      "titulo": "LVBP: Caracas barre a Magallanes y lo hunde en el sótano",
+      "link": "https://vtv.com.ve/lvbp-caracas-barre-a-magallanes-y-lo-hunde-en-el-sotano/"
     },
     {
-      "titulo": "Liga Futve: Táchira le arrancó el Clásico al Caracas FC e inicia con triunfo el cuadrangular del Clausura",
-      "link": "https://vtv.com.ve/liga-futve-tachira-le-arranco-el-clasico-al-caracas-fc-e-inicia-con-triunfo-el-cuadrangular-del-clausura/"
+      "titulo": "Venezuela felicita la masiva participación del pueblo de Brasil y triunfo de Lula",
+      "link": "https://vtv.com.ve/venezuela-felicita-masiva-participacion-pueblo-brasil-triunfo-lula/"
     },
     {
-      "titulo": "Más de mil trabajadores del agua celebran Fiestas Populares del Pescador en Apure",
-      "link": "https://vtv.com.ve/mas-trabajadores-celebran-fiestas-populares-pescador-apure/"
+      "titulo": "Lula remonta y gana la presidencia de Brasil en el balotaje",
+      "link": "https://vtv.com.ve/lula-remonta-y-gana-la-presidencia-de-brasil-en-el-balotaje/"
     },
     {
-      "titulo": "Ana Alves: Simplificación tributaria impulsará el desarrollo de sectores productivos",
-      "link": "https://vtv.com.ve/ana-alves-simplificacion-tributaria-impulsara-desarrollo-productivos/"
+      "titulo": "Avanza rehabilitación de 540 viviendas en urbanismo Marapa Marina en Catia La Mar",
+      "link": "https://vtv.com.ve/avanza-rehabilitacion-viviendas-urbanismo-catia-la-mar/"
     },
     {
-      "titulo": "Lula da Silva pide defender la soberanía de Brasil en acto de campaña",
-      "link": "https://vtv.com.ve/lula-silva-defender-soberania-brasil-acto-campana/"
+      "titulo": "Entregan 4.500 plantas de café variedad Castillo a productores del estado Trujillo",
+      "link": "https://vtv.com.ve/entregan-plantas-cafe-variedad-castillo-productores-trujillo/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Cardenales desploma de la cima a Tigres en Maracay",
-      "link": "https://rnv.gob.ve/cardenales-desploma-de-la-cima-a-tigres-en-maracay/"
+      "titulo": "Presidenta Delcy Rodríguez activó el Plan Venezuela Alimenta con producción nacional de más de 90% de rubros",
+      "link": "https://rnv.gob.ve/presidenta-delcy-rodriguez-activo-el-plan-venezuela-alimenta-con-produccion-nacional-de-mas-de-90-de-rubros/"
     },
     {
-      "titulo": "Impulsan agricultura del café con entrega de más de cuatro mil plantas en Trujillo",
-      "link": "https://rnv.gob.ve/impulsan-agricultura-del-cafe-con-cuatro-mil-plantas/"
+      "titulo": "Venezuela felicita a Brasil por la reelección de Lula da Silva",
+      "link": "https://rnv.gob.ve/venezuela-felicita-a-brasil-por-la-reeleccion-de-lula/"
     },
     {
-      "titulo": "Garantizan insumos para el control de la malaria en municipios selváticos de Amazonas",
-      "link": "https://rnv.gob.ve/insumos-para-control-de-malaria-municipios-de-amazonas/"
+      "titulo": "Guaiqueríes de Margarita vence a Piratas de La Guaira y frena racha adversa en la LSB",
+      "link": "https://rnv.gob.ve/guaiqueries-de-margarita-vence-a-piratas-de-la-guaira/"
     },
     {
-      "titulo": "Costaneros vence a Trotamundos en apretado duelo de baloncesto",
-      "link": "https://rnv.gob.ve/costaneros-vence-a-trotamundos-de-manera-ajustada/"
+      "titulo": "Trotamundos se toma la revancha ante Costaneros en Valencia",
+      "link": "https://rnv.gob.ve/trotamundos-aplico-venganza-ante-costaneros-en-el-forum/"
     },
     {
-      "titulo": "Hito de medicina avanzada llega a Venezuela para tratamiento de arritmias cardíacas",
-      "link": "https://rnv.gob.ve/medicina-avanzada-venezuela-para-tratamiento-de-arritmias/"
+      "titulo": "Calendario Sudeban: Lunes 26 de octubre será feriado bancario por el natalicio de San José Gregorio Hernández",
+      "link": "https://rnv.gob.ve/lunes-26-de-octubre-feriado-bancario-por-natalicio-jgh/"
     }
   ],
   "Radio Mundial": [
@@ -111,7 +111,28 @@
       "link": "https://radiomundial.com.ve/gobernacion-del-tachira-promovio-la-prevencion-del-cancer-de-mama-con-arte-y-cultura/"
     }
   ],
-  "La Radio del Sur": [],
+  "La Radio del Sur": [
+    {
+      "titulo": "EFEMÉRIDES | Hace 162 años nació en Isnotú, san José Gregorio Hernández, el médico de los pobres",
+      "link": "https://www.laradiodelsur.com.ve/efemerides-162-anos-nacio-en-isnotu-san-jose-gregorio-hernandez-el-medico-de-los-pobres/"
+    },
+    {
+      "titulo": "Venezuela celebra masiva participación en segunda vuelta electoral de Brasil",
+      "link": "https://www.laradiodelsur.com.ve/venezuela-celebra-masiva-participacion-en-segunda-vuelta-electoral-de-brasil/"
+    },
+    {
+      "titulo": "BCV y Cepal evalúan perspectivas económicas y fortalecen agenda de cooperación",
+      "link": "https://www.laradiodelsur.com.ve/bcv-y-cepal-evaluan-perspectivas-economicas-y-fortalecen-agenda-de-cooperacion/"
+    },
+    {
+      "titulo": "Expresidente de Serbia Vucic, reconoce derrota electoral de su alianza y vaticina sanciones antirrusas",
+      "link": "https://www.laradiodelsur.com.ve/expresidente-de-serbia-vucic-reconoce-derrota-electoral-de-su-alianza-y-vaticina-sanciones-antirrusas/"
+    },
+    {
+      "titulo": "«Hermano del alma y compañero de lucha»: Reacciones de América Latina tras triunfo de Lula",
+      "link": "https://www.laradiodelsur.com.ve/hermano-del-alma-y-companero-de-lucha-reacciones-de-america-latina-tras-triunfo-de-lula/"
+    }
+  ],
   "Ministerio de Cultura": [
     {
       "titulo": "Mateo Manaure: el maestro que ilumina Caracas con sus figuras y colores",
@@ -137,24 +158,24 @@
   "Agencia Xinhua": [],
   "RT en Español": [
     {
-      "titulo": "Putin explica cómo Europa se volvió contra EE.UU. en medio de las protestas",
-      "link": "https://actualidad-rt.com/actualidad/634167-putin-explica-europa-contra-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Expulsan a Neymar con la 'Ley Vinícius' por taparse la boca y estalla contra su rival (VIDEO)",
+      "link": "https://actualidad-rt.com/viral/634390-expulsar-neymar-taparse-boca-ley-vinicius?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "¿Por qué los inversores evitan cada vez más Francia?",
-      "link": "https://actualidad-rt.com/actualidad/634154-bizarre-inversores-evitar-francia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "El Kremlin comenta los resultados de las elecciones en Serbia",
+      "link": "https://actualidad-rt.com/actualidad/634405-kremlin-comenta-resultados-elecciones-serbia?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "\"Nada será como antes\": Irán afirma que el conflicto en Oriente Medio lo cambia todo, \"incluido Ormuz\"",
-      "link": "https://actualidad-rt.com/actualidad/634165-iran-volvera-conflicto-oriente-medio?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Putin felicita a Lula da Silva por su reelección como presidente de Brasil",
+      "link": "https://actualidad-rt.com/actualidad/634404-putin-felicita-lula-da-silva?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "País de la OTAN afirma que debe estar listo para la guerra en 1.000 días",
-      "link": "https://actualidad-rt.com/actualidad/634166-ministro-defensa-britanico-reino-unido-listo-guerra-1000-dias?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Arrestan a un empleado de la CIA por filtrar información de defensa altamente sensible a su amante",
+      "link": "https://actualidad-rt.com/actualidad/634379-arrestan-empleado-cia-filtrar-informacion-sensible-amante?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Brasil decide entre Lula y Bolsonaro en un reñido balotaje, MINUTO A MINUTO",
-      "link": "https://actualidad-rt.com/actualidad/634006-brasil-votar-balotaje-lula-bolsonaro?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Netanyahu y el jefe de las FDI chocan por una acción militar contra Irán",
+      "link": "https://actualidad-rt.com/actualidad/634376-netanyahu-jefe-mayor-idf-chocan-accion-militar-iran?utm_source=rss&utm_medium=rss&utm_campaign=all"
     }
   ],
   "Telesur": [],
