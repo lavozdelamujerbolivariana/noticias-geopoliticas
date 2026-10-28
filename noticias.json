@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "El Poder Popular en Trujillo consolida su autoridad territorial para impulsar nuevos proyectos comunitarios",
+      "link": "https://www.comunas.gob.ve/2026/10/27/el-poder-popular-en-trujillo-consolida-su-autoridad-territorial-para-impulsar-nuevos-proyectos-comunitarios/"
+    },
+    {
       "titulo": "La Comuna avanza y produce: El Poder Popular consolida su desarrollo económico en Alberto Adriani",
       "link": "https://www.comunas.gob.ve/2026/10/25/la-comuna-avanza-y-produce-el-poder-popular-consolida-su-desarrollo-economico-en-alberto-adriani/"
     },
@@ -15,78 +19,74 @@
     {
       "titulo": "CIARA y CVAUP impulsan la formación integral y la conciencia soberana frente al escenario petrolero nacional",
       "link": "https://www.comunas.gob.ve/2026/10/24/ciara-y-cvaup-impulsan-la-formacion-integral-y-la-conciencia-soberana-frente-al-escenario-petrolero-nacional/"
-    },
-    {
-      "titulo": "Plan Venezuela Alimenta Hambre Cero consolida la producción Comunal y asegura el abastecimiento Nacional",
-      "link": "https://www.comunas.gob.ve/2026/10/24/plan-venezuela-alimenta-hambre-cero-consolida-la-produccion-comunal-y-asegura-el-abastecimiento-nacional/"
     }
   ],
   "Mippci Medios Comunitarios": [
     {
-      "titulo": "Corpoelec instala transformadores de alta potencia en Santa Rosalía y San Bernardino",
-      "link": "https://mippci.gob.ve/corpoelec-instala-transformadores-de-alta-potencia-en-santa-rosalia-y-san-bernardino/"
+      "titulo": "Escuela para Padres refuerza protección de la niñez en Aragua",
+      "link": "https://mippci.gob.ve/escuela-para-padres-refuerza-proteccion-de-la-ninez-en-aragua/"
     },
     {
-      "titulo": "Sustituyen circuito de media tensión en la avenida Francisco de Miranda de Caracas",
-      "link": "https://mippci.gob.ve/sustituyen-circuito-de-media-tension-en-la-avenida-francisco-de-miranda-de-caracas/"
+      "titulo": "InaMujer dicta taller de prevención contra el cáncer de mama en Coro",
+      "link": "https://mippci.gob.ve/inamujer-dicta-taller-de-prevencion-de-cancer-de-mama-en-coro/"
     },
     {
-      "titulo": "Despliegan jornadas contra el cáncer de mama en los 11 municipios de Bolívar",
-      "link": "https://mippci.gob.ve/despliegan-jornadas-contra-el-cancer-de-mama-en-los-11-municipios-de-bolivar/"
+      "titulo": "Ruta de la Comunicación llega al estado Portuguesa",
+      "link": "https://mippci.gob.ve/ruta-de-la-comunicacion-llega-al-estado-portuguesa/"
     },
     {
-      "titulo": "Inició sustitución de colectores en Maracaibo para mejorar servicio de aguas servidas",
-      "link": "https://mippci.gob.ve/inicio-sustitucion-de-colectores-en-maracaibo-para-mejorar-servicio-de-aguas-servidas/"
+      "titulo": "Comienza en Falcón plan de alimentación con activación del comedor comunitario",
+      "link": "https://mippci.gob.ve/comienza-en-falcon-plan-de-alimentacion-con-activacion-del-comedor-comunitario/"
     },
     {
-      "titulo": "Hospital Universitario de Coro estrena moderna unidad de Oncología",
-      "link": "https://mippci.gob.ve/hospital-universitario-de-coro-estrena-moderna-unidad-de-oncologia/"
+      "titulo": "Plan Quirúrgico Nacional realiza 151 intervenciones médicas en cinco centros de salud de Zulia",
+      "link": "https://mippci.gob.ve/plan-quirurgico-nacional-realiza-151-intervenciones-medicas-en-cinco-centros-de-salud-de-zulia/"
     }
   ],
   "Correo del Orinoco": [],
   "El Mazo Dando": [],
   "VTV": [
     {
-      "titulo": "BCV | Dólar se cotiza en Bs. 887,30 y el euro en Bs. 994,03",
-      "link": "https://vtv.com.ve/bcv-dolar-cotiza-bs88730-euro-bs99403/"
+      "titulo": "BCV | Dólar se cotiza en Bs. 888,11 y el euro en Bs. 989,71",
+      "link": "https://vtv.com.ve/bcv-dolar-se-cotiza-en-bs-88811-y-el-euro-en-bs-98971/"
     },
     {
-      "titulo": "Juan Alvarado: Es fundamental que el país pase a la etapa de reconocerse y respetarse",
-      "link": "https://vtv.com.ve/juan-fundamental-pais-etapa-reconocerse-respetarse/"
+      "titulo": "LVBP: Así van las posiciones, tras los juegos de este martes",
+      "link": "https://vtv.com.ve/lvbp-asi-van-las-posiciones-tras-los-juegos-de-este-martes/"
     },
     {
-      "titulo": "Diagnosticar a tiempo salva vidas: “Con Silva de Noche» promueve cultura de prevención contra el cáncer de mama",
-      "link": "https://vtv.com.ve/con-silva-noche-promueve-cultura-prevencion-cancer-mama/"
+      "titulo": "Programa “Con Silva de Noche” invita a cultivar la fe, la esperanza y el perdón",
+      "link": "https://vtv.com.ve/programa-silva-noche-invita-cultivar-fe-esperanza-perdon/"
     },
     {
-      "titulo": "Evalúan suplementación alimentaria en colmenas para mitigar efectos del período de lluvias",
-      "link": "https://vtv.com.ve/evaluan-suplementacion-alimentaria-colmenas-mitigar-lluvias/"
+      "titulo": "Nueva Ley de Protección a la Actividad Ganadera debe sancionar con mayor firmeza el abigeato",
+      "link": "https://vtv.com.ve/nueva-ley-proteccion-actividad-ganadera-sancionar-abigeato/"
     },
     {
-      "titulo": "Despliegan jornadas científicas en Falcón, Anzoátegui, Bolívar y Sucre para fortalecer vocaciones tempranas",
-      "link": "https://vtv.com.ve/despliegan-jornadas-cientificas-falcon-anzoategui-bolivar-sucre/"
+      "titulo": "Jefa de Estado: Acuerdos internacionales garantizan la recuperación económica y crecimiento próspero del país",
+      "link": "https://vtv.com.ve/jefa-estado-acuerdos-internacionales-garantizan-recuperacion-economica/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Presidenta Delcy Rodríguez anuncia concierto para el inicio de la Navidad este 1° de noviembre",
-      "link": "https://rnv.gob.ve/delcy-rodriguez-anuncia-concierto-inicio-navidad/"
+      "titulo": "Radiotom El Original: destacará el papel de la mujer en la salsa",
+      "link": "https://rnv.gob.ve/radiotom-el-original-papel-de-la-mujer-a-la-salsa/"
     },
     {
-      "titulo": "Legislativo y Ejecutivo afinan agenda de trabajo enfocada en el bienestar social",
-      "link": "https://rnv.gob.ve/legislativo-ejecutivo-afinan-agenda-trabajo/"
+      "titulo": "Ministerio de Salud distribuyó 12.740 unidosis de medicamentos en San Felipe",
+      "link": "https://rnv.gob.ve/minsalud-distribuyo-medicamentos-san-felipe/"
     },
     {
-      "titulo": "Fiscal Larry Devoe inspecciona sedes del Ministerio Público en Mérida para optimizar acceso a la justicia",
-      "link": "https://rnv.gob.ve/fiscal-larry-devoe-inspecciona-sedes-merida/"
+      "titulo": "Museo de Ciencias invita a celebrar la Navidad este 1 de noviembre con música en vivo",
+      "link": "https://rnv.gob.ve/museo-de-ciencias-invita-celebrar-navidad-1-noviembre/"
     },
     {
-      "titulo": "Agencia Bolivariana de Actividades Espaciales, ABAE, cumple 19 años al servicio del desarrollo del país",
-      "link": "https://rnv.gob.ve/abae-cumple-19-anos-desarrollo-espacial/"
+      "titulo": "Ipostel y Correo Uruguayo evalúan reactivación de tráfico postal",
+      "link": "https://rnv.gob.ve/ipostel-y-correo-uruguayo-reactivacion-trafico-postal/"
     },
     {
-      "titulo": "Seniat resalta reingreso al CIAT para modernizar sistema tributario",
-      "link": "https://rnv.gob.ve/seniat-destaca-reingreso-al-ciat/"
+      "titulo": "El Tribunal Supremo de Justicia descentraliza el juzgamiento de causas penales en materia de adolescentes",
+      "link": "https://rnv.gob.ve/tsj-descentraliza-juzgamiento-penales-adolescentes/"
     }
   ],
   "Radio Mundial": [
@@ -111,28 +111,7 @@
       "link": "https://radiomundial.com.ve/gobernacion-del-tachira-promovio-la-prevencion-del-cancer-de-mama-con-arte-y-cultura/"
     }
   ],
-  "La Radio del Sur": [
-    {
-      "titulo": "Agencia Internacional de Energía descarta pronta recuperación de los mercados de hidrocarburos",
-      "link": "https://www.laradiodelsur.com.ve/agencia-internacional-de-energia-descarta-pronta-recuperacion-de-los-mercados-de-hidrocarburos/"
-    },
-    {
-      "titulo": "Vicepresidencia de Planificación convoca al curso “Hábitat y Ciudad: Del territorio construido al espacio habitado”",
-      "link": "https://www.laradiodelsur.com.ve/vicepresidencia-de-planificacion-convoca-al-curso-habitat-y-ciudad-del-territorio-construido-al-espacio-habitado/"
-    },
-    {
-      "titulo": "La hora de Cuba en Naciones Unidas",
-      "link": "https://www.laradiodelsur.com.ve/la-hora-de-cuba-en-naciones-unidas/"
-    },
-    {
-      "titulo": "India acoge XII Foro Parlamentario del Brics",
-      "link": "https://www.laradiodelsur.com.ve/india-acoge-xii-foro-parlamentario-del-brics/"
-    },
-    {
-      "titulo": "Román Maniglia: Seniat simplifica trámites y optimiza procesos para contribuyentes venezolanos",
-      "link": "https://www.laradiodelsur.com.ve/roman-maniglia-seniat-simplifica-tramites-y-optimiza-procesos-para-contribuyentes-venezolanos/"
-    }
-  ],
+  "La Radio del Sur": [],
   "Ministerio de Cultura": [
     {
       "titulo": "Mateo Manaure: el maestro que ilumina Caracas con sus figuras y colores",
@@ -158,24 +137,24 @@
   "Agencia Xinhua": [],
   "RT en Español": [
     {
-      "titulo": "Primer comentario del Kremlin sobre la llamada entre Putin y los líderes de Finlandia y Noruega",
-      "link": "https://actualidad-rt.com/actualidad/634579-primer-comentario-kremlin-llamada-putin?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Pasajeros se ayudan en el lugar de la colisión mortal entre dos trenes en España (VIDEO)",
+      "link": "https://actualidad-rt.com/actualidad/634754-pasajeros-ayudar-lugar-colision-mortal-trenes-espana?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Drones rusos eliminan almacén logístico de tropas ucranianas (VIDEO)",
-      "link": "https://actualidad-rt.com/actualidad/634564-drones-rusos-logistica?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "El vuelo que traslada a Flávio Bolsonaro y su familia sale de Ecuador rumbo a EE.UU.",
+      "link": "https://actualidad-rt.com/actualidad/634747-vuelo-trasladar-flavio-bolsonaro-familia-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Presidente de Finlandia reconoce que se necesita un diálogo directo con Rusia sobre Ucrania",
-      "link": "https://actualidad-rt.com/actualidad/634576-presidente-finlandia-reconoce-resolucion-conflicto-dialogo-rusia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Revelan primera hipótesis sobre posible causa del mortal accidente de trenes en España",
+      "link": "https://actualidad-rt.com/actualidad/634746-primera-hipotesis-posible-causa-accidente-trenes-espana?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Putin mantiene conversación telefónica con los líderes de Noruega y Finlandia",
-      "link": "https://actualidad-rt.com/actualidad/634575-reportan-conversacion-putin-lideres-noruega-finlandia?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Colisión mortal de dos trenes de pasajeros en España (MINUTO A MINUTO)",
+      "link": "https://actualidad-rt.com/actualidad/634739-olision-mortal-trenes-pasajeros-espana?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Salen a la luz detalles escalofriantes del intento de secuestro de un avión en EE.UU.",
-      "link": "https://actualidad-rt.com/actualidad/634554-salen-detalles-escalofriantes-intento-secuestro-avion-eeuu?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Sánchez se pronuncia tras colisión de trenes en Toledo",
+      "link": "https://actualidad-rt.com/actualidad/634740-sanchez-pronuncia-colision-trenes-toledo?utm_source=rss&utm_medium=rss&utm_campaign=all"
     }
   ],
   "Telesur": [],
