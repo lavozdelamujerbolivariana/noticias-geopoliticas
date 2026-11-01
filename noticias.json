@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "‎Trabajadoras de MinComunas, CIARA y CVAUP realizan bailoterapia por la salud y bienestar durante el Mes Rosa",
+      "link": "https://www.comunas.gob.ve/2026/10/31/trabajadoras-mincomunas-ciara-cvaup-realizan-bailoterapia-salud-bienestar-durante-mes-rosa/"
+    },
+    {
       "titulo": "Proyecto Patria Grande del Sur consolida la producción agroecológica Comunal y avanza en la cría bufalina en el estado Bolívar",
       "link": "https://www.comunas.gob.ve/2026/10/30/proyecto-patria-grande-del-sur-consolida-la-produccion-agroecologica-comunal-y-avanza-en-la-cria-bufalina-en-el-estado-bolivar/"
     },
@@ -15,10 +19,6 @@
     {
       "titulo": "El Poder Popular protagonista consolida la soberanía productiva y la Democracia Participativa y Protagónica desde las Comunas",
       "link": "https://www.comunas.gob.ve/2026/10/28/el-poder-popular-protagonista-consolida-la-soberania-productiva-y-la-democracia-participativa-y-protagonica-desde-las-comunas/"
-    },
-    {
-      "titulo": "Miércoles de Radar Comunal promueve la ejecución efectiva de proyectos comunitarios",
-      "link": "https://www.comunas.gob.ve/2026/10/28/miercoles-radar-comunal-promueve-ejecucion-efectiva-proyectos-comunitarios/"
     }
   ],
   "Mippci Medios Comunitarios": [
@@ -47,46 +47,46 @@
   "El Mazo Dando": [],
   "VTV": [
     {
-      "titulo": "Tiburones de La Guaira derrota a Águilas del Zulia en un cerrado encuentro de la LVBP",
-      "link": "https://vtv.com.ve/tiburones-derrota-aguilas-cerrado-encuentro-lvbp/"
+      "titulo": "Delcy Rodríguez visita La Trilla y destaca el amor de las comunidades previo al inicio de la Navidad",
+      "link": "https://vtv.com.ve/delcy-rodriguez-visita-latrilla-destaca-amor-comunidades-navidad/"
     },
     {
-      "titulo": "Programa «Con Silva de Noche» rinde homenaje a la identidad y al talento de Venezuela",
-      "link": "https://vtv.com.ve/silva-noche-rinde-homenaje-identidad-talento-venezuela/"
+      "titulo": "Miles de zulianos recibieron la Bajada de la Virgen de Chiquinquirá",
+      "link": "https://vtv.com.ve/miles-zulianos-recibieron-bajada-virgen-chiquinquira/"
     },
     {
-      "titulo": "Garantizan abastecimiento de hortalizas para el plato navideño del país",
-      "link": "https://vtv.com.ve/garantizan-abastecimiento-hortalizas-plato-navideno/"
+      "titulo": "Rehabilitados cuatro edificios en La Candelaria a través del Plan Venezuela Renace",
+      "link": "https://vtv.com.ve/rehabilitados-edificios-lacandelaria-plan-venezuela-renace/"
     },
     {
-      "titulo": "Venezuela debuta en los Juegos Olímpicos de la Juventud Dakar 2026 este sábado",
-      "link": "https://vtv.com.ve/venezuela-debuta-juegos-olimpicos-juventud-dakar-2026/"
+      "titulo": "Entregan dos edificios rehabilitados en la comunidad Pinto Salinas",
+      "link": "https://vtv.com.ve/entregan-edificios-rehabilitados-comunidad-pinto-salinas/"
     },
     {
-      "titulo": "Supervisan moderno Centro de Atención a la Mujer y Parto Humanizado en Aragua",
-      "link": "https://vtv.com.ve/supervisan-moderno-centro-atencion-mujer-aragua/"
+      "titulo": "Autoridades supervisan construcción del urbanismo «Sueños Azules» en Catia La Mar",
+      "link": "https://vtv.com.ve/autoridades-supervisan-construccion-urbanismo-suenos-azules/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Mercado de Coche moderniza sus conexiones con la fibra óptica de Cantv",
-      "link": "https://rnv.gob.ve/mercado-mayorista-coche-fibra-optica-cantv/"
+      "titulo": "Venezuela ondea su bandera en inauguración de los Juegos Olímpicos de la Juventud Dakar 2026",
+      "link": "https://rnv.gob.ve/inauguracion-juegos-olimpicos-de-la-juventud-dakar-2026/"
     },
     {
-      "titulo": "Margarita recibe el XXI y XXII Festival del Cine Venezolano​",
-      "link": "https://rnv.gob.ve/margarita-festival-cine-venezolano-2026/"
+      "titulo": "Isbemar Jiménez: RNV proyecta mayor inclusión hacia la neurodiversidad para la próxima edición del Radiotom",
+      "link": "https://rnv.gob.ve/rnv-inclusion-neurodiversidad-proxima-edicion-radiotom/"
     },
     {
-      "titulo": "Fibra óptica conecta a más familias y fortalece servicios en centros de salud de La Guaira",
-      "link": "https://rnv.gob.ve/fibra-optica-servicios-salud-la-guaira/"
+      "titulo": "Fundación IDEA impulsa la formación universitaria en el país",
+      "link": "https://rnv.gob.ve/fundacion-idea-impulsa-formacion-universitaria/"
     },
     {
-      "titulo": "Puerto El Guamache incrementa la recepción de carga en octubre",
-      "link": "https://rnv.gob.ve/puerto-el-guamache-incrementa-recepcion-carga-octubre/"
+      "titulo": "Producción agrícola en Mérida garantiza el abastecimiento de hortalizas para la época navideña",
+      "link": "https://rnv.gob.ve/produccion-agricola-garantiza-abastecimiento-de-hortalizas-para-epoca-navidena/"
     },
     {
-      "titulo": "Cierres nocturnos en la Autopista Caracas – La Guaira por labores de bacheo",
-      "link": "https://rnv.gob.ve/autopista-caracas-la-guaira-cierres-nocturnos-bacheo/"
+      "titulo": "Presidenta Delcy Rodríguez comparte con el pueblo de La Trilla el espíritu navideño​",
+      "link": "https://rnv.gob.ve/presidenta-comparte-con-pueblo-de-la-trilla/"
     }
   ],
   "Radio Mundial": [
@@ -111,28 +111,7 @@
       "link": "https://radiomundial.com.ve/gobernacion-del-tachira-promovio-la-prevencion-del-cancer-de-mama-con-arte-y-cultura/"
     }
   ],
-  "La Radio del Sur": [
-    {
-      "titulo": "Especial/ Alí Primera: eco rebelde de la canción necesaria",
-      "link": "https://www.laradiodelsur.com.ve/especial-ali-primera-eco-rebelde-de-la-cancion-necesaria/"
-    },
-    {
-      "titulo": "Procuraduría de Investigaciones Administrativas de Argentina pide reabrir causa $LIBRA",
-      "link": "https://www.laradiodelsur.com.ve/procuraduria-de-investigaciones-administrativas-de-argentina-pide-reabrir-causa-libra/"
-    },
-    {
-      "titulo": "Más de 564 familias obtienen viviendas gracias al Plan Venezuela Renace",
-      "link": "https://www.laradiodelsur.com.ve/mas-de-564-familias-obtienen-viviendas-gracias-al-plan-venezuela-renace/"
-    },
-    {
-      "titulo": "Actividades turísticas en playas de La Guaira se reanudarán este sábado",
-      "link": "https://www.laradiodelsur.com.ve/actividades-turisticas-en-playas-de-la-guaira-se-reanudaran-este-sabado/"
-    },
-    {
-      "titulo": "Análisis / Victoria de Lula en Brasil abre oportunidades para fortalecer la autonomía de América Latina",
-      "link": "https://www.laradiodelsur.com.ve/analisis-victoria-de-lula-en-brasil-abre-oportunidades-para-fortalecer-la-autonomia-de-america-latina/"
-    }
-  ],
+  "La Radio del Sur": [],
   "Ministerio de Cultura": [
     {
       "titulo": "Mateo Manaure: el maestro que ilumina Caracas con sus figuras y colores",
@@ -158,24 +137,24 @@
   "Agencia Xinhua": [],
   "RT en Español": [
     {
-      "titulo": "El líder supremo de Irán presentará importantes directrices estratégicas",
-      "link": "https://actualidad-rt.com/actualidad/635344-lider-supremo-iran-presentara-importantes?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "La incertidumbre en los mercados boicotea la última ronda de financiamiento de OpenAI",
+      "link": "https://actualidad-rt.com/actualidad/635452-incertidumbre-mercados-boicotea-ultima-ronda-financiamiento-openai?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Fundador de Binance frena en seco el troleo de Elon Musk por el millonario ciberataque",
-      "link": "https://actualidad-rt.com/actualidad/635326-fundador-binance-frena-seco-troleo-musk-ciberataque?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "¿Cápsula del tiempo?: El cometa 3I/ATLAS revela secretos del nacimiento de nuestra propia galaxia",
+      "link": "https://actualidad-rt.com/actualidad/635439-capsula-tiempo-cometa-revela-secretos-nacimiento-galaxia?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "VIDEO: Momento en que un coche pierde el control y desata el caos en una acera de Ciudad de México",
-      "link": "https://actualidad-rt.com/viral/635336-video-momento-coche-pierde-control?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Europa, al borde de una nueva crisis energética",
+      "link": "https://actualidad-rt.com/actualidad/635377-europa-borde-nueva-crisis-energetica?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "Drones estadounidenses atacan dos barcos pesqueros iraníes y dejan desaparecidos",
-      "link": "https://actualidad-rt.com/actualidad/635339-drones-estadounidenses-atacan-barcos-pesqueros-iranies-desaparecidos?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "VIDEO: Drones rusos arrasan hasta los cimientos las posiciones ucranianas",
+      "link": "https://actualidad-rt.com/actualidad/635443-video-drones-rusos-arrasan-posiciones-ucranianas?utm_source=rss&utm_medium=rss&utm_campaign=all"
     },
     {
-      "titulo": "\"Priorizar las vidas humanas\": el Ministerio de Defensa ruso cuenta cómo se realizó la evacuación de Alioshki",
-      "link": "https://actualidad-rt.com/actualidad/635333-priorizar-vidas-humanas-ministerio-defensa?utm_source=rss&utm_medium=rss&utm_campaign=all"
+      "titulo": "Más de 500 detenidos en Francia en la última jornada de protestas por el coste de vida",
+      "link": "https://actualidad-rt.com/actualidad/635446-500-detenidos-francia-ultima-jornada?utm_source=rss&utm_medium=rss&utm_campaign=all"
     }
   ],
   "Telesur": [],
