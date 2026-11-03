@@ -55,7 +55,8 @@ jobs:
           ]
 
           resultado = {}
-          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+          ano_actual = "2026"
 
           for f in fuentes:
               try:
@@ -64,11 +65,25 @@ jobs:
                   parsed = feedparser.parse(html)
                   
                   titulares = []
-                  for entry in parsed.entries[:5]: # Extrae los 5 titulares
-                      titulares.append({
-                          "titulo": entry.title,
-                          "link": entry.link
-                      })
+                  for entry in parsed.entries:
+                      link = getattr(entry, 'link', '')
+                      titulo = getattr(entry, 'title', '')
+                      
+                      if link and titulo:
+                          # Omitir enlaces que contengan explícitamente años anteriores (2015 a 2025)
+                          anos_viejos = [str(a) for a in range(2015, int(ano_actual))]
+                          es_viejo = any(f"/{ano}/" in link or f"-{ano}-" in link for ano in anos_viejos)
+                          
+                          if not es_viejo:
+                              titulares.append({
+                                  "titulo": titulo,
+                                  "link": link
+                              })
+                              
+                      # Detener al juntar 5 noticias válidas y recientes
+                      if len(titulares) >= 5:
+                          break
+                          
                   resultado[f['nombre']] = titulares
                   print(f"Éxito: {f['nombre']} ({len(titulares)} noticias)")
               except Exception as e:
@@ -82,7 +97,8 @@ jobs:
       - name: Guardar y publicar el JSON en el Repositorio
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add noticias.json
           git commit -m "Actualización diaria de noticias [6:00 AM]" || exit 0
+          git pull origin main --rebase
           git push
