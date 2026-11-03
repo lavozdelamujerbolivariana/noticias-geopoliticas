@@ -26,6 +26,12 @@ jobs:
       - name: Instalar dependencias
         run: pip install requests beautifulsoup4
 
+      - name: Sincronizar cambios remotos antes de procesar
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase || true
+
       - name: Ejecutar cosechador de noticias
         run: |
           python - << 'EOF'
@@ -37,7 +43,6 @@ jobs:
           from bs4 import BeautifulSoup
           import urllib3
 
-          # Desactivar advertencias de certificados SSL inseguros en sitios del estado
           urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
           ARCHIVO_JSON = "noticias.json"
@@ -60,12 +65,10 @@ jobs:
           ]
 
           def cargar_noticias_anteriores():
-              """Recupera la memoria histórica previa del JSON agrupada o plana"""
               if os.path.exists(ARCHIVO_JSON):
                   try:
                       with open(ARCHIVO_JSON, 'r', encoding='utf-8') as f:
                           data = json.load(f)
-                          # Compatibilidad si el JSON es un diccionario por medios o una lista plana
                           if isinstance(data, dict):
                               plana = []
                               for fuente, lista in data.items():
@@ -96,7 +99,6 @@ jobs:
                       if not enlace or len(enlace) < 5: 
                           continue
                       
-                      # Reconstruir enlaces relativos
                       if enlace.startswith('/'):
                           base = fuente["url"].split("://")[0] + "://" + fuente["url"].split("://")[1].split("/")[0]
                           enlace = f"{base}{enlace}"
@@ -107,7 +109,6 @@ jobs:
                       
                       texto_evaluar = titulo.lower()
                       
-                      # Palabras clave y filtros positivos
                       tiene_kw = any(kw in texto_evaluar for kw in [
                           "comuna", "comunal", "pueblo", "venezuela", "gobierno", "bolivariana", 
                           "cultural", "presidente", "social", "nacional", "rusia", "china", "brics",
@@ -130,7 +131,6 @@ jobs:
                   print(f"⚠️ Error escaneando {fuente['nombre']}: {e}")
               return noticias
 
-          # Proceso principal de cosecha
           print("🛰️ INICIANDO COSECHADOR DE NOTICIAS...")
           noticias_acumuladas = cargar_noticias_anteriores()
           enlaces_vistos = {n.get('link', n.get('enlace', '')) for n in noticias_acumuladas}
@@ -148,15 +148,13 @@ jobs:
                       enlaces_vistos.add(link_item)
               time.sleep(0.5)
 
-          # Fusionar nuevas notas arriba del historial
           lista_final = nuevas_news + noticias_acumuladas
 
-          # Reestructurar en formato de diccionario por medio para que tu widget HTML/JS funcione sin cambios
           resultado_por_medio = {f["nombre"]: [] for f in FUENTES_GEOPOLITICAS}
-          for nota in lista_final[:100]: # Mantener un historial razonable de respaldo
+          for nota in lista_final[:100]:
               nombre_f = nota.get('fuente', 'General')
               if nombre_f in resultado_por_medio:
-                  if len(resultado_por_medio[nombre_f]) < 5: # Máximo 5 por fuente
+                  if len(resultado_por_medio[nombre_f]) < 5:
                       resultado_por_medio[nombre_f].append({
                           "titulo": nota["titulo"],
                           "link": nota.get("link", nota.get("enlace", ""))
@@ -169,9 +167,6 @@ jobs:
 
       - name: Guardar y publicar cambios en el repositorio
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add noticias.json
           git commit -m "Actualización inteligente de noticias [6:00 AM]" || exit 0
-          git pull origin main --rebase || true
-          git push origin main
+          git push origin main --force
