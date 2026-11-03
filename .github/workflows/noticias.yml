@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repositorio
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -32,7 +34,6 @@ jobs:
           import urllib.request
           import ssl
 
-          # Bypass de verificación SSL para medios con certificados vencidos o estrictos
           ctx = ssl.create_default_context()
           ctx.check_hostname = False
           ctx.verify_mode = ssl.CERT_NONE
@@ -70,7 +71,6 @@ jobs:
                       titulo = getattr(entry, 'title', '')
                       
                       if link and titulo:
-                          # Omitir enlaces que contengan explícitamente años anteriores (2015 a 2025)
                           anos_viejos = [str(a) for a in range(2015, int(ano_actual))]
                           es_viejo = any(f"/{ano}/" in link or f"-{ano}-" in link for ano in anos_viejos)
                           
@@ -80,7 +80,6 @@ jobs:
                                   "link": link
                               })
                               
-                      # Detener al juntar 5 noticias válidas y recientes
                       if len(titulares) >= 5:
                           break
                           
@@ -98,7 +97,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase || true
           git add noticias.json
           git commit -m "Actualización diaria de noticias [6:00 AM]" || exit 0
-          git pull origin main --rebase
-          git push
+          git push origin main
