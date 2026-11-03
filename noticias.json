@@ -4,37 +4,65 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-# Configuración de sesión con User-Agent
+# Configuración de sesión con cabeceras de navegador real
 session = requests.Session()
 session.headers.update({
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 })
 
 def obtener_noticias_rss(url_rss):
-    """Extrae entradas desde un Feed RSS estandarizado."""
+    """Extrae entradas desde un Feed RSS (item) o Atom (entry) de forma robusta."""
     noticias = []
     try:
-        response = session.get(url_rss, timeout=10)
+        response = session.get(url_rss, timeout=12)
         if response.status_code == 200:
+            # Usar 'html.parser' o 'xml' según la compatibilidad del servidor
             soup = BeautifulSoup(response.content, 'xml')
-            items = soup.find_all('item')[:5]
-            for item in items:
-                link = item.link.text.strip() if item.link else ""
-                titulo = item.title.text.strip() if item.title else ""
+            
+            # Buscar tanto <item> (RSS) como <entry> (Atom)
+            entradas = soup.find_all(['item', 'entry'])[:10]
+            
+            for item in entradas:
+                # Extraer título de forma segura
+                titulo_tag = item.find(['title', 'titulo'])
+                titulo = titulo_tag.text.strip() if titulo_tag else ""
                 
-                # Filtrar enlaces que contengan años antiguos de forma explícita
-                if link and titulo:
+                # Extraer enlace de forma segura (soporta etiquetas <link> y atributos href)
+                link = ""
+                link_tag = item.find('link')
+                if link_tag:
+                    if link_tag.has_attr('href'):
+                        link = link_tag['href'].strip()
+                    else:
+                        link = link_tag.text.strip()
+                
+                if titulo and link:
                     noticias.append({"titulo": titulo, "link": link})
+                    
     except Exception as e:
-        print(f"Error procesando RSS {url_rss}: {e}")
+        print(f"Error procesando fuente {url_rss}: {e}")
+        
     return noticias
 
 def filtrar_noticias_recientes(lista_noticias, ano_actual="2026"):
-    """Descarta enlaces con referencias explícitas a años anteriores."""
+    """Descarta enlaces con referencias explícitas a años anteriores y duplicados."""
     filtradas = []
+    links_vistos = set()
+    
     for item in lista_noticias:
-        # Si la URL contiene un año de 4 dígitos anterior al actual, se omite
-        anos_viejos = [str(a) for a in range(2010, int(ano_actual))]
-        if not any(f"/{ano}/" in item["link"] for ano in anos_viejos):
+        link = item["link"]
+        
+        # Evitar duplicados en la misma ejecución
+        if link in links_vistos:
+            continue
+            
+        # Omitir si la URL contiene un año anterior al actual (ej: /2025/, /2024/, etc.)
+        anos_viejos = [str(a) for a in range(2015, int(ano_actual))]
+        tiene_ano_viejo = any(f"/{ano}/" in link or f"-{ano}-" in link for ano in anos_viejos)
+        
+        if not tiene_ano_viejo:
+            links_vistos.add(link)
             filtradas.append(item)
-    return filtradas
+            
+    # Retornar máximo las 5 más recientes
+    return filtradas[:5]
