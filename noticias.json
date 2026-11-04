@@ -1,68 +1,244 @@
-import json
-import re
-from datetime import datetime
-import requests
-from bs4 import BeautifulSoup
-
-# Configuración de sesión con cabeceras de navegador real
-session = requests.Session()
-session.headers.update({
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-})
-
-def obtener_noticias_rss(url_rss):
-    """Extrae entradas desde un Feed RSS (item) o Atom (entry) de forma robusta."""
-    noticias = []
-    try:
-        response = session.get(url_rss, timeout=12)
-        if response.status_code == 200:
-            # Usar 'html.parser' o 'xml' según la compatibilidad del servidor
-            soup = BeautifulSoup(response.content, 'xml')
-            
-            # Buscar tanto <item> (RSS) como <entry> (Atom)
-            entradas = soup.find_all(['item', 'entry'])[:10]
-            
-            for item in entradas:
-                # Extraer título de forma segura
-                titulo_tag = item.find(['title', 'titulo'])
-                titulo = titulo_tag.text.strip() if titulo_tag else ""
-                
-                # Extraer enlace de forma segura (soporta etiquetas <link> y atributos href)
-                link = ""
-                link_tag = item.find('link')
-                if link_tag:
-                    if link_tag.has_attr('href'):
-                        link = link_tag['href'].strip()
-                    else:
-                        link = link_tag.text.strip()
-                
-                if titulo and link:
-                    noticias.append({"titulo": titulo, "link": link})
-                    
-    except Exception as e:
-        print(f"Error procesando fuente {url_rss}: {e}")
-        
-    return noticias
-
-def filtrar_noticias_recientes(lista_noticias, ano_actual="2026"):
-    """Descarta enlaces con referencias explícitas a años anteriores y duplicados."""
-    filtradas = []
-    links_vistos = set()
-    
-    for item in lista_noticias:
-        link = item["link"]
-        
-        # Evitar duplicados en la misma ejecución
-        if link in links_vistos:
-            continue
-            
-        # Omitir si la URL contiene un año anterior al actual (ej: /2025/, /2024/, etc.)
-        anos_viejos = [str(a) for a in range(2015, int(ano_actual))]
-        tiene_ano_viejo = any(f"/{ano}/" in link or f"-{ano}-" in link for ano in anos_viejos)
-        
-        if not tiene_ano_viejo:
-            links_vistos.add(link)
-            filtradas.append(item)
-            
-    # Retornar máximo las 5 más recientes
-    return filtradas[:5]
+{
+  "Ministerio de Comunas": [
+    {
+      "titulo": "Escuela Decolonial Comuna o Nada",
+      "link": "https://www.comunas.gob.ve/decolonial/"
+    },
+    {
+      "titulo": "Sistema de Registro de Consejos Comunales",
+      "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
+    },
+    {
+      "titulo": "Comunas en Red Digital",
+      "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
+    },
+    {
+      "titulo": "Al ritmo de parranda y tambores el Mincomunas enciende la Navidad",
+      "link": "https://www.comunas.gob.ve/2026/11/02/al-ritmo-de-parranda-y-tambores-el-mincomunas-enciende-la-navidad/"
+    },
+    {
+      "titulo": "Proyecto Patria Grande del Sur consolida la producción agroecológica Comunal y avanza en la cría bufalina en el estado Bolívar",
+      "link": "https://www.comunas.gob.ve/2026/10/30/proyecto-patria-grande-del-sur-consolida-la-produccion-agroecologica-comunal-y-avanza-en-la-cria-bufalina-en-el-estado-bolivar/"
+    }
+  ],
+  "Mippci Medios Comunitarios": [
+    {
+      "titulo": "Festival Escuela de Artes Vivas inició en Falcón con 54 comunas",
+      "link": "https://mippci.gob.ve/festival-escuela-de-artes-vivas-inicio-en-falcon-con-54-comunas/"
+    },
+    {
+      "titulo": "Comuna Serranía Indio Guacamayo celebra su octavo aniversario",
+      "link": "https://mippci.gob.ve/comuna-serrania-indio-guacamayo-octavo-aniversario/"
+    },
+    {
+      "titulo": "Misión Sucre en Aragua celebró 23 años con reconocimientos educativos",
+      "link": "https://mippci.gob.ve/mision-sucre-en-aragua-celebro-23-anos-con-reconocimientos-educativos/"
+    }
+  ],
+  "Correo del Orinoco": [
+    {
+      "titulo": "Oliver Blanco es designado como nuevo canciller de Venezuela",
+      "link": "https://www.correodelorinoco.gob.ve/oliver-blanco-es-designado-como-nuevo-canciller-de-venezuela/"
+    },
+    {
+      "titulo": "Concierto «Venezuela, Esperanza que renace» rindió tributo a víctimas de doblete sísmico en La Guaira",
+      "link": "https://www.correodelorinoco.gob.ve/concierto-venezuela-esperanza-que-renace-rindio-tributo-a-victimas-de-doblete-sismico-en-la-guaira/"
+    },
+    {
+      "titulo": "Reinauguran exhibición sismológica «Venezuela, País Sísmico» en el Museo de Ciencias",
+      "link": "https://www.correodelorinoco.gob.ve/reinauguran-exhibicion-sismologica-venezuela-pais-sismico-en-el-museo-de-ciencias/"
+    },
+    {
+      "titulo": "Díaz-Canel: Red de sanciones contra Cuba se está convirtiendo en un genocidio del pueblo cubano",
+      "link": "https://www.correodelorinoco.gob.ve/diaz-canel-red-sanciones-contra-cuba-se-esta-convirtiendo-en-un-genocidio-del-pueblo-cubano/"
+    },
+    {
+      "titulo": "Asamblea Nacional aprueba en primera discusión Proyecto de Reforma de Ley Contra el Odio\n\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t03 Nov 2026",
+      "link": "https://www.correodelorinoco.gob.ve/asamblea-nacional-aprueba-en-primera-discusion-proyecto-de-reforma-de-ley-contra-el-odio/"
+    }
+  ],
+  "El Mazo Dando": [
+    {
+      "titulo": "03/11/2026 05:47 PMDiosdado Cabello llama a celebrar el Día Internacional de las Mujeres Pescadoras Artesanales",
+      "link": "https://mazo4f.com/diosdado-cabello-llama-a-celebrar-el-dia-internacional-de-las-mujeres-pescadoras-artesanales"
+    },
+    {
+      "titulo": "03/11/2026 09:05 PM\nGobernación del Zulia presenta programación de la 60 Feria Internacional de la Chiquinquirá",
+      "link": "https://mazo4f.com/gobernacion-del-zulia-presenta-programacion-de-la-60-feria-internacional-de-la-chiquinquira"
+    },
+    {
+      "titulo": "03/11/2026 07:51 PM\nGobierno despliega más de 190 mil funcionarios para el dispositivo Navidades Felices y Seguras 2026",
+      "link": "https://mazo4f.com/gobierno-despliega-mas-de-190-mil-funcionarios-para-el-dispositivo-navidades-felices-y-seguras-2026"
+    },
+    {
+      "titulo": "03/11/2026 06:01 PM\nGobierno Bolivariano rehabilitó vía que conecta a Maracaibo con el Aeropuerto Internacional de La Chinita",
+      "link": "https://mazo4f.com/gobierno-bolivariano-rehabilito-via-que-conecta-a-maracaibo-con-el-aeropuerto-internacional-de-la-chinita"
+    }
+  ],
+  "VTV": [
+    {
+      "titulo": "Jefa de Estado: Vamos a un nuevo ciclo de las relaciones Portugal-Venezuela",
+      "link": "https://vtv.com.ve/jefa-estado-nuevo-ciclo-relaciones-portugal-venezuela/"
+    },
+    {
+      "titulo": "Gobierno nacional simplificará trámites de exportación y avanzará en reforma tributaria",
+      "link": "https://vtv.com.ve/simplificara-tramites-exportacion-avanzara-reforma-tributaria/"
+    },
+    {
+      "titulo": "Venezuela alcanza 80 acuerdos en materia energética en lo que va de 2026",
+      "link": "https://vtv.com.ve/venezuela-alcanza-acuerdos-materia-energetica-2026/"
+    },
+    {
+      "titulo": "Asamblea Nacional aprueba en primera discusión Proyecto de Reforma de Ley Contra el Odio",
+      "link": "https://vtv.com.ve/an-aprueba-primeradiscusion-proyecto-ley-contra-odio/"
+    },
+    {
+      "titulo": "Asia Villegas: Reglamentos de leyes sociales consolidan los derechos de las mujeres venezolanas",
+      "link": "https://vtv.com.ve/asia-villegas-reglamentos-leyes-sociales-derechos-mujeres/"
+    }
+  ],
+  "RNV": [
+    {
+      "titulo": "Gobierno nacional simplificará trámites de exportación y avanzará en reforma tributaria",
+      "link": "https://rnv.gob.ve/implificara-tramites-exportacion-reforma-tributaria/"
+    },
+    {
+      "titulo": "Ley Aprobatoria sobre reglas en transporte aéreo  internacional es aprobada en primera discusión ‎",
+      "link": "https://rnv.gob.ve/ley-aprobatoria-reglas-transporte-aereo-internacional/"
+    },
+    {
+      "titulo": "Gobierno Bolivariano inaugura la primera Aula de Robótica y Programación en Filas de Mariche",
+      "link": "https://rnv.gob.ve/inauguran-aula-robotica-programacion-filas-de-mariche/"
+    },
+    {
+      "titulo": "Venezuela y USA reafirman espacios de entendimiento #TeLoCuentoEn5T",
+      "link": "https://www.youtube.com/watch?v=M3eV1-iYNis"
+    },
+    {
+      "titulo": "Fiscal General Devoe reporta reducción del 90.18 % en retraso de experticias penales a escala nacional",
+      "link": "https://rnv.gob.ve/reduccion-retraso-experticias-penales-venezuela/"
+    }
+  ],
+  "Radio Mundial": [
+    {
+      "titulo": "Firman convenios para ejecutar 14 proyectos comunales en municipio Miranda del Zulia",
+      "link": "firman-convenios-para-ejecutar-14-proyectos-comunales-en-municipio-miranda-del-zulia/"
+    },
+    {
+      "titulo": "Delcy Rodríguez resalta el liderazgo del crecimiento económico de Venezuela en el Congreso de Conindustria",
+      "link": "delcy-rodriguez-congreso-conindustria-crecimiento-economico-petroleo-2026/"
+    },
+    {
+      "titulo": "Asamblea Nacional aprueba en primera discusión la reforma de la Ley contra el Odio",
+      "link": "asamblea-nacional-aprueba-primera-discusion-reforma-ley-contra-el-odio-2026/"
+    },
+    {
+      "titulo": "Venezuela y Catar celebran el inicio de las operaciones de la ruta aérea directa Caracas–Doha",
+      "link": "vuelo-directo-caracas-doha-qatar-airways-venezuela-2026/"
+    },
+    {
+      "titulo": "Presidenta Delcy Rodríguez encabeza Foro Empresarial Portugal-Venezuela",
+      "link": "presidenta-delcy-rodriguez-encabeza-foro-empresarial-portugal-venezuela/"
+    }
+  ],
+  "La Radio del Sur": [],
+  "Ministerio de Cultura": [
+    {
+      "titulo": "Fotos y diseños para redes sociales fueron los protagonistas de masterclass en la Casa del Artista",
+      "link": "https://www.mincultura.gob.ve/noticias/fotos-y-disenos-para-redes-sociales-fueron-los-protagonistas-de-masterclass-en-la-casa-del-artista/"
+    },
+    {
+      "titulo": "Orquesta Filarmónica Nacional participó a casa llena en el 2.° Ciclo Orquestal de Caracas",
+      "link": "https://www.mincultura.gob.ve/noticias/orquesta-filarmonica-nacional-participo-a-casa-llena-en-el-2-ciclo-orquestal-de-caracas/"
+    },
+    {
+      "titulo": "Misión Cultura encendió la fiesta navideña con parranda y tradición en la parroquia Altagracia",
+      "link": "https://www.mincultura.gob.ve/noticias/mision-cultura-encendio-la-fiesta-navidena-con-parranda-y-tradicion-en-la-parroquia-altagracia/"
+    },
+    {
+      "titulo": "Con parranda tradicional y concierto el Ministerio para la Cultura dio la bienvenida a la navidad",
+      "link": "https://www.mincultura.gob.ve/noticias/con-parranda-tradicional-y-concierto-el-ministerio-para-la-cultura-dio-la-bienvenida-a-la-navidad/"
+    }
+  ],
+  "Agencia Xinhua": [
+    {
+      "titulo": "La 9 Exposición Cultural Internacional de la Ruta de la Seda (Dunhuang)",
+      "link": "https://spanish.news.cn/20261104/86787b782dc6456ebab454d5313c475b/c.html"
+    },
+    {
+      "titulo": "Autoridades destacan desarrollo de las relaciones diplomáticas entre Perú y China",
+      "link": "https://spanish.news.cn/20261104/260ec68a79ea4a5484b46e303aa53e56/c.html"
+    },
+    {
+      "titulo": "Entre panes y plegarias, Bolivia despide las almas y reafirma identidad cultural",
+      "link": "https://spanish.news.cn/20261104/92fbaf2436ee429d9811060a47a4a28e/c.html"
+    },
+    {
+      "titulo": "China está dispuesta a trabajar con todos para una fructífera Reunión de Líderes Económicos de APEC, dice canciller chino",
+      "link": "20261104/dcd7018d920644e18904a3be02190e92/c.html"
+    },
+    {
+      "titulo": "Artistas de China, Estados Unidos y Bielorrusia se reúnen en Dunhuang presentan flashmobs en puntos escénicos",
+      "link": "20261104/94b0b1958f804dbea237440e08920c3f/c.html"
+    }
+  ],
+  "RT en Español": [
+    {
+      "titulo": "¿Qué hará China para abrir el estrecho de Ormuz?",
+      "link": "https://actualidad.rt.com/actualidad/635990-hara-china-abrir-estrecho-ormuz"
+    },
+    {
+      "titulo": "Preguntan a China cómo valora las elecciones de medio mandato en EE.UU. y esta es su respuesta",
+      "link": "https://actualidad.rt.com/actualidad/635973-preguntan-china-valora-elecciones-medio"
+    },
+    {
+      "titulo": "Xavier Becerra hace historia y se convierte en el primer latino elegido para gobernar California",
+      "link": "https://actualidad.rt.com/actualidad/635831-xavier-becerra-historia-primer-latino-california"
+    },
+    {
+      "titulo": "Descubrimiento de prisión clandestina desata ira del pueblo ucraniano y plantea dudas en la UE",
+      "link": "https://actualidad.rt.com/video/635916-descubrimiento-prision-clandestina-desata-ira"
+    }
+  ],
+  "Telesur": [
+    {
+      "titulo": "Keisha Lance Bottoms hace historia al convertirse en la primera gobernadora negra en la historia de EE. UU.",
+      "link": "https://www.telesurtv.net/keisha-lance-bottoms-hace-historia-al-convertirse-en-la-primera-gobernadora-negra-en-la-historia-de-ee-uu/"
+    },
+    {
+      "titulo": "Renuncia el presidente del BCP tras el colapso e intervención de Ueno bank en Paraguay",
+      "link": "https://www.telesurtv.net/renuncia-el-presidente-del-bcp-tras-el-colapso-e-intervencion-de-ueno-bank-en-paraguay/"
+    },
+    {
+      "titulo": "Artistas e instituciones rechazan la política cultural de Trump en EE.UU.",
+      "link": "https://www.telesurtv.net/artistas-rechazan-politica-cultural-trump/"
+    },
+    {
+      "titulo": "La Policía Nacional y la Fiscalía de Santa Cruz de Tenerife abren diligencias tras el deceso del delantero del C. D. Tenerife, mientras la justicia deportiva evalúa la sanción disciplinaria para el guardameta Jesús Owono y el alcance de la acción en el terreno de juego.",
+      "link": "https://www.telesurtv.net/policia-fiscalia-investigan-muerte-futbolista/"
+    },
+    {
+      "titulo": "Anuncia negociaciones en curso para que Venezuela reciba 17.000 millones de dólares en cinco años de las multilaterales, con financiamiento dirigido al sector productivo, no al consumo.",
+      "link": "https://www.telesurtv.net/delcy-rodriguez-sector-productivo-venezuela/"
+    }
+  ],
+  "HispanTV": [],
+  "La Voz de Vietnam": [
+    {
+      "titulo": "Vietnam, mil y una historias",
+      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
+    },
+    {
+      "titulo": "Vietnam registra un fuerte aumento de visitantes internacionales en los primeros diez meses de 2026",
+      "link": "https://vovworld.vn/es-ES/noticias/vietnam-registra-un-fuerte-aumento-de-visitantes-internacionales-en-los-primeros-diez-meses-de-2026-2477662.vov5"
+    },
+    {
+      "titulo": "Exposición “Excelencia unida”: un encuentro entre los pueblos de oficios tradicionales",
+      "link": "https://vovworld.vn/es-ES/noticias/exposicion-excelencia-unida-un-encuentro-entre-los-pueblos-de-oficios-tradicionales-2477863.vov5"
+    },
+    {
+      "titulo": "Quoc Tu Giam: 950 años de historia al servicio del saber y la cultura vietnamitas",
+      "link": "https://vovworld.vn/es-ES/noticias/quoc-tu-giam-950-anos-de-historia-al-servicio-del-saber-y-la-cultura-vietnamitas-2477612.vov5"
+    }
+  ]
+}
