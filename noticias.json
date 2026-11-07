@@ -1,24 +1,24 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "Comunas en Red Digital",
+      "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
+    },
+    {
+      "titulo": "Comunas de Sucre y Lara celebran aprobación y transferencia directa de recursos para ejecutar sus proyectos",
+      "link": "https://www.comunas.gob.ve/2026/11/06/comunas-de-sucre-y-lara-celebran-aprobacion-y-transferencia-directa-de-recursos-para-ejecutar-sus-proyectos/"
+    },
+    {
+      "titulo": "​Comuna Viviremos y Venceremos realizó rendición de cuentas sobre proyectos aprobados en la Consulta Popular",
+      "link": "https://www.comunas.gob.ve/2026/11/06/comuna-viviremos-y-venceremos-realizo-rendicion-de-cuentas-sobre-proyectos-aprobados-en-la-consulta-popular/"
+    },
+    {
       "titulo": "Comunas merideñas avanzan en la ejecución de proyectos reconocidos con el Premio al Mérito del Poder Popular",
       "link": "https://www.comunas.gob.ve/2026/11/05/comunas-meridenas-avanzan-ejecucion-proyectos-reconocidos-premio-merito-poder-popular/"
     },
     {
       "titulo": "​MinComunas realiza seminario sobre la experiencia de China en la reducción de la pobreza",
       "link": "https://www.comunas.gob.ve/2026/11/04/mincomunas-realiza-seminario-sobre-la-experiencia-de-china-en-la-reduccion-de-la-pobreza/"
-    },
-    {
-      "titulo": "Alianza estratégica entre el Ministerio del Servicio Penitenciario y Comunas impulsa la producción hidropónica para la reinserción social",
-      "link": "https://www.comunas.gob.ve/2026/11/04/alianza-estrategica-entre-el-ministerio-del-servicio-penitenciario-y-comunas-impulsa-la-produccion-hidroponica-para-la-reinsercion-social/"
-    },
-    {
-      "titulo": "Escuela Decolonial Comuna o Nada",
-      "link": "https://www.comunas.gob.ve/decolonial/"
-    },
-    {
-      "titulo": "Sistema de Registro de Consejos Comunales",
-      "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
     }
   ],
   "Mippci Medios Comunitarios": [
@@ -63,94 +63,98 @@
   ],
   "El Mazo Dando": [
     {
-      "titulo": "05/11/2026 09:25 PM\nPresidenta Delcy Rodríguez: Lo Hecho en Venezuela tiene calidad para llegar al mundo",
-      "link": "https://mazo4f.com/presidenta-delcy-rodriguez-lo-hecho-en-venezuela-tiene-calidad-para-llegar-al-mundo"
+      "titulo": "06/11/2026 05:27 PMJefa de Estado: Programa de Convivencia debe trabajar para que no exista desprecio social al motorizado",
+      "link": "https://mazo4f.com/jefa-de-estado-programa-de-convivencia-debe-trabajar-para-que-no-exista-desprecio-social-al-motorizado"
     },
     {
-      "titulo": "05/11/2026 02:43 PMPresidenta Rodríguez: Que lo hecho en Venezuela se convierta en nuestro principal embajador (+Motor Exportador)",
-      "link": "https://mazo4f.com/presidenta-rodriguez-que-lo-hecho-en-venezuela-se-convierta-en-nuestro-principal-embajador-motor-exportador"
+      "titulo": "06/11/2026 05:24 PMPresidenta Rodríguez anunció creación de escuela de formación, talleres y seguridad social para motorizados",
+      "link": "https://mazo4f.com/presidenta-rodriguez-anuncio-creacion-de-escuela-de-formacion-talleres-y-seguridad-social-para-motorizados"
     },
     {
-      "titulo": "05/11/2026 11:20 PM\nVenezuela y Japón fortalecen agenda de cooperación económica y apoyo técnico",
-      "link": "https://mazo4f.com/venezuela-y-japon-fortalecen-agenda-de-cooperacion-economica-y-apoyo-tecnico"
+      "titulo": "06/11/2026 11:42 AMVenezuela conmemoró los 250 años de independencia de EEUU con ofrenda floral",
+      "link": "https://mazo4f.com/venezuela-conmemoro-los-250-anos-de-independencia-de-eeuu-con-ofrenda-floral"
     },
     {
-      "titulo": "05/11/2026 10:23 PM\nPresidente de la AN asiste al acto conmemorativo del 250 aniversario de la independencia de EEUU",
-      "link": "https://mazo4f.com/presidente-de-la-an-asiste-al-acto-conmemorativo-del-250-aniversario-de-la-independencia-de-eeuu"
+      "titulo": "06/11/2026 09:03 PM\nRuta Social Afro resonará en Tiuna El Fuerte",
+      "link": "https://mazo4f.com/ruta-social-afro-resonara-en-tiuna-el-fuerte"
     },
     {
-      "titulo": "04/11/2026 11:07 PM\nLa verdad de Venezuela contada por los turistas del mundo",
-      "link": "https://mazo4f.com/la-verdad-de-venezuela-contada-por-los-turistas-del-mundo"
+      "titulo": "06/11/2026 08:29 PM\nVenezuela doblegó a Sudáfrica en el arranque del Mundial Sub 23 de béisbol",
+      "link": "https://mazo4f.com/venezuela-doblego-a-sudafrica-en-el-arranque-del-mundial-sub-23-de-beisbol"
     }
   ],
   "VTV": [
     {
+      "titulo": "Venezuela presenta en la OPS avances para la erradicación de la malaria",
+      "link": "https://vtv.com.ve/venezuela-presenta-ops-avances-erradicacion-malaria/"
+    },
+    {
+      "titulo": "Jorge Rodríguez: La fuerza de las comunas es indetenible",
+      "link": "https://vtv.com.ve/jorge-rodriguez-chivacoa-fuerza-comunas-indetenible/"
+    },
+    {
+      "titulo": "Delegación venezolana participa en Olimpiada Mundial Abierta de Astronomía 2026 en Rusia",
+      "link": "https://vtv.com.ve/delegacion-venezolana-olimpiada-mundial-astronomia-rusia/"
+    },
+    {
+      "titulo": "Plan Nacional de Caracterización del Rebaño Bovino entra en su fase de remate",
+      "link": "https://vtv.com.ve/plan-caracterizacion-rebano-bovino-fase-remate/"
+    },
+    {
       "titulo": "Venezuela felicita al Gobierno y pueblo de Grenada tras celebración de sus elecciones generales",
       "link": "https://vtv.com.ve/venezuela-felicita-gobierno-pueblo-grenada-elecciones-generales/"
-    },
-    {
-      "titulo": "Capacidad industrial plena en Venezuela es la meta para los próximos cinco años",
-      "link": "https://vtv.com.ve/capacidad-industrial-plena-venezuela-meta-cinco-anos/"
-    },
-    {
-      "titulo": "Segundo Congreso Internacional Porcino de Venezuela será del 25 al 27 de noviembre",
-      "link": "https://vtv.com.ve/segundo-congreso-internacional-porcino-25-27/"
-    },
-    {
-      "titulo": "Mujer Tambor: Empoderamiento femenino a través de la cultura afrovenezolana",
-      "link": "https://vtv.com.ve/mujer-tambor-empoderamiento-femenino-cultura-afrovenezolana/"
-    },
-    {
-      "titulo": "Asamblea Nacional autoriza designación de Alexander Yánez como embajador en Guyana",
-      "link": "https://vtv.com.ve/asamblea-nacional-autoriza-designacion-alexander-yanez-embajador-guyana/"
     }
   ],
   "RNV": [
     {
-      "titulo": "RNV Región Central celebra 18 años de historia y compromiso comunicacional desde el Campo de Carabobo",
-      "link": "https://rnv.gob.ve/rnv-region-central-celebra-18-anos-servicio-pueblo/"
+      "titulo": "Presidente de la AN anuncia que el 10 de noviembre se aprobará Ley del Servicio Eléctrico",
+      "link": "https://rnv.gob.ve/presidente-de-la-an-anuncia-que-el-10-de-noviembre-se-aprobara-ley-del-servicio-electrico/"
     },
     {
-      "titulo": "Venezuela felicita a Granada tras elecciones generales y ratifica lazos de cooperación",
-      "link": "https://rnv.gob.ve/venezuela-felicita-granada-elecciones-generales/"
+      "titulo": "Presidenta Delcy Rodríguez recibe en Miraflores al sector motorizado de Venezuela",
+      "link": "https://rnv.gob.ve/delcy-rodriguez-recibe-sector-motorizado-miraflore/"
     },
     {
-      "titulo": "‎Venezuela y Chile exploran nuevas oportunidades de cooperación e intercambio",
-      "link": "https://rnv.gob.ve/venezuela-y-chile-exploran-oportunidades-de-cooperacion/"
+      "titulo": "RNV Región Central celebra 18 años de periodismo comprometido con el pueblo",
+      "link": "https://rnv.gob.ve/rnv-region-central-celebra-18-anos-aniversario/"
     },
     {
-      "titulo": "Ministerio de Relaciones Interiores impulsará Comités de Seguridad y Paz en las Comunas para fortalecer la prevención territorial",
-      "link": "https://rnv.gob.ve/ministerio-impulsaran-comites-seguridad-paz-comunas/"
+      "titulo": "Venezuela firma acuerdo de procesamiento y comercialización de productos acuáticos en Expo CIIE Shanghái 2026",
+      "link": "https://rnv.gob.ve/noticias-venezuela-firma-acuerdo-acuicola-china-ciie/"
     },
     {
-      "titulo": "Venezuela participa en el 5.ª Foro Mundial Unesco contra la discriminación y el racismo",
-      "link": "https://rnv.gob.ve/venezuela-en-5-o-foro-mundial-unesco-contra-el-racismo/"
+      "titulo": "Venezuela y Francia incineran 2.138 kilos de droga incautadas en el Caribe",
+      "link": "https://rnv.gob.ve/noticias-venezuela-francia-incineran-droga-caribe/"
     }
   ],
   "Radio Mundial": [
     {
-      "titulo": "En Cumbre Iberoamericana, Venezuela y México abordan asuntos bilaterales",
-      "link": "venezuela-mexico-abordan-asunto-bilaterales-encuentro-cancilleres-2026/"
+      "titulo": "Yván Gil Pinto destacó el avance de la Inteligencia Artificial para el desarrollo de Venezuela",
+      "link": "yvan-gil-pinto-destaco-avance-inteligencia-artificial-venezuela-2026/"
     },
     {
-      "titulo": "Venezuela y Chile exploran nuevas oportunidades de cooperación e intercambio bilateral",
-      "link": "venezuela-chile-exploran-oportunidades-cooperacion-intercambio-bilateral-2026/"
+      "titulo": "El Plan Venezuela Renace está activo con 178 frentes de trabajo en Caracas",
+      "link": "plan-venezuela-renace-activo-con-178-frentes-de-trabajo-caracas-2026/"
     },
     {
-      "titulo": "Venezuela felicita a Dickon Mitchell por su victoria en las elecciones de Grenada",
-      "link": "venezuela-felicita-dickon-mitchell-victoria-electoral-grenada-2026/"
+      "titulo": "Presidente de CVG lideró un encuentro con los trabajadores en Venalum",
+      "link": "presidente-de-cvg-lidero-encuentro-con-trabajadores-en-venalum-2026/"
     },
     {
-      "titulo": "Alcaldía de Mariño impulsa obras de vialidad y jornadas sociales en Porlamar",
-      "link": "alcaldia-de-marino-impulsa-obras-de-vialidad-y-jornadas-sociales-en-porlamar/"
+      "titulo": "Venezuela e Italia acordaron impulsar el intercambio económico para el inicio de 2027",
+      "link": "venezuela-e-italia-acordaron-impulsar-intercambio-economico-2027/"
     },
     {
-      "titulo": "Criollitos de Venezuela inaugura la 51.ª edición del Campeonato Nacional Juvenil 2026 en San Joaquín",
-      "link": "criollitos-de-venezuela-inauguracion-nacional-juvenil-2026-san-joaquin/"
+      "titulo": "Pedro Alliana juró como nuevo presidente de Paraguay tras la destitución de Santiago Peña",
+      "link": "pedro-alliana-juro-como-nuevo-presidente-paraguay-tras-destitucion-pena-2026/"
     }
   ],
   "La Radio del Sur": [],
   "Ministerio de Cultura": [
+    {
+      "titulo": "Nueva versión de “El pez que fuma” representa a Venezuela en Festival de Mar del Plata",
+      "link": "https://www.mincultura.gob.ve/noticias/nueva-version-de-el-pez-que-fuma-representa-a-venezuela-en-festival-de-mar-del-plata/"
+    },
     {
       "titulo": "El cine nacional celebró su historia en la Semana del Patrimonio Fílmico",
       "link": "https://www.mincultura.gob.ve/noticias/el-cine-nacional-celebro-su-historia-en-la-semana-del-patrimonio-filmico/"
@@ -166,99 +170,95 @@
     {
       "titulo": "Misión Cultura encendió la fiesta navideña con parranda y tradición en la parroquia Altagracia",
       "link": "https://www.mincultura.gob.ve/noticias/mision-cultura-encendio-la-fiesta-navidena-con-parranda-y-tradicion-en-la-parroquia-altagracia/"
-    },
-    {
-      "titulo": "Con parranda tradicional y concierto el Ministerio para la Cultura dio la bienvenida a la navidad",
-      "link": "https://www.mincultura.gob.ve/noticias/con-parranda-tradicional-y-concierto-el-ministerio-para-la-cultura-dio-la-bienvenida-a-la-navidad/"
     }
   ],
   "Agencia Xinhua": [
     {
-      "titulo": "El Pabellón de China presenta una visión de futuro en la IX CIIE",
-      "link": "20261106/ff7ae00091254cb2bdf7db48e63a2674/c.html"
+      "titulo": "China y Gabón elevan relaciones a nivel de comunidad de futuro compartido para la nueva era",
+      "link": "https://spanish.news.cn/20261107/b857b05604c34ee0b71fd2369648bf2e/c.html"
     },
     {
-      "titulo": "Entrevista: Directiva de medios públicos de Ecuador plantea ampliar cooperación internacional ante avances de la IA",
-      "link": "20261105/68576591df6649cc8ff2efa335a34f9a/c.html"
+      "titulo": "Xi afirma que una China en crecimiento puede ser un socio para ayudar a Europa a afrontar desafíos",
+      "link": "https://spanish.news.cn/20261107/72b1b35c53d1456cbbc241509659c6f9/c.html"
     },
     {
-      "titulo": "China lanza nuevos satélites de detección remota",
-      "link": "20261106/5c93ae89a8fa41a3b60bc06716164892/c.html"
+      "titulo": "Festival Helix reúne en Buenos Aires propuestas internacionales de arte, ciencia y tecnología",
+      "link": "https://spanish.news.cn/20261107/08d259d4eced4a9ebaf03f0087a2ad01/c.html"
     },
     {
-      "titulo": "Especial: Empresas chinas presentan soluciones urbanas en Smart City Expo de Barcelona",
-      "link": "20261106/491cba6e3f27475db09db5822391e4b8/c.html"
+      "titulo": "PCCh inicia proceso de elección de delegados al XXI Congreso Nacional",
+      "link": "20261107/8fdaf68a6a684d3b8eabda281a7d5d73/c.html"
     },
     {
-      "titulo": "China está abierta a más importaciones agrícolas de Estados Unidos si se implementan recortes arancelarios recíprocos",
-      "link": "20261105/156527c83c8e47418efdc2b8997eec76/c.html"
+      "titulo": "Primer astronauta extranjero abordará estación espacial china",
+      "link": "20261107/9f790ca0a2b04642a73c57cb20636ff4/c.html"
     }
   ],
   "RT en Español": [
     {
+      "titulo": "Primer mensaje del nuevo presidente de Paraguay: ¿qué dijo?",
+      "link": "https://actualidad.rt.com/actualidad/636590-primer-mensaje-nuevo-presidente-paraguay"
+    },
+    {
+      "titulo": "China advierte que sanciones por Cuba \"socavan\" las relaciones económicas con EE.UU.",
+      "link": "https://actualidad.rt.com/actualidad/636581-china-advierte-sanciones-cuba-socavan"
+    },
+    {
+      "titulo": "Expresidente uruguayo intenta besar el anillo del papa León XIV y pasa esto (VIDEO)",
+      "link": "https://actualidad.rt.com/actualidad/636579-incomodo-expresidente-uruguayo-intentar-besar-mano-papa-leon"
+    },
+    {
+      "titulo": "Musk revela qué necesita EE.UU. para competir con China en IA",
+      "link": "https://actualidad.rt.com/actualidad/636567-musk-revela-necesita-eeuu-competir"
+    },
+    {
       "titulo": "¿Qué blancos alcanzó Rusia en lo profundo de la retaguardia ucraniana durante esta semana?",
       "link": "https://actualidad.rt.com/actualidad/636369-blancos-rusia-profundo-retaguardia-ucraniana"
-    },
-    {
-      "titulo": "China desafía las sanciones de EE.UU. contra Cuba",
-      "link": "https://actualidad.rt.com/actualidad/636360-china-desafia-sanciones-eeuu-cuba"
-    },
-    {
-      "titulo": "¿En qué quieren colaborar terroristas con Kiev? Rusia lanza una advertencia",
-      "link": "https://actualidad.rt.com/actualidad/636356-quieren-colaborar-terroristas-kiev-rusia"
-    },
-    {
-      "titulo": "Esto dice el Kremlin tras la reunión de Melania Trump con representantes de Rusia y Ucrania",
-      "link": "https://actualidad.rt.com/actualidad/636373-kremlin-calificar-positivo-encuentro-melania"
-    },
-    {
-      "titulo": "¿Por qué la renuncia de Peña preocupa al Gobierno de Lula?",
-      "link": "https://actualidad.rt.com/actualidad/636362-renuncia-pena-preocupa-gobierno-lula"
     }
   ],
   "Telesur": [
     {
-      "titulo": "Paraguay: Senado inicia juicio político al presidente Peña, que comparecerá este viernes",
-      "link": "https://www.telesurtv.net/paraguay-senado-juicio-politico-pena/"
+      "titulo": "Trasladan al expresidente paraguayo Santiago Peña a un regimiento militar",
+      "link": "https://www.telesurtv.net/trasladan-al-expresidente-paraguayo-santiago-pena-a-un-regimiento-militar/"
     },
     {
-      "titulo": "Gobierno colombiano exige la liberación inmediata de subteniente secuestrada en Arauca",
-      "link": "https://www.telesurtv.net/gobierno-colombiano-exige-liberacion-subteniente-secuestrada/"
+      "titulo": "Pedro Alliana jura como presidente de Paraguay tras la destitución de Santiago Peña",
+      "link": "https://www.telesurtv.net/pedro-alliana-jura-como-presidente-paraguay/"
     },
     {
-      "titulo": "Presidente de Israel anunciará el domingo al encargado de formar Gobierno",
-      "link": "https://www.telesurtv.net/israel-herzog-anunciara-encargado-gobierno/"
+      "titulo": "Gobierno francés desplegará 70.000 policías ante nuevas protestas por el costo de vida",
+      "link": "https://www.telesurtv.net/gobierno-frances-desplegara-70-000-policias-ante-nuevas-protestas-por-el-costo-de-vida/"
     },
     {
-      "titulo": "Presidenta (E) Delcy Rodríguez plantea elevar a 100% capacidad industrial de Venezuela",
-      "link": "https://www.telesurtv.net/delcy-100-porciento-planta-industrial-venezuela/"
+      "titulo": "Venezuela dignifica a motociclistas con registro y formación integral",
+      "link": "https://www.telesurtv.net/venezuela-dignifica-a-motociclistas-con-registro-y-formacion-integral/"
     },
     {
-      "titulo": "Venezuela clasifica a semifinales del fútsal femenino en Dakar 2026",
-      "link": "https://www.telesurtv.net/venezuela-clasifica-semifinales-futsal-dakar/"
+      "titulo": "Venezuela y Japón fortalecen agenda de cooperación estratégica a largo plazo",
+      "link": "https://www.telesurtv.net/venezuela-y-japon-fortalecen-agenda-de-cooperacion-estrategica-a-largo-plazo/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
     {
+      "titulo": "Vietnam, mil y una historias",
+      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
+    },
+    {
+      "titulo": "Máximo líder de Vietnam preside una reunión del Comité Nacional de APEC 2027",
+      "link": "https://vovworld.vn/es-ES/noticias/maximo-lider-de-vietnam-preside-una-reunion-del-comite-nacional-de-apec-2027-2478671.vov5"
+    },
+    {
+      "titulo": "El presidente de la Asamblea Nacional asiste a la Jornada de la Gran Unidad Nacional en Ciudad Ho Chi Minh",
+      "link": "https://vovworld.vn/es-ES/noticias/el-presidente-de-la-asamblea-nacional-asiste-a-la-jornada-de-la-gran-unidad-nacional-en-ciudad-ho-2478667.vov5"
+    },
+    {
+      "titulo": "La Asamblea Nacional de Vietnam aprueba la Resolución sobre el Plan de Desarrollo Socioeconómico para 2027",
+      "link": "https://vovworld.vn/es-ES/noticias/la-asamblea-nacional-de-vietnam-aprueba-la-resolucion-sobre-el-plan-de-desarrollo-socioeconomico-2478670.vov5"
+    },
+    {
       "titulo": "Dos patrimonios documentales inscritos en el Programa Memoria del Mundo de la UNESCO: un nuevo motivo de proyección internacional para Vietnam",
       "link": "https://vovworld.vn/es-ES/noticias/dos-patrimonios-documentales-inscritos-en-el-programa-memoria-del-mundo-de-la-unesco-un-nuevo-motivo-2478404.vov5"
-    },
-    {
-      "titulo": "Más de 3.000 personas desfilarán junto al lago Hoan Kiem por el Día de la Cultura de Vietnam",
-      "link": "https://vovworld.vn/es-ES/noticias/mas-de-3000-personas-desfilaran-junto-al-lago-hoan-kiem-por-el-dia-de-la-cultura-de-vietnam-2478461.vov5"
-    },
-    {
-      "titulo": "Thai Nguyen celebra una velada cultural dedicada al arte del té",
-      "link": "https://vovworld.vn/es-ES/noticias/thai-nguyen-celebra-una-velada-cultural-dedicada-al-arte-del-te-2478111.vov5"
-    },
-    {
-      "titulo": "Vietnam intensifica los preparativos para celebrar por primera vez el Día de la Cultura",
-      "link": "https://vovworld.vn/es-ES/noticias/vietnam-intensifica-los-preparativos-para-celebrar-por-primera-vez-el-dia-de-la-cultura-2478118.vov5"
-    },
-    {
-      "titulo": "Líderes internacionales confían en un cambio de rumbo en las relaciones con Estados Unidos",
-      "link": "https://vovworld.vn/es-ES/noticias/lideres-internacionales-confian-en-un-cambio-de-rumbo-en-las-relaciones-con-estados-unidos-2478117.vov5"
     }
   ]
 }
