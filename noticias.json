@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "​Comuna Viviremos y Venceremos realizó rendición de cuentas sobre proyectos aprobados en la Consulta Popular",
+      "link": "https://www.comunas.gob.ve/2026/11/06/comuna-viviremos-y-venceremos-realizo-rendicion-de-cuentas-sobre-proyectos-aprobados-en-la-consulta-popular/"
+    },
+    {
       "titulo": "Fundacomunal dio la bienvenida a la Navidad entre abrazos y el tradicional parrandón‎",
       "link": "https://www.comunas.gob.ve/2026/11/06/fundacomunal-dio-la-bienvenida-a-la-navidad-entre-abrazos-y-el-tradicional-parrandon/"
     },
@@ -15,13 +19,13 @@
     {
       "titulo": "Comunas en Red Digital",
       "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
-    },
-    {
-      "titulo": "Comunas de Sucre y Lara celebran aprobación y transferencia directa de recursos para ejecutar sus proyectos",
-      "link": "https://www.comunas.gob.ve/2026/11/06/comunas-de-sucre-y-lara-celebran-aprobacion-y-transferencia-directa-de-recursos-para-ejecutar-sus-proyectos/"
     }
   ],
   "Mippci Medios Comunitarios": [
+    {
+      "titulo": "Plan Venezuela Alimenta atiende a familias en Coro",
+      "link": "https://mippci.gob.ve/plan-venezuela-alimenta-atiende-a-familias-en-coro/"
+    },
     {
       "titulo": "Monagas inicia el «Mes Violeta» con despliegue en 199 comunas",
       "link": "https://mippci.gob.ve/monagas-inicia-el-mes-violeta-con-despliegue-en-199-comunas/"
@@ -41,6 +45,10 @@
   ],
   "Correo del Orinoco": [
     {
+      "titulo": "Venezuela e India evalúan proyectos de transporte y prevención de riesgos climáticos",
+      "link": "https://www.correodelorinoco.gob.ve/venezuela-e-india-evaluan-proyectos-de-transporte-y-prevencion-de-riesgos-climaticos/"
+    },
+    {
       "titulo": "Oliver Blanco es designado como nuevo canciller de Venezuela",
       "link": "https://www.correodelorinoco.gob.ve/oliver-blanco-es-designado-como-nuevo-canciller-de-venezuela/"
     },
@@ -55,13 +63,21 @@
     {
       "titulo": "Díaz-Canel: Red de sanciones contra Cuba se está convirtiendo en un genocidio del pueblo cubano",
       "link": "https://www.correodelorinoco.gob.ve/diaz-canel-red-sanciones-contra-cuba-se-esta-convirtiendo-en-un-genocidio-del-pueblo-cubano/"
-    },
-    {
-      "titulo": "Asamblea Nacional aprueba en primera discusión Proyecto de Reforma de Ley Contra el Odio\n\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t03 Nov 2026",
-      "link": "https://www.correodelorinoco.gob.ve/asamblea-nacional-aprueba-en-primera-discusion-proyecto-de-reforma-de-ley-contra-el-odio/"
     }
   ],
   "El Mazo Dando": [
+    {
+      "titulo": "09/11/2026 10:55 PM\nPresidenta Rodríguez: ExxonMobil se incorporará al impulso del crecimiento económico de Venezuela",
+      "link": "https://mazo4f.com/presidenta-rodriguez-exxonmobil-se-incorporara-al-impulso-del-crecimiento-economico-de-venezuela"
+    },
+    {
+      "titulo": "09/11/2026 10:12 PM\nVenezuela expresa condolencias al Gobierno y pueblo de Türkiye tras accidente en planta siderúrgica",
+      "link": "https://mazo4f.com/venezuela-expresa-condolencias-al-gobierno-y-pueblo-de-turkiye-tras-accidente-en-planta-siderurgica"
+    },
+    {
+      "titulo": "09/11/2026 09:22 PM\nVenezuela recibió equipos de última generación para inspeccionar infraestructuras tras sismos",
+      "link": "https://mazo4f.com/venezuela-recibio-equipos-de-ultima-generacion-para-inspeccionar-infraestructuras-tras-sismos"
+    },
     {
       "titulo": "08/11/2026 11:25 PM\nVenezuela se solidariza con el Pueblo y Gobierno de Egipto tras trágico accidente ferroviario",
       "link": "https://mazo4f.com/venezuela-se-solidariza-con-el-pueblo-y-gobierno-de-egipto-tras-tragico-accidente-ferroviario"
@@ -69,65 +85,65 @@
     {
       "titulo": "08/11/2026 09:44 PM\nVenezuela clasifica a final del futsal femenino en los Juegos Olímpicos de la Juventud",
       "link": "https://mazo4f.com/venezuela-clasifica-a-final-del-futsal-femenino-en-los-juegos-olimpicos-de-la-juventud"
-    },
-    {
-      "titulo": "08/11/2026 07:25 PM\n\"Pasito a paso\": Museo de Ciencias presentará jornada de cuentacuentos en el Parque Los Caobos",
-      "link": "https://mazo4f.com/pasito-a-paso-museo-de-ciencias-presentara-jornada-de-cuentacuentos-en-el-parque-los-caobos"
-    },
-    {
-      "titulo": "07/11/2026 11:30 PM\nMiranda se coronó campeón de los Juegos Deportivos Nacionales Comunales 2026",
-      "link": "https://mazo4f.com/miranda-se-corono-campeon-de-los-juegos-deportivos-nacionales-comunales-2026"
-    },
-    {
-      "titulo": "07/11/2026 08:07 PM\nCanciller Blanco destaca avances económicos y protección a la diáspora tras agenda internacional",
-      "link": "https://mazo4f.com/canciller-blanco-destaca-avances-economicos-y-proteccion-a-la-diaspora-tras-agenda-internacional"
     }
   ],
   "VTV": [
     {
-      "titulo": "Venezuela formaliza la ratificación del Convenio Multilateral Iberoamericano de Seguridad Social",
-      "link": "https://vtv.com.ve/venezuela-formaliza-convenio-iberoamericano-seguridad-social/"
+      "titulo": "Mundial de Béisbol U23: Team Venezuela propina tercer nocaut y suma 22 inning en blanco",
+      "link": "https://vtv.com.ve/mundial-de-beisbol-u23-team-venezuela-propina-tercer-nocaut-22-ininng-en-blanco/"
     },
     {
-      "titulo": "¿Necesitas licencia de conducir para las motos eléctricas en Venezuela? Esto dice la ley",
-      "link": "https://vtv.com.ve/necesitas-licencia-de-conducir-para-las-motos-electricas-en-venezuela-esto-dice-la-ley/"
+      "titulo": "Venezuela e India evalúan proyectos de transporte y prevención de riesgos climáticos",
+      "link": "https://vtv.com.ve/venezuela-india-evaluan-proyectos-transporte-prevencion-riesgos/"
     },
     {
-      "titulo": "Juegos Olímpicos de la Juventud: Venezuela clasifica a la final del futsal femenino",
-      "link": "https://vtv.com.ve/venezuela-vence-iran-futsal-olimpicos-juventud/"
+      "titulo": "Avanza diálogo entre Venezuela y Países Bajos para consolidar las relaciones bilaterales",
+      "link": "https://vtv.com.ve/avanza-dialogo-venezuela-paises-bajos-consolidar-relaciones-bilaterales/"
     },
     {
-      "titulo": "Mundial de Béisbol U23: Team Venezuela propina su tercer blanqueo",
-      "link": "https://vtv.com.ve/team-beisbol-venezuela-u23-propina-tercer-blanqueo-mundial/"
+      "titulo": "Diosdado Cabello: Venezuela se reposiciona en el mundo",
+      "link": "https://vtv.com.ve/cabello-venezuela-se-reposiciona-en-el-mundo/"
     },
     {
-      "titulo": "Venezuela firma acuerdo con China para impulsar exportación pesquera",
-      "link": "https://vtv.com.ve/venezuela-firma-acuerdo-china-exportacion-pesquera/"
+      "titulo": "Edición 22.ª de la Filven llega a Caracas con amplia agenda cultural del 13 al 23 de noviembre",
+      "link": "https://vtv.com.ve/la-filven-llega-caracas-amplia-agenda-cultural-nov/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Venezuela ratifica Convenio Multilateral Iberoamericano de Seguridad Social",
-      "link": "https://rnv.gob.ve/venezuela-multilateral-iberoamericano-seguridad-social/"
+      "titulo": "ExxonMobil resalta valor estratégico de acuerdos energéticos con Venezuela",
+      "link": "https://rnv.gob.ve/exxonmobil-estrategico-acuerdos-energeticos-venezuela/"
     },
     {
-      "titulo": "Venezuela y Japón fortalecen mecanismos de asistencia técnica a través de la JICA",
-      "link": "https://rnv.gob.ve/venezuela-japon-fortalecen-asistencia-tecnica-con-jica/"
+      "titulo": "Venezuela expresa condolencias a Türkiye tras accidente en planta siderúrgica de Izmir",
+      "link": "https://rnv.gob.ve/venezuela-expresa-condolencias-turkiye-accidente-izmir/"
     },
     {
-      "titulo": "Gobierno nacional entrega viviendas a 78 familias en Brisas de Maiquetía 🏠",
-      "link": "https://www.youtube.com/watch?v=bDpBWpzkI5U"
+      "titulo": "Poder Judicial impulsa reforma penal mediante consultas nacionales",
+      "link": "https://rnv.gob.ve/poder-judicial-impulsa-consulta-nacional-reforma-penal/"
     },
     {
-      "titulo": "Presidenta Delcy Rodríguez sostiene reunión con el canciller Oliver Blanco para revisar agenda internacional y diplomática de Venezuela",
-      "link": "https://rnv.gob.ve/presidenta-revisa-agenda-de-diplomacia-con-el-canciller/"
+      "titulo": "Aprueban propuesta de Venezuela para crear Red de Jóvenes Defensores de DD.HH.",
+      "link": "https://rnv.gob.ve/noticias-aprueban-propuesta-venezuela-red-jovenes-ddhh/"
     },
     {
-      "titulo": "Venezolana Mariangelica Carrera ganó Reinado Internacional del Cacao 2026",
-      "link": "https://rnv.gob.ve/mariangelica-carrera-gana-reinado-del-cacao-2026/"
+      "titulo": "Venezuela e Italia evalúan planes de protección del patrimonio cultural",
+      "link": "https://rnv.gob.ve/venezuela-italia-evaluan-proteccion-patrimonio-cultural/"
     }
   ],
   "Radio Mundial": [
+    {
+      "titulo": "Venezuela expresa sus condolencias a Türkiye tras trágico accidente en planta siderúrgica de Izmir",
+      "link": "venezuela-condolencias-turkiye-accidente-siderurgica-izmir/"
+    },
+    {
+      "titulo": "Naguanagua fue sede del tenis de mesa en los IV Juegos Nacionales Comunales 2026",
+      "link": "naguanagua-fue-sede-del-tenis-de-mesa-en-los-iv-juegos-nacionales-comunales-2026/"
+    },
+    {
+      "titulo": "Ministro Luis Villegas resalta avance de la producción nacional y del aparato productivo",
+      "link": "ministro-luis-villegas-resalta-avance-de-la-produccion-nacional-y-del-aparato-productivo/"
+    },
     {
       "titulo": "Venezuela y Japón fortalecen alianzas estratégicas con la Agencia de Cooperación Internacional",
       "link": "venezuela-y-japon-fortalecen-alianzas-estrategicas-con-la-agencia-de-cooperacion-internacional/"
@@ -135,22 +151,18 @@
     {
       "titulo": "Gobierno Nacional fortalece su agenda internacional centrada en el diálogo y la protección de los venezolanos",
       "link": "gobierno-nacional-fortalece-agenda-internacional-respaldo-venezolanos-exterior/"
-    },
-    {
-      "titulo": "Venezuela ratifica Convenio Iberoamericano de Seguridad Social para garantizar pensiones a sus migrantes",
-      "link": "venezuela-ratifica-convenio-iberoamericano-de-seguridad-social-para-garantizar-pensiones-a-sus-migrantes/"
-    },
-    {
-      "titulo": "Gobierno de Venezuela envía deseos de paz, estabilidad y bienestar al pueblo de Paraguay",
-      "link": "venezuela-envia-deseos-paz-estabilidad-bienestar-pueblo-paraguay/"
-    },
-    {
-      "titulo": "Papa León XIV inicia histórica gira por Sudamérica en Uruguay con un mensaje de justicia social",
-      "link": "papa-leon-xiv-inicia-historica-gira-sudamerica-uruguay-mensaje-justicia-social/"
     }
   ],
   "La Radio del Sur": [],
   "Ministerio de Cultura": [
+    {
+      "titulo": "El perro y la rana llega a la Filven con títulos de ciencia ficción, crónica musical y saberes ancestrales",
+      "link": "https://www.mincultura.gob.ve/noticias/el-perro-y-la-rana-llega-a-la-filven-con-titulos-de-ciencia-ficcion-cronica-musical-y-saberes-ancestrales/"
+    },
+    {
+      "titulo": "Última semana para participar en la construcción del Plan de la Cinematografía Nacional",
+      "link": "https://www.mincultura.gob.ve/noticias/ultima-semana-para-participar-en-la-construccion-del-plan-de-la-cinematografia-nacional/"
+    },
     {
       "titulo": "Expertos de Italia y Venezuela definen estrategias para proteger el patrimonio cultural ante desastres naturales",
       "link": "https://www.mincultura.gob.ve/noticias/expertos-de-italia-y-venezuela-definen-estrategias-para-proteger-el-patrimonio-cultural-ante-desastres-naturales/"
@@ -162,84 +174,88 @@
     {
       "titulo": "Nueva versión de “El pez que fuma” representa a Venezuela en Festival de Mar del Plata",
       "link": "https://www.mincultura.gob.ve/noticias/nueva-version-de-el-pez-que-fuma-representa-a-venezuela-en-festival-de-mar-del-plata/"
-    },
-    {
-      "titulo": "El cine nacional celebró su historia en la Semana del Patrimonio Fílmico",
-      "link": "https://www.mincultura.gob.ve/noticias/el-cine-nacional-celebro-su-historia-en-la-semana-del-patrimonio-filmico/"
-    },
-    {
-      "titulo": "Fotos y diseños para redes sociales fueron los protagonistas de masterclass en la Casa del Artista",
-      "link": "https://www.mincultura.gob.ve/noticias/fotos-y-disenos-para-redes-sociales-fueron-los-protagonistas-de-masterclass-en-la-casa-del-artista/"
     }
   ],
   "Agencia Xinhua": [
     {
-      "titulo": "El centro de prensa de la IX CIIE celebra el Día de los Periodistas de China",
-      "link": "20261109/b8ef2d501039431892c0854c2961f025/c.html"
+      "titulo": "China entrega restos de aviadores estadounidenses encontrados en la Ruta de la Joroba de Segunda Guerra Mundial",
+      "link": "20261110/919e845722cc48c09c61dba4398f72c4/c.html"
     },
     {
-      "titulo": "Exportaciones peruanas a China alcanzan 31.309 millones de dólares entre enero y septiembre de 2026",
-      "link": "https://spanish.news.cn/20261109/f75e0824977d4cfcbae87dcb03ab0b74/c.html"
+      "titulo": "El arte de armar rompecabezas se manifiesta en torneo internacional en capital argentina",
+      "link": "https://spanish.news.cn/20261110/f253f9c524a14bb490fd7dcba1cf3618/c.html"
     },
     {
-      "titulo": "Qué es necesario saber sobre la elección de delegados al XXI Congreso Nacional del PCCh",
-      "link": "20261108/58978557c29d4103a741827461160251/c.html"
+      "titulo": "Crecimiento del comercio exterior de China se acelera en los primeros 10 meses de 2026",
+      "link": "20261110/9035500cf18f4053a4e3a97017723924/c.html"
     },
     {
-      "titulo": "IPC de China aumenta 0,7% en octubre",
-      "link": "20261109/13a75266cc7f4f8d8fbf24295aef19be/c.html"
+      "titulo": "(CIIE) Exposición de importaciones de China reporta más de 85.000 millones de dólares en acuerdos previstos",
+      "link": "20261110/fad890e2fec44fe4b793caba3c90c1a1/c.html"
     },
     {
-      "titulo": "China extiende por dos meses suspensión de arancel adicional de 24% sobre productos estadounidenses",
-      "link": "20261109/6d17cd0dd9f448a9b8879729c55d2d55/c.html"
+      "titulo": "Enfoque de China: La autenticidad frente a los algoritmos, Cumbre Mundial de Medios explora la confianza en la era de la IA",
+      "link": "20261110/c4507f7a175c4752b312c26b58ebf801/c.html"
     }
   ],
   "RT en Español": [
     {
-      "titulo": "Trump: Kiev mostró \"una gran falta de respeto\" hacia Rusia",
-      "link": "https://actualidad.rt.com/actualidad/636811-trump-kiev-mostro-gran-falta-respeto-rusia"
+      "titulo": "Rusia, EE.UU. y Ucrania, cara a cara: todos los detalles de un encuentro de alcance global",
+      "link": "https://actualidad-rt.com/actualidad/636913-rusia-ucrania-eeuu-reanudan-dialogo-minuto"
     },
     {
-      "titulo": "Moscú: La UE busca expulsar a más de 1 millón de ucranianos que ve como \"excelente material desechable\" contra Rusia",
-      "link": "https://actualidad.rt.com/actualidad/635419-moscu-ue-busca-expulsar-ucranianos-material-contra-rusia"
+      "titulo": "Rusia, Ucrania y EE.UU. reanudan el diálogo en Abu Dabi",
+      "link": "https://actualidad.rt.com/actualidad/636913-rusia-ucrania-eeuu-reanudan-dialogo-minuto"
     },
     {
-      "titulo": "Pekín comenta el escándalo del jefe de Nvidia con una supuesta 'espía china'",
-      "link": "https://actualidad.rt.com/actualidad/636828-pekin-comenta-escandalo-jefe-nnvidia-espia-china"
+      "titulo": "¿Quién representará a Rusia en las negociaciones trilaterales con EE.UU. y Ucrania en Abu Dabi?",
+      "link": "https://actualidad.rt.com/actualidad/636984-quien-representara-rusia-abu-dabi"
     },
     {
-      "titulo": "Rusia: La UE busca formas de compensar las pérdidas catastróficas de las FF.AA. de Ucrania",
-      "link": "https://actualidad.rt.com/actualidad/636826-rusia-europa-busca-compensar-perdidas-ucrania"
+      "titulo": "Reunión trilateral de Rusia, Ucrania y EE.UU.: qué se debe saber sobre estas negociaciones de alcance global",
+      "link": "https://actualidad.rt.com/actualidad/636856-rusia-ucrania-eeuu-celebraran-nueva-reunion"
     },
     {
-      "titulo": "CEO de Nvidia reconoce infidelidad con presunta espía china, y la empresa toma esta acción",
-      "link": "https://actualidad.rt.com/actualidad/636779-nvidia-investigacion-ceo-relacion-china-espionaje"
+      "titulo": "Lavrov revela por qué Occidente orquestó una guerra contra Rusia utilizando a Kiev",
+      "link": "https://actualidad.rt.com/actualidad/636939-occidente-desatado-guerra-rusia-someter"
     }
   ],
   "Telesur": [
     {
-      "titulo": "Venezuela se suma a las naciones que aplican la acumulación de lapsos laborados bajo normativas extranjeras coordinadas. El acuerdo permitirá sumar los años de cotización de los trabajadores en el exterior.",
-      "link": "https://www.telesurtv.net/venezuela-iberoamerica-seguridad-social/"
+      "titulo": "Presidente Díaz-Canel asegura que futuro de Cuba no se decidirá jamás desde el norte",
+      "link": "https://www.telesurtv.net/presidente-diaz-canel-asegura-futuro-cuba-decidira-jamas-norte/"
     },
     {
-      "titulo": "Venezuela busca identificar los nodos necesarios para alcanzar la plena capacidad industrial y acelerar la productividad para que el sector público y el privado sigan «marchando juntos».",
-      "link": "https://www.telesurtv.net/delcy-100-porciento-planta-industrial-venezuela/"
+      "titulo": "Presidenta (E) de Venezuela lidera firma de memorando de entendimiento entre PDVSA y ExxonMobil",
+      "link": "https://www.telesurtv.net/presidenta-venezuela-lidera-firma-memorando-pdvsa-exxonmobil/"
     },
     {
-      "titulo": "Venezuela firma alianza con empresa turca para incorporar 200 MW al sistema eléctrico",
-      "link": "https://www.telesurtv.net/venezuela-alianza-empresa-turca-incorporar-sistema-electrico/"
+      "titulo": "Rusia, Ucrania y EE.UU. retoman conversaciones en Abu Dabi para abordar el conflicto",
+      "link": "https://www.telesurtv.net/rusia-ucrania-eeuu-retoman-conversaciones-abu-dabi/"
     },
     {
-      "titulo": "Diversos sectores sociales marchan en Quito contra el Gobierno de Daniel Noboa",
-      "link": "https://www.telesurtv.net/diversos-sectores-sociales-marchan-en-quito-contra-el-gobierno-de-daniel-noboa/"
+      "titulo": "Reprimen a estudiantes que rechazaban políticas del gobierno colombiano",
+      "link": "https://www.telesurtv.net/reprimen-estudiantes-rechazaban-politicas-gobierno-colombiano/"
     },
     {
-      "titulo": "Paraguay ordena prisión preventiva contra Carlos Carvallo Spalding expresidente del Banco Central",
-      "link": "https://www.telesurtv.net/paraguay-ordena-prision-preventiva-contra-carlos-carvallo-spalding-expresidente-del-banco-central/"
+      "titulo": "El campeonato tiene un significado especial: marca el regreso de una cita panamericana de tenis de mesa a Venezuela, luego de que la edición 2025 no pudiera realizarse en ese país.",
+      "link": "https://www.telesurtv.net/caracas-recibe-elite-continental-tenis-mesa/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
+    {
+      "titulo": "Las negociaciones entre Rusia, Estados Unidos y Ucrania buscan avances hacia la paz",
+      "link": "https://vovworld.vn/es-ES/noticias/las-negociaciones-entre-rusia-estados-unidos-y-ucrania-buscan-avances-hacia-la-paz-2479307.vov5"
+    },
+    {
+      "titulo": "Dos patrimonios documentales inscritos en el Programa Memoria del Mundo de la UNESCO: un nuevo motivo de proyección internacional para Vietnam",
+      "link": "https://vovworld.vn/es-ES/noticias/dos-patrimonios-documentales-inscritos-en-el-programa-memoria-del-mundo-de-la-unesco-un-nuevo-motivo-2478404.vov5"
+    },
+    {
+      "titulo": "El Parlamento vietnamita debate medidas para convertir las industrias culturales en un sector económico estratégico",
+      "link": "https://vovworld.vn/es-ES/noticias/el-parlamento-vietnamita-debate-medidas-para-convertir-las-industrias-culturales-en-un-sector-2479351.vov5"
+    },
     {
       "titulo": "Concluye el Festival Internacional del Té de Thai Nguyen 2026",
       "link": "https://vovworld.vn/es-ES/noticias/concluye-el-festival-internacional-del-te-de-thai-nguyen-2026-2478820.vov5"
@@ -247,18 +263,6 @@
     {
       "titulo": "La Voz de Vietnam participa por primera vez en la Cumbre Mundial de Medios de Comunicación en China",
       "link": "https://vovworld.vn/es-ES/noticias/la-voz-de-vietnam-participa-por-primera-vez-en-la-cumbre-mundial-de-medios-de-comunicacion-en-china-2478817.vov5"
-    },
-    {
-      "titulo": "El líder del Parlamento asiste a la inauguración de varias obras en Sitio Histórico Nacional Especial",
-      "link": "https://vovworld.vn/es-ES/noticias/el-lider-del-parlamento-asiste-a-la-inauguracion-de-varias-obras-en-sitio-historico-nacional-2478866.vov5"
-    },
-    {
-      "titulo": "El presidente de Israel encomienda a Gadi Eisenkot la formación de un nuevo Gobierno",
-      "link": "https://vovworld.vn/es-ES/noticias/el-presidente-de-israel-encomienda-a-gadi-eisenkot-la-formacion-de-un-nuevo-gobierno-2478888.vov5"
-    },
-    {
-      "titulo": "Vietnam, mil y una historias",
-      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
     }
   ]
 }
