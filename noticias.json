@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "Comunas en Red Digital",
+      "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
+    },
+    {
       "titulo": "Poder Popular e Ingeniería se articulan para impulsar la cartografía Comunal",
       "link": "https://www.comunas.gob.ve/2026/11/11/poder-popular-e-ingenieria-se-articulan-para-impulsar-la-cartografia-comunal/"
     },
@@ -15,13 +19,13 @@
     {
       "titulo": "Escuela Decolonial Comuna o Nada",
       "link": "https://www.comunas.gob.ve/decolonial/"
-    },
-    {
-      "titulo": "Sistema de Registro de Consejos Comunales",
-      "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
     }
   ],
   "Mippci Medios Comunitarios": [
+    {
+      "titulo": "Inauguran Museo Didáctico para la Enseñanza de las Ciencias Dr. Humberto Fernández-Morán en Zulia",
+      "link": "https://mippci.gob.ve/inauguran-museo-didactico-para-la-ensenanza-de-las-ciencias-dr-humberto-fernandez-moran-en-zulia/"
+    },
     {
       "titulo": "Programa Nacional Semilleros Científicos llega a más de 200 estudiantes en Portuguesa",
       "link": "https://mippci.gob.ve/programa-nacional-semilleros-cientificos-llega-a-mas-de-200-estudiantes-en-portuguesa/"
@@ -37,10 +41,6 @@
     {
       "titulo": "Portuguesa consolida marco legal para la innovación comunal",
       "link": "https://mippci.gob.ve/portuguesa-consolida-marco-legal-innovacion-comunal/"
-    },
-    {
-      "titulo": "Certifican a más de 300 mujeres emprendedoras de siete comunas de Coro",
-      "link": "https://mippci.gob.ve/certifican-a-mas-de-300-mujeres-emprendedoras-de-siete-comunas-de-coro/"
     }
   ],
   "Correo del Orinoco": [
@@ -89,27 +89,39 @@
   ],
   "VTV": [
     {
+      "titulo": "Venezuela y Türkiye fortalecen lazos energéticos durante encuentro bilateral en la COP31",
+      "link": "https://vtv.com.ve/venezuela-turkiye-lazos-energeticos-encuentro-bilateral-cop31/"
+    },
+    {
+      "titulo": "Mundial de Béisbol U23: Team Venezuela mantuvo invicto al remontar ante  Australia",
+      "link": "https://vtv.com.ve/mundial-beisbol-u23-team-venezuela-u23-remontar-ante-australia/"
+    },
+    {
+      "titulo": "Venezuela defiende una transición energética justa sin comprometer la Madre Tierra",
+      "link": "https://vtv.com.ve/venezuela-defiende-transicion-energetica-justa-madre-tierra/"
+    },
+    {
+      "titulo": "Carlos Magallanes: Venezuela mantiene una posición firme en el cuidado del ambiente",
+      "link": "https://vtv.com.ve/carlos-magallanes-venezuela-posicion-firme-cuidado-ambiente/"
+    },
+    {
       "titulo": "COP 31: Presidenta Delcy Rodríguez anunció la creación del Plan Venezuela Vive",
       "link": "https://vtv.com.ve/cop-31-presidenta-delcy-rodriguez-anuncio-la-creacion-del-plan-venezuela-vive/"
-    },
-    {
-      "titulo": "Presidente de la AN Jorge Rodríguez gana medalla de plata en Panamericano Máster de Tenis de Mesa",
-      "link": "https://vtv.com.ve/conquisto-medalla-plata-panamericano-master-tenis-mesa/"
-    },
-    {
-      "titulo": "Venezuela y FAO actualizan metodologías sobre Hojas de Balance de Alimentos en el país",
-      "link": "https://vtv.com.ve/inn-fao-actualizan-metodologias-hojas-balance-alimentos-pais/"
-    },
-    {
-      "titulo": "La ruta debe ser la Constitución, paz, diálogo y convivencia democrática de Venezuela",
-      "link": "https://www.youtube.com/watch?v=BXFFMss439o"
-    },
-    {
-      "titulo": "Vive la emoción hípica nacional todos los domingos a las 3:00 p. m.",
-      "link": "https://www.youtube.com/watch?v=m-9j9c8RuVM"
     }
   ],
   "RNV": [
+    {
+      "titulo": "Venezuela vence sobre la chicharra a Paraguay y mantiene el invicto",
+      "link": "https://rnv.gob.ve/vence-sobre-chicharra-paraguay-sudamericano-u16/"
+    },
+    {
+      "titulo": "MinMujer y el TSJ inauguran ocho oficinas de la Defensoría Nacional de los Derechos de la Mujer",
+      "link": "https://rnv.gob.ve/minmujer-tsj-inauguran-oficinas-defensoria-derechos-mujer/"
+    },
+    {
+      "titulo": "Fedecámaras promueve inversiones en Alemania y prevé la llegada de capitales europeos a Venezuela",
+      "link": "https://rnv.gob.ve/fedecamaras-inversiones-alemania-capitales-europeos/"
+    },
     {
       "titulo": "Venezuela propone transición energética y financiamiento climático justo en la COP31",
       "link": "https://rnv.gob.ve/venezuela-propone-transicion-energetica-justa-cop31/"
@@ -117,40 +129,28 @@
     {
       "titulo": "Ejecutivo Nacional anuncia el plan «Venezuela Vive» en la COP31",
       "link": "https://rnv.gob.ve/ejecutivo-nacional-anuncia-plan-venezuela-vive-cop31/"
-    },
-    {
-      "titulo": "Alcaldía de Caracas refuerza el plan «Caracas se ve mejor» en la Intercomunal Valle-Coche con más de 300 toneladas semanales de recolección",
-      "link": "https://rnv.gob.ve/alcaldia-caracas-refuerza-plan-limpieza-valle-coche/"
-    },
-    {
-      "titulo": "Regresan a Venezuela 349 connacionales a través de la Gran Misión Vuelta a la Patria",
-      "link": "https://rnv.gob.ve/regresan-349-venezolanos-mision-vuelta-a-la-patria/"
-    },
-    {
-      "titulo": "Venezuela inicia transformación aduanera con modernización tecnológica",
-      "link": "https://rnv.gob.ve/modernizan-gestion-aduanera-sistema-digital-cero-papel/"
     }
   ],
   "Radio Mundial": [
     {
-      "titulo": "Wilmer Depablos destaca la defensa de la soberanía energética y ambiental de Venezuela en la COP31",
-      "link": "wilmer-depablos-soberania-energetica-venezuela-cop31/"
+      "titulo": "Presidenta Delcy Rodríguez presenta el Plan Venezuela Vive en la COP31",
+      "link": "delcy-rodriguez-presenta-plan-venezuela-vive-cop31/"
     },
     {
-      "titulo": "Foro Nacional por el Día Mundial de la Ciencia reúne a más de 5.000 actores",
-      "link": "foro-nacional-ciencia-paz-desarrollo-venezuela/"
+      "titulo": "Gobierno e India evalúan proyectos de salud en La Guaira",
+      "link": "gobierno-india-evaluan-proyectos-salud-la-guaira/"
     },
     {
-      "titulo": "Inician prueba nacional de aprendizaje en escuelas y liceos de Nueva Esparta",
-      "link": "inician-prueba-nacional-de-aprendizaje-en-escuelas-y-liceos-de-nueva-esparta/"
+      "titulo": "Gobierno destina 99 % de egresos de fondos soberanos a salarios y pensiones",
+      "link": "gobierno-destina-99-por-ciento-fondos-salarios-pensiones/"
     },
     {
-      "titulo": "Bolipuertos evalúa propuestas para modernizar el sector acuático y portuario nacional",
-      "link": "bolipuertos-evalua-propuestas-para-modernizar-el-sector-acuatico-y-portuario-nacional/"
+      "titulo": "Gobierno Nacional activa portal de transparencia sobre fondos soberanos",
+      "link": "gobierno-nacional-activa-portal-transparencia-fondos-soberanos/"
     },
     {
-      "titulo": "Venezuela ratifica su compromiso con las energías limpias ante la crisis climática en la COP31",
-      "link": "venezuela-ratifica-su-compromiso-con-las-energias-limpias-ante-la-crisis-climatica-en-la-cop31/"
+      "titulo": "Venezuela y Türkiye evalúan proyectos conjuntos en petróleo y gas durante la COP31",
+      "link": "venezuela-turkiye-evaluan-proyectos-petroleo-gas-cop31/"
     }
   ],
   "La Radio del Sur": [],
@@ -178,72 +178,80 @@
   ],
   "Agencia Xinhua": [
     {
+      "titulo": "La etnia miao de China celebra su Año Nuevo con desfiles y cantos",
+      "link": "20261113/5604d99076b14d2cb0bd306fcaf41e26/c.html"
+    },
+    {
+      "titulo": "México y China inician proyecto arqueológico conjunto en sitio maya de Yaxcopoil-Tanmul",
+      "link": "https://spanish.news.cn/20261113/a85892875c94414387924f798e7cdea3/c.html"
+    },
+    {
+      "titulo": "Balneario mexicano de Acapulco busca consolidarse como nodo de turismo y cooperación para Asia-Pacífico",
+      "link": "https://spanish.news.cn/20261113/1321cf6569bb4333951ebdd1b9508cc8/c.html"
+    },
+    {
       "titulo": "China celebra acto conmemorativo por 160º aniversario de natalicio de Sun Yat-sen",
       "link": "https://spanish.news.cn/20261112/04bfa0b53c62467db2a6c3157905f145/c.html"
     },
     {
       "titulo": "Abre sus puertas el centro de prensa de la Semana de Líderes Económicos de APEC 2026 en Shenzhen, China",
       "link": "20261112/54930297d5c74547ac22b8928e6c2e8d/c.html"
-    },
-    {
-      "titulo": "Aldeas chinas impulsan sus ingresos colectivos con una empresa procesadora de chile",
-      "link": "20261112/b51d2aff0e804ddb98fdb2676545ffdb/c.html"
-    },
-    {
-      "titulo": "#AmazingChina | La IA a través de los ojos de líderes de medios internacionales",
-      "link": "https://spanish.news.cn/20261112/766f61d95cd74ba9b480746fd1a175b8/c.html"
-    },
-    {
-      "titulo": "Xi pide llevar adelante el legado de Sun Yat-sen en la causa de revitalización nacional",
-      "link": "20261112/28f60d65bb61462ba56adb3f349e3b62/c.html"
     }
   ],
   "RT en Español": [
     {
-      "titulo": "Pekín lanza un llamado severo a EE.UU. por la narrativa de la 'espía china'",
-      "link": "https://actualidad.rt.com/actualidad/637390-pekin-lanzar-llamado-severo-eeuu"
+      "titulo": "Rusia insta a EE.UU. y Europa a animar a Kiev a realizar la nueva operación humanitaria en Donbass",
+      "link": "https://actualidad-rt.com/actualidad/637619-rusia-insta-eeuu-europa-animar-kiev-operacion-humanitaria"
     },
     {
-      "titulo": "La OTAN sopesa un giro estratégico no visto en décadas para 'apuntar todos los cañones' contra Rusia",
-      "link": "https://actualidad.rt.com/actualidad/637268-otan-preparar-giro-estrategico-enfocar-fuerzas-rusia"
+      "titulo": "Los cimientos que Rusia propone para una nueva seguridad europea",
+      "link": "https://actualidad.rt.com/actualidad/637394-cimientos-rusia-propone-nueva-seguridad-europa"
     },
     {
-      "titulo": "\"Con una curita no basta\": Rusia lleva a Abu Dabi un diagnóstico para Europa y la receta para curarla",
-      "link": "https://actualidad.rt.com/actualidad/637252-curita-no-basta-rusia-lleva-abu-dabi-diagnostico-europa"
+      "titulo": "Rusia está lista para comenzar de inmediato el desminado de Konstantínovka para una misión humanitaria",
+      "link": "https://actualidad.rt.com/actualidad/637543-rusia-preparada-comenzar-inmediato-desminado"
     },
     {
-      "titulo": "Detienen a 4 agentes de Kiev que recopilaban información para atentados en Rusia",
-      "link": "https://actualidad.rt.com/actualidad/637381-detienen-4-agentes-kiev-recopilaban"
+      "titulo": "Macron se ofrece como negociador con Rusia, pero afirma que la UE necesita \"una visión clara\" de qué quiere",
+      "link": "https://actualidad.rt.com/actualidad/637532-macron-ofrece-negociador-rusia-ue-necesita"
     },
     {
-      "titulo": "Muere el embajador de Rusia en EE.UU.",
-      "link": "https://actualidad.rt.com/actualidad/637285-muere-embajador-rusia-eeuu"
+      "titulo": "El primer dron comercial de China propulsado por energía solar realiza su vuelo inaugural",
+      "link": "https://actualidad.rt.com/actualidad/637479-china-dron-energ%C3%ADa-solar"
     }
   ],
   "Telesur": [
     {
+      "titulo": "PIB de Venezuela aumenta 7.42% en el tercer trimestre de 2026",
+      "link": "https://www.telesurtv.net/venezuela-pib-crecio-7-tercer-trimestre/"
+    },
+    {
+      "titulo": "Colombia pide ayuda a Venezuela para rescatar a primera dama de Uribia secuestrada en La Guajira",
+      "link": "https://www.telesurtv.net/colombia-pide-ayuda-a-venezuela-para-rescatar-a-primera-dama-de-uribia-secuestrada-en-la-guajira/"
+    },
+    {
+      "titulo": "Los fondos recaudados durante los encuentros ante Navegantes del Magallanes en el loanDepot park irán destinados a los afectados por el reciente sismo en Venezuela.",
+      "link": "https://www.telesurtv.net/miguel-rojas-despedida-con-la-guaira-en-miami/"
+    },
+    {
+      "titulo": "Las autoridades de Venezuela y Antigua y Barbuda evaluaron nuevas áreas de cooperación estratégica en el marco de la cumbre COP31.",
+      "link": "https://www.telesurtv.net/delcy-reunion-primer-mtro-antigua-barbuda/"
+    },
+    {
       "titulo": "Aumenta la desaprobación a la gestión de Keiko Fujimori al cumplirse cien días de gobierno",
       "link": "https://www.telesurtv.net/aumenta-la-desaprobacion-a-la-gestion-de-keiko-fujimori-al-cumplirse-cien-dias-de-gobierno/"
-    },
-    {
-      "titulo": "Gobierno de Chile congela el precio de los combustibles por tres meses",
-      "link": "https://www.telesurtv.net/gobierno-de-chile-congela-el-precio-de-los-combustibles-por-tres-meses/"
-    },
-    {
-      "titulo": "Papa León XIX en Perú: «Amar a un pueblo es desear que todos puedan vivir dignamente»",
-      "link": "https://www.telesurtv.net/papa-peru-pueblo-vivir-dignamente/"
-    },
-    {
-      "titulo": "Irán y Rusia coordinan esfuerzos estratégicos contra plan estadounidense en el mar Caspio",
-      "link": "https://www.telesurtv.net/iran-y-rusia-coordinan-esfuerzos-estrategicos-contra-plan-estadounidense-en-el-mar-caspio/"
-    },
-    {
-      "titulo": "Sheinbaum aumenta presupuesto de 2027 para salud, educación, campo y ciencia",
-      "link": "https://www.telesurtv.net/sheinbaum-partidas-2027-salud-campo-educacion/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
+    {
+      "titulo": "El presidente del Parlamento vietnamita asistirá a la 47.ª Asamblea General de la AIPA en Filipinas",
+      "link": "https://vovworld.vn/es-ES/noticias/el-presidente-del-parlamento-vietnamita-asistira-a-la-47a-asamblea-general-de-la-aipa-en-filipinas-2479946.vov5"
+    },
+    {
+      "titulo": "Dirigentes de Vietnam y Rusia piden transformar los acuerdos en programas de cooperación eficaces",
+      "link": "https://vovworld.vn/es-ES/noticias/dirigentes-de-vietnam-y-rusia-piden-transformar-los-acuerdos-en-programas-de-cooperacion-eficaces-2479952.vov5"
+    },
     {
       "titulo": "La Asamblea Nacional de Vietnam celebra interpelaciones sobre finanzas y ciencia y tecnología",
       "link": "https://vovworld.vn/es-ES/noticias/la-asamblea-nacional-de-vietnam-celebra-interpelaciones-sobre-finanzas-y-ciencia-y-tecnologia-2479855.vov5"
@@ -255,14 +263,6 @@
     {
       "titulo": "La Voz de Vietnam obtiene el Premio A del certamen periodístico “Por la causa de la gran unidad nacional”",
       "link": "https://vovworld.vn/es-ES/noticias/la-voz-de-vietnam-obtiene-el-premio-a-del-certamen-periodistico-por-la-causa-de-la-gran-unidad-2479842.vov5"
-    },
-    {
-      "titulo": "Ministros de Exteriores de China y Estados Unidos abordan sus relaciones antes de la cumbre de APEC",
-      "link": "https://vovworld.vn/es-ES/noticias/ministros-de-exteriores-de-china-y-estados-unidos-abordan-sus-relaciones-antes-de-la-cumbre-de-apec-2479847.vov5"
-    },
-    {
-      "titulo": "Vietnam, mil y una historias",
-      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
     }
   ]
 }
