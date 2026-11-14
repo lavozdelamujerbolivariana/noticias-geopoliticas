@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "Sistema de Registro de Consejos Comunales",
+      "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
+    },
+    {
       "titulo": "Comunas en Red Digital",
       "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
     },
@@ -15,13 +19,17 @@
     {
       "titulo": "Fundacomunal dio la bienvenida a la Navidad entre abrazos y el tradicional parrandón‎",
       "link": "https://www.comunas.gob.ve/2026/11/06/fundacomunal-dio-la-bienvenida-a-la-navidad-entre-abrazos-y-el-tradicional-parrandon/"
-    },
-    {
-      "titulo": "Escuela Decolonial Comuna o Nada",
-      "link": "https://www.comunas.gob.ve/decolonial/"
     }
   ],
   "Mippci Medios Comunitarios": [
+    {
+      "titulo": "Jornada de salud en Amazonas beneficia al pueblo yanonami",
+      "link": "https://mippci.gob.ve/jornada-de-salud-en-amazonas-beneficia-al-pueblo-yanonami/"
+    },
+    {
+      "titulo": "Celebran el Mes del Estudiante Universitario en Guárico con agenda académica, cultural y deportiva",
+      "link": "https://mippci.gob.ve/celebran-el-mes-del-estudiante-universitario-en-guarico-con-agenda-academica-cultural-y-deportiva/"
+    },
     {
       "titulo": "Inauguran Museo Didáctico para la Enseñanza de las Ciencias Dr. Humberto Fernández-Morán en Zulia",
       "link": "https://mippci.gob.ve/inauguran-museo-didactico-para-la-ensenanza-de-las-ciencias-dr-humberto-fernandez-moran-en-zulia/"
@@ -33,17 +41,17 @@
     {
       "titulo": "Jornadas medico-sociales atienden más de 38 mil guariqueños",
       "link": "https://mippci.gob.ve/jornadas-medico-sociales-atienden-38-mil-guariquenos/"
-    },
-    {
-      "titulo": "IV Parada Nacional de Bandas reunió 660 artistas en Las Tejerías",
-      "link": "https://mippci.gob.ve/iv-parada-nacional-bandas-660-artistas-las-tejerias/"
-    },
-    {
-      "titulo": "Portuguesa consolida marco legal para la innovación comunal",
-      "link": "https://mippci.gob.ve/portuguesa-consolida-marco-legal-innovacion-comunal/"
     }
   ],
   "Correo del Orinoco": [
+    {
+      "titulo": "Inicia cuarto ciclo de diálogo entre el Gobierno nacional y exdiputados de la AN de 2015",
+      "link": "https://www.correodelorinoco.gob.ve/inicia-cuarto-ciclo-de-dialogo-entre-el-gobierno-nacional-y-exdiputados-de-la-an-de-2015/"
+    },
+    {
+      "titulo": "INIDI participará en la 22.ª Feria Internacional del Libro de Venezuela 2026",
+      "link": "https://www.correodelorinoco.gob.ve/inidi-participara-en-la-22-a-feria-internacional-del-libro-de-venezuela-2026/"
+    },
     {
       "titulo": "Venezuela deleita a China con su cacao, chocolate y café verde",
       "link": "https://www.correodelorinoco.gob.ve/venezuela-deleita-a-china-con-su-cacao-chocolate-y-cafe-verde/"
@@ -55,14 +63,6 @@
     {
       "titulo": "Casa de la Cultura “Don Ramón Mejías” reabre sus puertas para impulsar el arte en Carabobo",
       "link": "https://www.correodelorinoco.gob.ve/casa-de-la-cultura-don-ramon-mejias-reabre-sus-puertas-para-impulsar-el-arte-en-carabobo/"
-    },
-    {
-      "titulo": "Venezuela e India evalúan proyectos de transporte y prevención de riesgos climáticos",
-      "link": "https://www.correodelorinoco.gob.ve/venezuela-e-india-evaluan-proyectos-de-transporte-y-prevencion-de-riesgos-climaticos/"
-    },
-    {
-      "titulo": "Oliver Blanco es designado como nuevo canciller de Venezuela",
-      "link": "https://www.correodelorinoco.gob.ve/oliver-blanco-es-designado-como-nuevo-canciller-de-venezuela/"
     }
   ],
   "El Mazo Dando": [
@@ -89,72 +89,84 @@
   ],
   "VTV": [
     {
-      "titulo": "Venezuela y Türkiye fortalecen lazos energéticos durante encuentro bilateral en la COP31",
-      "link": "https://vtv.com.ve/venezuela-turkiye-lazos-energeticos-encuentro-bilateral-cop31/"
+      "titulo": "Presidenta Delcy Rodríguez anuncia nuevo marco de cooperación entre Venezuela y el BID",
+      "link": "https://vtv.com.ve/presidenta-anuncia-nuevo-marco-cooperacion-venezuela-bid/"
     },
     {
-      "titulo": "Mundial de Béisbol U23: Team Venezuela mantuvo invicto al remontar ante  Australia",
-      "link": "https://vtv.com.ve/mundial-beisbol-u23-team-venezuela-u23-remontar-ante-australia/"
+      "titulo": "Inicia cuarto ciclo de diálogo entre el Gobierno nacional y exdiputados de la AN de 2015",
+      "link": "https://vtv.com.ve/gobierno-nacional-exdiputados-inician-cuarto-ciclo-dialogo/"
     },
     {
-      "titulo": "Venezuela defiende una transición energética justa sin comprometer la Madre Tierra",
-      "link": "https://vtv.com.ve/venezuela-defiende-transicion-energetica-justa-madre-tierra/"
+      "titulo": "Ejecutivo Nacional y aerolíneas evalúan estrategias para fortalecer la conectividad aérea",
+      "link": "https://vtv.com.ve/ejecutivo-nacional-aerolineas-estrategias-fortalecer-conectividad-aerea/"
     },
     {
-      "titulo": "Carlos Magallanes: Venezuela mantiene una posición firme en el cuidado del ambiente",
-      "link": "https://vtv.com.ve/carlos-magallanes-venezuela-posicion-firme-cuidado-ambiente/"
+      "titulo": "Mundial de Béisbol U23: Venezuela clasificó invicto a la final",
+      "link": "https://vtv.com.ve/mundial-beisbol-u23-venezuela-clasifico-invicto-final/"
     },
     {
-      "titulo": "COP 31: Presidenta Delcy Rodríguez anunció la creación del Plan Venezuela Vive",
-      "link": "https://vtv.com.ve/cop-31-presidenta-delcy-rodriguez-anuncio-la-creacion-del-plan-venezuela-vive/"
+      "titulo": "Leer es renacer: Cronograma de la Vicepresidencia Sectorial de Comunicación y Cultura en la Filven 2026",
+      "link": "https://vtv.com.ve/conoce-cronograma-vicepresidencia-comunicacion-cultura-filven/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Venezuela vence sobre la chicharra a Paraguay y mantiene el invicto",
-      "link": "https://rnv.gob.ve/vence-sobre-chicharra-paraguay-sudamericano-u16/"
+      "titulo": "Gobierno Nacional y AN 2015 instalan cuarta ronda de diálogo",
+      "link": "https://rnv.gob.ve/gobierno-nacional-an-2015-cuarta-ronda-de-dialogo/"
     },
     {
-      "titulo": "MinMujer y el TSJ inauguran ocho oficinas de la Defensoría Nacional de los Derechos de la Mujer",
-      "link": "https://rnv.gob.ve/minmujer-tsj-inauguran-oficinas-defensoria-derechos-mujer/"
+      "titulo": "Venezuela conquista una actuación histórica en los Juegos Olímpicos de la Juventud Dakar 2026",
+      "link": "https://rnv.gob.ve/venezuela-historica-actuacion-dakar-2026-subcampeonato/"
     },
     {
-      "titulo": "Fedecámaras promueve inversiones en Alemania y prevé la llegada de capitales europeos a Venezuela",
-      "link": "https://rnv.gob.ve/fedecamaras-inversiones-alemania-capitales-europeos/"
+      "titulo": "Presidenta Rodríguez celebra aprobación unánime de nuevo marco de cooperación del BID con Venezuela",
+      "link": "https://rnv.gob.ve/venezuela-celebra-aprobacion-marco-cooperacion-bid/"
     },
     {
-      "titulo": "Venezuela propone transición energética y financiamiento climático justo en la COP31",
-      "link": "https://rnv.gob.ve/venezuela-propone-transicion-energetica-justa-cop31/"
+      "titulo": "Autoridades definen despliegue de seguridad para los XXII Juegos Deportivos Nacionales Juveniles 2026",
+      "link": "https://rnv.gob.ve/despliegue-seguridad-xxii-juegos-nacionales-juveniles/"
     },
     {
-      "titulo": "Ejecutivo Nacional anuncia el plan «Venezuela Vive» en la COP31",
-      "link": "https://rnv.gob.ve/ejecutivo-nacional-anuncia-plan-venezuela-vive-cop31/"
+      "titulo": "Presidenta de Gran Misión Venezuela Renace supervisó rehabilitación de estadio Brígido Iriarte",
+      "link": "https://rnv.gob.ve/rehabilitan-de-estadio-brigido-iriarte/"
     }
   ],
   "Radio Mundial": [
     {
-      "titulo": "Presidenta Delcy Rodríguez presenta el Plan Venezuela Vive en la COP31",
-      "link": "delcy-rodriguez-presenta-plan-venezuela-vive-cop31/"
+      "titulo": "La Vinotinto Sub-20 iguala 2-2 ante Uzbekistán en amistoso internacional",
+      "link": "vinotinto-sub-20-empata-2-2-uzbekistan-amistoso/"
     },
     {
-      "titulo": "Gobierno e India evalúan proyectos de salud en La Guaira",
-      "link": "gobierno-india-evaluan-proyectos-salud-la-guaira/"
+      "titulo": "Alcalde de Miranda, Mérida, destaca respaldo a servicios públicos y comunas",
+      "link": "alcalde-de-miranda-merida-destaca-respaldo-a-servicios-publicos-y-comunas/"
     },
     {
-      "titulo": "Gobierno destina 99 % de egresos de fondos soberanos a salarios y pensiones",
-      "link": "gobierno-destina-99-por-ciento-fondos-salarios-pensiones/"
+      "titulo": "Vicepresidencia de Comunicación y Cultura invita a programación infantil en la Filven 2026",
+      "link": "vicepresidencia-comunicacion-cultura-programacion-filven-2026/"
     },
     {
-      "titulo": "Gobierno Nacional activa portal de transparencia sobre fondos soberanos",
-      "link": "gobierno-nacional-activa-portal-transparencia-fondos-soberanos/"
+      "titulo": "Inauguran en Caracas la 22.ª edición de la Filven 2026 con Rusia como país invitado",
+      "link": "inauguran-caracas-filven-2026-rusia-pais-invitado/"
     },
     {
-      "titulo": "Venezuela y Türkiye evalúan proyectos conjuntos en petróleo y gas durante la COP31",
-      "link": "venezuela-turkiye-evaluan-proyectos-petroleo-gas-cop31/"
+      "titulo": "Venezuela derrota 8-7 a Puerto Rico en extrainnings y avanza a la final del Mundial Sub-23",
+      "link": "venezuela-vence-puerto-rico-avanza-final-mundial-beisbol-sub-23/"
     }
   ],
   "La Radio del Sur": [],
   "Ministerio de Cultura": [
+    {
+      "titulo": "Filven 2026 abre sus puertas a 10 días de actividades culturales y literarias",
+      "link": "https://www.mincultura.gob.ve/noticias/filven-2026-abre-sus-puertas-a-10-dias-de-actividades-culturales-y-literarias/"
+    },
+    {
+      "titulo": "Sótano cultural de la Filven 2026 abrió con boleros, danza y salsa",
+      "link": "https://www.mincultura.gob.ve/noticias/sotano-cultural-de-la-filven-2026-abrio-con-boleros-danza-y-salsa/"
+    },
+    {
+      "titulo": "Ensayo, crónica y epistolario: la propuesta editorial de Biblioteca Ayacucho para la 22.ª FILVEN",
+      "link": "https://www.mincultura.gob.ve/noticias/ensayo-cronica-y-epistolario-la-propuesta-editorial-de-biblioteca-ayacucho-para-la-22-a-filven/"
+    },
     {
       "titulo": "Avanza la integración tecnológica del sector creativo tras la master class «IA Aplicada a la Cultura»",
       "link": "https://www.mincultura.gob.ve/noticias/avanza-la-integracion-tecnologica-del-sector-creativo-tras-la-master-class-ia-aplicada-a-la-cultura/"
@@ -162,21 +174,21 @@
     {
       "titulo": "El perro y la rana llega a la Filven con títulos de ciencia ficción, crónica musical y saberes ancestrales",
       "link": "https://www.mincultura.gob.ve/noticias/el-perro-y-la-rana-llega-a-la-filven-con-titulos-de-ciencia-ficcion-cronica-musical-y-saberes-ancestrales/"
-    },
-    {
-      "titulo": "Última semana para participar en la construcción del Plan de la Cinematografía Nacional",
-      "link": "https://www.mincultura.gob.ve/noticias/ultima-semana-para-participar-en-la-construccion-del-plan-de-la-cinematografia-nacional/"
-    },
-    {
-      "titulo": "Expertos de Italia y Venezuela definen estrategias para proteger el patrimonio cultural ante desastres naturales",
-      "link": "https://www.mincultura.gob.ve/noticias/expertos-de-italia-y-venezuela-definen-estrategias-para-proteger-el-patrimonio-cultural-ante-desastres-naturales/"
-    },
-    {
-      "titulo": "Con parranda tradicional y concierto el Ministerio para la Cultura dio la bienvenida a la navidad",
-      "link": "https://www.mincultura.gob.ve/noticias/con-parranda-tradicional-y-concierto-el-ministerio-para-la-cultura-dio-la-bienvenida-a-la-navidad/"
     }
   ],
   "Agencia Xinhua": [
+    {
+      "titulo": "Del mantón de Manila al traje de tehuana: Huellas del intercambio cultural entre China y México",
+      "link": "20261114/a47b0557bb804d43832692ee24af0a1b/c.html"
+    },
+    {
+      "titulo": "#AmazingChina | La IA a través de los ojos de líderes de medios internacionales",
+      "link": "https://spanish.news.cn/20261112/766f61d95cd74ba9b480746fd1a175b8/c.html"
+    },
+    {
+      "titulo": "Aumentan préstamos en yuanes en China a 11,42 billones de yuanes en primeros 10 meses del año",
+      "link": "20261113/bdfdfb2377854f10a55b167e3613dd89/c.html"
+    },
     {
       "titulo": "La etnia miao de China celebra su Año Nuevo con desfiles y cantos",
       "link": "20261113/5604d99076b14d2cb0bd306fcaf41e26/c.html"
@@ -184,85 +196,73 @@
     {
       "titulo": "México y China inician proyecto arqueológico conjunto en sitio maya de Yaxcopoil-Tanmul",
       "link": "https://spanish.news.cn/20261113/a85892875c94414387924f798e7cdea3/c.html"
-    },
-    {
-      "titulo": "Balneario mexicano de Acapulco busca consolidarse como nodo de turismo y cooperación para Asia-Pacífico",
-      "link": "https://spanish.news.cn/20261113/1321cf6569bb4333951ebdd1b9508cc8/c.html"
-    },
-    {
-      "titulo": "China celebra acto conmemorativo por 160º aniversario de natalicio de Sun Yat-sen",
-      "link": "https://spanish.news.cn/20261112/04bfa0b53c62467db2a6c3157905f145/c.html"
-    },
-    {
-      "titulo": "Abre sus puertas el centro de prensa de la Semana de Líderes Económicos de APEC 2026 en Shenzhen, China",
-      "link": "20261112/54930297d5c74547ac22b8928e6c2e8d/c.html"
     }
   ],
   "RT en Español": [
     {
+      "titulo": "Revelan el motivo de la suspensión de la salida de todos los vuelos a nivel nacional en EE.UU.",
+      "link": "https://actualidad.rt.com/actualidad/637702-revelan-motivo-suspension-salida-vuelos-eeuu"
+    },
+    {
+      "titulo": "EE.UU. paraliza las salidas de todos los vuelos a nivel nacional: ¿qué se sabe?",
+      "link": "https://actualidad.rt.com/actualidad/637703-eeuu-paraliza-salidas-vuelos-nivel"
+    },
+    {
+      "titulo": "EE.UU. explica cómo se produjo el fallo técnico que provocó la suspensión nacional de despegues",
+      "link": "https://actualidad.rt.com/actualidad/637746-eeuu-explica-produjo-fallo-tecnico-suspensi%C3%B3n-despegues"
+    },
+    {
+      "titulo": "Merz quiere hablar con Rusia desde \"una posición de fuerza\"",
+      "link": "https://actualidad.rt.com/actualidad/637678-merz-quiere-hablar-rusia-posicion-fuerza"
+    },
+    {
       "titulo": "Rusia insta a EE.UU. y Europa a animar a Kiev a realizar la nueva operación humanitaria en Donbass",
       "link": "https://actualidad-rt.com/actualidad/637619-rusia-insta-eeuu-europa-animar-kiev-operacion-humanitaria"
-    },
-    {
-      "titulo": "Los cimientos que Rusia propone para una nueva seguridad europea",
-      "link": "https://actualidad.rt.com/actualidad/637394-cimientos-rusia-propone-nueva-seguridad-europa"
-    },
-    {
-      "titulo": "Rusia está lista para comenzar de inmediato el desminado de Konstantínovka para una misión humanitaria",
-      "link": "https://actualidad.rt.com/actualidad/637543-rusia-preparada-comenzar-inmediato-desminado"
-    },
-    {
-      "titulo": "Macron se ofrece como negociador con Rusia, pero afirma que la UE necesita \"una visión clara\" de qué quiere",
-      "link": "https://actualidad.rt.com/actualidad/637532-macron-ofrece-negociador-rusia-ue-necesita"
-    },
-    {
-      "titulo": "El primer dron comercial de China propulsado por energía solar realiza su vuelo inaugural",
-      "link": "https://actualidad.rt.com/actualidad/637479-china-dron-energ%C3%ADa-solar"
     }
   ],
   "Telesur": [
     {
+      "titulo": "Papa León XIV en Chiclayo: Es «exigencia» ocuparse de jóvenes, migrantes, pueblos originarios y pobres",
+      "link": "https://www.telesurtv.net/papa-leon-xiv-peru-jovenes-migrantes-pobres/"
+    },
+    {
+      "titulo": "Gobierno de Venezuela y Asamblea Nacional de 2015 instalan cuarta mesa de diálogo",
+      "link": "https://www.telesurtv.net/instalan-cuarta-mesa-dialogo-venezuela/"
+    },
+    {
+      "titulo": "Venezuela avanza invicta a la final del Mundial Sub-23 de Béisbol",
+      "link": "https://www.telesurtv.net/venezuela-avanza-invicta-final-mundial-sub-23/"
+    },
+    {
+      "titulo": "La edición 22 de la Feria Internacional del Libro de Venezuela reúne, hasta el 23 de noviembre, más de 600 actividades, 107 stands y 90 casas editoriales.",
+      "link": "https://www.telesurtv.net/carmen-bohorquez-filven-oasis-desierto/"
+    },
+    {
       "titulo": "PIB de Venezuela aumenta 7.42% en el tercer trimestre de 2026",
       "link": "https://www.telesurtv.net/venezuela-pib-crecio-7-tercer-trimestre/"
-    },
-    {
-      "titulo": "Colombia pide ayuda a Venezuela para rescatar a primera dama de Uribia secuestrada en La Guajira",
-      "link": "https://www.telesurtv.net/colombia-pide-ayuda-a-venezuela-para-rescatar-a-primera-dama-de-uribia-secuestrada-en-la-guajira/"
-    },
-    {
-      "titulo": "Los fondos recaudados durante los encuentros ante Navegantes del Magallanes en el loanDepot park irán destinados a los afectados por el reciente sismo en Venezuela.",
-      "link": "https://www.telesurtv.net/miguel-rojas-despedida-con-la-guaira-en-miami/"
-    },
-    {
-      "titulo": "Las autoridades de Venezuela y Antigua y Barbuda evaluaron nuevas áreas de cooperación estratégica en el marco de la cumbre COP31.",
-      "link": "https://www.telesurtv.net/delcy-reunion-primer-mtro-antigua-barbuda/"
-    },
-    {
-      "titulo": "Aumenta la desaprobación a la gestión de Keiko Fujimori al cumplirse cien días de gobierno",
-      "link": "https://www.telesurtv.net/aumenta-la-desaprobacion-a-la-gestion-de-keiko-fujimori-al-cumplirse-cien-dias-de-gobierno/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
     {
+      "titulo": "Vietnam, mil y una historias",
+      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
+    },
+    {
+      "titulo": "Máximo líder de Vietnam participa en el Festival de la Gran Unidad Nacional y el Día de la Cultura Vietnamita",
+      "link": "https://vovworld.vn/es-ES/noticias/maximo-lider-de-vietnam-participa-en-el-festival-de-la-gran-unidad-nacional-y-el-dia-de-la-cultura-2480362.vov5"
+    },
+    {
+      "titulo": "Rusia está dispuesta a negociar con Europa sobre Ucrania si cuenta con un representante autorizado",
+      "link": "https://vovworld.vn/es-ES/noticias/rusia-esta-dispuesta-a-negociar-con-europa-sobre-ucrania-si-cuenta-con-un-representante-autorizado-2480344.vov5"
+    },
+    {
+      "titulo": "Celebran conferencia científica nacional por el 950.º aniversario de la primera universidad de Vietnam",
+      "link": "https://vovworld.vn/es-ES/noticias/celebran-conferencia-cientifica-nacional-por-el-950o-aniversario-de-la-primera-universidad-de-2479944.vov5"
+    },
+    {
       "titulo": "El presidente del Parlamento vietnamita asistirá a la 47.ª Asamblea General de la AIPA en Filipinas",
       "link": "https://vovworld.vn/es-ES/noticias/el-presidente-del-parlamento-vietnamita-asistira-a-la-47a-asamblea-general-de-la-aipa-en-filipinas-2479946.vov5"
-    },
-    {
-      "titulo": "Dirigentes de Vietnam y Rusia piden transformar los acuerdos en programas de cooperación eficaces",
-      "link": "https://vovworld.vn/es-ES/noticias/dirigentes-de-vietnam-y-rusia-piden-transformar-los-acuerdos-en-programas-de-cooperacion-eficaces-2479952.vov5"
-    },
-    {
-      "titulo": "La Asamblea Nacional de Vietnam celebra interpelaciones sobre finanzas y ciencia y tecnología",
-      "link": "https://vovworld.vn/es-ES/noticias/la-asamblea-nacional-de-vietnam-celebra-interpelaciones-sobre-finanzas-y-ciencia-y-tecnologia-2479855.vov5"
-    },
-    {
-      "titulo": "El presidente de Chile y su esposa realizarán una visita oficial a Vietnam",
-      "link": "https://vovworld.vn/es-ES/noticias/el-presidente-de-chile-y-su-esposa-realizaran-una-visita-oficial-a-vietnam-2479841.vov5"
-    },
-    {
-      "titulo": "La Voz de Vietnam obtiene el Premio A del certamen periodístico “Por la causa de la gran unidad nacional”",
-      "link": "https://vovworld.vn/es-ES/noticias/la-voz-de-vietnam-obtiene-el-premio-a-del-certamen-periodistico-por-la-causa-de-la-gran-unidad-2479842.vov5"
     }
   ]
 }
