@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "​Comuna Viviremos y Venceremos realizó rendición de cuentas sobre proyectos aprobados en la Consulta Popular",
+      "link": "https://www.comunas.gob.ve/2026/11/06/comuna-viviremos-y-venceremos-realizo-rendicion-de-cuentas-sobre-proyectos-aprobados-en-la-consulta-popular/"
+    },
+    {
       "titulo": "Escuela Decolonial Comuna o Nada",
       "link": "https://www.comunas.gob.ve/decolonial/"
     },
@@ -15,10 +19,6 @@
     {
       "titulo": "Comunas en Red Digital",
       "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
-    },
-    {
-      "titulo": "Poder Popular e Ingeniería se articulan para impulsar la cartografía Comunal",
-      "link": "https://www.comunas.gob.ve/2026/11/11/poder-popular-e-ingenieria-se-articulan-para-impulsar-la-cartografia-comunal/"
     }
   ],
   "Mippci Medios Comunitarios": [
@@ -45,6 +45,14 @@
   ],
   "Correo del Orinoco": [
     {
+      "titulo": "Presidenta Delcy Rodríguez felicita a la Selección Nacional de Béisbol Sub-23 por su destacado desempeño",
+      "link": "https://www.correodelorinoco.gob.ve/presidenta-delcy-rodriguez-felicita-a-la-seleccion-nacional-de-beisbol-sub-23-por-su-destacado-desempeno/"
+    },
+    {
+      "titulo": "Inauguran en Caracas Juegos Nacionales y Paranacionales Juveniles 2026",
+      "link": "https://www.correodelorinoco.gob.ve/inauguran-en-caracas-juegos-nacionales-y-paranacionales-juveniles-2026/"
+    },
+    {
       "titulo": "Venezuela presentará su oferta exportable en la I Semana Diplomática de Suriname",
       "link": "https://www.correodelorinoco.gob.ve/venezuela-presentara-su-oferta-exportable-en-la-i-semana-diplomatica-de-suriname/"
     },
@@ -55,14 +63,6 @@
     {
       "titulo": "INIDI participará en la 22.ª Feria Internacional del Libro de Venezuela 2026",
       "link": "https://www.correodelorinoco.gob.ve/inidi-participara-en-la-22-a-feria-internacional-del-libro-de-venezuela-2026/"
-    },
-    {
-      "titulo": "Venezuela deleita a China con su cacao, chocolate y café verde",
-      "link": "https://www.correodelorinoco.gob.ve/venezuela-deleita-a-china-con-su-cacao-chocolate-y-cafe-verde/"
-    },
-    {
-      "titulo": "Venezuela ratifica su compromiso con las energías limpias ante la crisis climática en la COP31",
-      "link": "https://www.correodelorinoco.gob.ve/venezuela-ratifica-su-compromiso-con-las-energias-limpias-ante-la-crisis-climatica-en-la-cop31/"
     }
   ],
   "El Mazo Dando": [
@@ -89,161 +89,190 @@
   ],
   "VTV": [
     {
-      "titulo": "Inauguran en Caracas Juegos Nacionales y Paranacionales Juveniles 2026",
-      "link": "https://vtv.com.ve/inauguran-caracas-juegos-nacionales-paranacionales-juveniles-2026/"
+      "titulo": "Venezuela y Qatar analizan oportunidades para elevar cooperación económica",
+      "link": "https://vtv.com.ve/venezuela-qatar-oportunidades-cooperacion-economica/"
     },
     {
-      "titulo": "Vladímir Putin, Xi Jinping y Donald Trump se reunirán en China el 19 de noviembre",
-      "link": "https://vtv.com.ve/vladimir-putin-xi-jinping-donald-trump-china-noviembre/"
+      "titulo": "Venezuela reina en el beisbol del mundo y se corona campeón del Mundial U23",
+      "link": "https://vtv.com.ve/venezuela-reina-en-el-beisbol-del-mundo-y-se-corona-campeon-del-mundial-u23/"
     },
     {
-      "titulo": "Plan Techo Comunal atiende familias de la parroquia Caucagüita en Miranda",
-      "link": "https://vtv.com.ve/plan-techo-comunal-familias-caucaguita-miranda/"
+      "titulo": "Juegos Nacionales Juveniles: Carabobo y Mérida estrenan el medallero con triunfo en triatlón",
+      "link": "https://vtv.com.ve/juegos-nacionales-juveniles-carabobo-y-merida-estrenan-el-medallero-con-triunfo-en-triatlon/"
     },
     {
-      "titulo": "Parque Científico Más Ciencia recibe a 120 jóvenes en el Hackathon Uneti IA 2026",
-      "link": "https://vtv.com.ve/parque-cientifico-mas-ciencia-jovenes-hackathon-uneti-ia/"
+      "titulo": "Gobierno fortalece protección de la mujer con ocho nuevas defensorías judiciales",
+      "link": "https://vtv.com.ve/gobierno-nacional-proteccion-mujer-nuevas-defensorias-judiciales/"
     },
     {
-      "titulo": "Presidenta Delcy Rodríguez anuncia nuevo marco de cooperación entre Venezuela y el BID",
-      "link": "https://vtv.com.ve/presidenta-anuncia-nuevo-marco-cooperacion-venezuela-bid/"
+      "titulo": "Nueva versión de “El pez que fuma” triunfa en Festival Internacional de Cine",
+      "link": "https://vtv.com.ve/pelicula-venezolana-pez-que-fuma-festival-internacional-cine/"
     }
   ],
   "RNV": [
     {
-      "titulo": "INTT suspende el operativo nacional de inspección para transporte de carga y público",
-      "link": "https://rnv.gob.ve/intt-suspende-operativo-de-inspeccion-al-transporte/"
+      "titulo": "Venezuela se tituló en el Mundial de Béisbol U23",
+      "link": "https://rnv.gob.ve/venezuela-conquista-invicta-el-mundial-de-beisbol-u23/"
     },
     {
-      "titulo": "Inauguran en Caracas los XXII Juegos Nacionales Juveniles y Paranacionales 2026",
-      "link": "https://rnv.gob.ve/inauguran-los-xxii-juegos-nacionales-juveniles/"
+      "titulo": "Presidenta Delcy Rodríguez fortalece alianzas energéticas y comerciales durante gira internacional",
+      "link": "https://rnv.gob.ve/delcy-rodriguez-fortalece-alianzas-en-gira-internacional/"
     },
     {
-      "titulo": "Venezuela y Vietnam afianzan lazos de inversión y comercio de cara al 2027",
-      "link": "https://rnv.gob.ve/venezuela-vietnam-afianzan-lazos-de-inversion-comercio/"
+      "titulo": "Avanza consulta nacional en los estados para reformar Ley Constitucional contra el Odio, por la Convivencia Pacífica y la Tolerancia",
+      "link": "https://rnv.gob.ve/avanza-consulta-nacional-reforma-ley-contra-el-odio/"
     },
     {
-      "titulo": "Gobierno Nacional y AN 2015 instalan cuarta ronda de diálogo",
-      "link": "https://rnv.gob.ve/gobierno-nacional-an-2015-cuarta-ronda-de-dialogo/"
+      "titulo": "Fundacite Portuguesa fortalece la producción agrícola con ciencia y tecnología",
+      "link": "https://rnv.gob.ve/fundacite-portuguesa-impulsa-produccion-agricola/"
     },
     {
-      "titulo": "Venezuela conquista una actuación histórica en los Juegos Olímpicos de la Juventud Dakar 2026",
-      "link": "https://rnv.gob.ve/venezuela-historica-actuacion-dakar-2026-subcampeonato/"
+      "titulo": "La Agrupación Scout Independiente de Venezuela tienen 24 años formando cuidadanos responsables 🦦",
+      "link": "https://www.youtube.com/watch?v=-S0r0zKy8Q4"
     }
   ],
   "Radio Mundial": [
     {
-      "titulo": "La Vinotinto Sub-20 iguala 2-2 ante Uzbekistán en amistoso internacional",
-      "link": "vinotinto-sub-20-empata-2-2-uzbekistan-amistoso/"
+      "titulo": "Alcaldía de Miranda recibe proyectos comunales para el presupuesto fiscal 2027",
+      "link": "alcaldia-de-miranda-recibe-proyectos-comunales-para-el-presupuesto-fiscal-2027/"
     },
     {
-      "titulo": "Alcalde de Miranda, Mérida, destaca respaldo a servicios públicos y comunas",
-      "link": "alcalde-de-miranda-merida-destaca-respaldo-a-servicios-publicos-y-comunas/"
+      "titulo": "Dotación tecnológica fortalece las salas de autogobierno del estado Mérida",
+      "link": "dotacion-tecnologica-fortalece-las-salas-de-autogobierno-del-estado-merida/"
     },
     {
-      "titulo": "Vicepresidencia de Comunicación y Cultura invita a programación infantil en la Filven 2026",
-      "link": "vicepresidencia-comunicacion-cultura-programacion-filven-2026/"
+      "titulo": "Reinauguran sede de Mercal en la Comuna Cacique Paramacay de Naguanagua",
+      "link": "reinauguran-sede-de-mercal-en-la-comuna-cacique-paramacay-de-naguanagua/"
     },
     {
-      "titulo": "Inauguran en Caracas la 22.ª edición de la Filven 2026 con Rusia como país invitado",
-      "link": "inauguran-caracas-filven-2026-rusia-pais-invitado/"
+      "titulo": "Gobierno Bolivariano y sector privado garantizan abastecimiento pleno de alimentos para las fechas navideñas",
+      "link": "gobierno-sector-privado-garantizan-suministro-alimentos-fechas-navidenas/"
     },
     {
-      "titulo": "Venezuela derrota 8-7 a Puerto Rico en extrainnings y avanza a la final del Mundial Sub-23",
-      "link": "venezuela-vence-puerto-rico-avanza-final-mundial-beisbol-sub-23/"
+      "titulo": "Letras, teatro y conciencia digital conectan a los jóvenes en el Pabellón Infantil de la 22.ª FILVEN",
+      "link": "letras-teatro-y-conciencia-digital-conectan-a-los-jovenes-en-el-pabellon-infantil-de-la-22-a-filven/"
     }
   ],
-  "La Radio del Sur": [],
+  "La Radio del Sur": [
+    {
+      "titulo": "China confirma la reunión entre Putin, Xi y Trump en Shenzhen",
+      "link": "https://www.laradiodelsur.com.ve/china-confirma-la-reunion-entre-putin-xi-y-trump-en-shenzhen/"
+    },
+    {
+      "titulo": "Fracasa primera ronda de negociaciones para formar Gobierno de unidad en Israel",
+      "link": "https://www.laradiodelsur.com.ve/fracasa-primera-ronda-de-negociaciones-para-formar-gobierno-de-unidad-en-israel/"
+    },
+    {
+      "titulo": "¡Histórico! Venezuela vuelve a reinar en el Mundial de Béisbol Sub-23",
+      "link": "https://www.laradiodelsur.com.ve/historico-venezuela-vuelve-a-reinar-en-el-mundial-de-beisbol-sub-23/"
+    },
+    {
+      "titulo": "Papa León XIV reivindica en Cusco arraigo de las culturas andinas",
+      "link": "https://www.laradiodelsur.com.ve/papa-leon-xiv-reivindica-en-cusco-arraigo-de-las-culturas-andinas/"
+    },
+    {
+      "titulo": "Gobierno venezolano y sector privado garantizan suministro de alimentos para fechas navideñas",
+      "link": "https://www.laradiodelsur.com.ve/gobierno-venezolano-y-sector-privado-garantizan-suministro-de-alimentos-para-fechas-navidenas/"
+    }
+  ],
   "Ministerio de Cultura": [
+    {
+      "titulo": "El cuatro y la mandolina encienden una batalla de freestyle en el Sótano Cultural de la 22.ª Filven",
+      "link": "https://www.mincultura.gob.ve/noticias/el-cuatro-y-la-mandolina-encienden-una-batalla-de-freestyle-en-el-sotano-cultural-de-la-22-a-filven/"
+    },
+    {
+      "titulo": "Editorial Madriguera celebra dos décadas de poesía y resistencia cultural en la FILVEN 2026",
+      "link": "https://www.mincultura.gob.ve/noticias/editorial-madriguera-celebra-dos-decadas-de-poesia-y-resistencia-cultural-en-la-filven-2026/"
+    },
+    {
+      "titulo": "Entre cuentos ecológicos, monedas de la historia y trazos wayúu: la infancia se apodera de la magia en la 22.a FILVEN",
+      "link": "https://www.mincultura.gob.ve/noticias/entre-cuentos-ecologicos-monedas-de-la-historia-y-trazos-wayuu-la-infancia-se-apodera-de-la-magia-en-la-22-a-filven/"
+    },
+    {
+      "titulo": "El reencuentro de las letras: la 22.ª Filven palpita en Caracas entre abrazos, historias y renacer",
+      "link": "https://www.mincultura.gob.ve/noticias/el-reencuentro-de-las-letras-la-22-a-filven-palpita-en-caracas-entre-abrazos-historias-y-renacer/"
+    },
     {
       "titulo": "Red de Editoriales de Izquierda presentó “Fidel Castro, una revolución solo podrá ser hija de la cultura y de las ideas”",
       "link": "https://www.mincultura.gob.ve/noticias/red-de-editoriales-de-izquierda-presento-fidel-castro-una-revolucion-solo-podra-ser-hija-de-la-cultura-y-de-las-ideas/"
-    },
-    {
-      "titulo": "La Filven 2026 busca acercar a la juventud a los libros y la cultura para fomentar el pensamiento crítico",
-      "link": "https://www.mincultura.gob.ve/noticias/la-filven-2026-busca-acercar-a-la-juventud-a-los-libros-y-la-cultura-para-fomentar-el-pensamiento-critico/"
-    },
-    {
-      "titulo": "Con un conversatorio sobre histórica amistad ruso-venezolana se inauguró el Pabellón de Rusia en Filven 2026",
-      "link": "https://www.mincultura.gob.ve/noticias/con-un-conversatorio-sobre-historica-amistad-ruso-venezolana-se-inauguro-el-pabellon-de-rusia-en-filven-2026/"
-    },
-    {
-      "titulo": "Filven 2026 abre sus puertas a 10 días de actividades culturales y literarias",
-      "link": "https://www.mincultura.gob.ve/noticias/filven-2026-abre-sus-puertas-a-10-dias-de-actividades-culturales-y-literarias/"
-    },
-    {
-      "titulo": "Sótano cultural de la Filven 2026 abrió con boleros, danza y salsa",
-      "link": "https://www.mincultura.gob.ve/noticias/sotano-cultural-de-la-filven-2026-abrio-con-boleros-danza-y-salsa/"
     }
   ],
   "Agencia Xinhua": [
     {
-      "titulo": "Red ferroviaria de China gestiona récord de 4.130 millones de viajes de pasajeros en primeros 10 meses de 2026",
-      "link": "https://spanish.news.cn/20261115/c15aec6ceac542cdbe9c43f39808e3a2/c.html"
+      "titulo": "Especial: APEC llega a Shenzhen, donde la \"Oportunidad China 2.0\" se encuentra con el mundo",
+      "link": "https://spanish.news.cn/20261115/3f54520186a646a583654e50336e3b72/c.html"
     },
     {
-      "titulo": "CEPAL destaca en Chile potencial de cooperación con China para elevar productividad en América Latina",
-      "link": "https://spanish.news.cn/20261115/ea4f3ddbdfd54ad18ad1e3870ea07f26/c.html"
+      "titulo": "#AmazingChina | El Pacífico acelera: nuevas conexiones, menos distancias",
+      "link": "https://spanish.news.cn/20261115/099601fd1cc44fcf8e7cc38450f7f9fb/c.html"
     },
     {
-      "titulo": "Realizan encuentro textil en el Complejo Cultural Los Pinos en México",
-      "link": "https://spanish.news.cn/20261115/a1d863cece9749afa6f584b11dba4034/c.html"
+      "titulo": "Vista de la Reserva Natural Nacional del río Naoli en Heilongjiang, en el noreste de China",
+      "link": "20261116/c65c8c21eb534730935fcbf187a92f2c/c.html"
     },
     {
-      "titulo": "\"China y Tailandia, tan cercanas como una familia\" es una ventaja única de relaciones bilaterales, afirma primer ministro chino",
-      "link": "20261115/608146bda5614797a296b9828fa6f186/c.html"
+      "titulo": "Exposición \"Ecos de una civilización\" acerca arte milenario de China al público ecuatoriano",
+      "link": "https://spanish.news.cn/20261116/8afa2830cbe8402fbbb5ae0c82f4d753/c.html"
     },
     {
-      "titulo": "China y EEUU celebran primera reunión del consejo de comercio bajo mecanismo de consultas económicas y comerciales",
-      "link": "20261114/288f0a955ad44d14acde9b44d8d43dbb/c.html"
+      "titulo": "Marcas chinas de automóviles amplían su presencia en XX Salón Internacional del Automóvil de Bogotá",
+      "link": "https://spanish.news.cn/20261116/5bbdcb61c9a04eadb5e3768f7ce413aa/c.html"
     }
   ],
   "RT en Español": [
     {
+      "titulo": "China revela qué abordarán Putin, Xi y Trump en una reunión histórica",
+      "link": "https://actualidad.rt.com/actualidad/637995-china-revela-abordaran-putin-xi"
+    },
+    {
+      "titulo": "Estonia amenaza con cerrar sus fronteras con Rusia y el Kremlin reacciona",
+      "link": "https://actualidad.rt.com/actualidad/638014-estonia-amenazar-cerrar-fronteras-rusia-reaccionar"
+    },
+    {
+      "titulo": "La presunta espía china que fue amante del exCEO de Nvidia dejó su cargo en 2025",
+      "link": "https://actualidad.rt.com/actualidad/637997-espia-china-exromance-jefe-nvidia-megaspeed"
+    },
+    {
+      "titulo": "Cuba denuncia 'cruzada' contra el turismo por el bloqueo de EE.UU.",
+      "link": "https://actualidad.rt.com/actualidad/637986-presiones-eeuu-agravar-crisis-sector"
+    },
+    {
       "titulo": "El ocaso de Macron: un presidente cada vez más aislado y un legado en entredicho",
       "link": "https://actualidad.rt.com/actualidad/637786-ocaso-macron-presidente-vez-aislado"
-    },
-    {
-      "titulo": "\"Un hámster aprende más rápido\": eurodiputada lanza irónico dardo contra las sanciones de la UE a Rusia",
-      "link": "https://actualidad.rt.com/actualidad/637826-hamster-rapido-eurodiputada-dardo-sanciones-ue-rusia"
-    },
-    {
-      "titulo": "Un muerto y varios heridos civiles tras ataque ucraniano en Rusia",
-      "link": "https://actualidad.rt.com/actualidad/637769-muerto-civiles-heridos-ataque-ucraniano-rusia"
-    },
-    {
-      "titulo": "Cólera e indignación social vuelven a incendiar las ciudades de Francia en una nueva ola de protestas",
-      "link": "https://actualidad.rt.com/actualidad/637805-colera-indignacion-social-incendiar-francia-ola-protestas"
-    },
-    {
-      "titulo": "Revelan el motivo de la suspensión de la salida de todos los vuelos a nivel nacional en EE.UU.",
-      "link": "https://actualidad.rt.com/actualidad/637702-revelan-motivo-suspension-salida-vuelos-eeuu"
     }
   ],
   "Telesur": [
     {
-      "titulo": "Venezuela cerrará 2026 alcanzando meta de 1.3 millones de barriles diarios de petróleo",
-      "link": "https://www.telesurtv.net/venezuela-2026-1-3-millones-bpd-pdvsa/"
+      "titulo": "Presidenta (E) de Venezuela prepara agenda de cooperación con Emiratos Árabes Unidos",
+      "link": "https://www.telesurtv.net/presidenta-venezuela-prepara-agenda-cooperacion-emiratos-arabes-unidos/"
     },
     {
-      "titulo": "Papa León XIV en Chiclayo: Es «exigencia» ocuparse de jóvenes, migrantes, pueblos originarios y pobres",
-      "link": "https://www.telesurtv.net/papa-leon-xiv-peru-jovenes-migrantes-pobres/"
+      "titulo": "Presidenta de México llega a Shenzhen, China, para participar en Cumbre de la APEC",
+      "link": "https://www.telesurtv.net/presidenta-mexico-llega-shenzhen-china-participar-cumbre-apec/"
     },
     {
-      "titulo": "Gobierno de Venezuela y Asamblea Nacional de 2015 instalan cuarta mesa de diálogo",
-      "link": "https://www.telesurtv.net/instalan-cuarta-mesa-dialogo-venezuela/"
+      "titulo": "China cataloga de “importancia histórica” reunión entre Xi, Trump y Putin este jueves en Shenzhen",
+      "link": "https://www.telesurtv.net/china-cataloga-importancia-historica-reunion-xi-trump-putin-shenzhen/"
     },
     {
-      "titulo": "Venezuela avanza invicta a la final del Mundial Sub-23 de Béisbol",
-      "link": "https://www.telesurtv.net/venezuela-avanza-invicta-final-mundial-sub-23/"
+      "titulo": "Crecen críticas al presidente chileno en medio de tensiones políticas y económicas",
+      "link": "https://www.telesurtv.net/crecen-criticas-presidente-chileno-tensiones-politicas-economicas/"
     },
     {
-      "titulo": "La edición 22 de la Feria Internacional del Libro de Venezuela reúne, hasta el 23 de noviembre, más de 600 actividades, 107 stands y 90 casas editoriales.",
-      "link": "https://www.telesurtv.net/carmen-bohorquez-filven-oasis-desierto/"
+      "titulo": "Venezuela vuelve a reinar en el béisbol mundial",
+      "link": "https://www.telesurtv.net/venezuela-vuelve-reinar-beisbol-mundial/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
+    {
+      "titulo": "Consolidan la confianza estratégica y mantienen un entorno de paz y estabilidad entre la ASEAN y China",
+      "link": "https://vovworld.vn/es-ES/noticias/consolidan-la-confianza-estrategica-y-mantienen-un-entorno-de-paz-y-estabilidad-entre-la-asean-y-2480787.vov5"
+    },
+    {
+      "titulo": "Rusia, Estados Unidos y China confirman una reunión trilateral en Shenzhen",
+      "link": "https://vovworld.vn/es-ES/noticias/rusia-estados-unidos-y-china-confirman-una-reunion-trilateral-en-shenzhen-2480769.vov5"
+    },
     {
       "titulo": "Presidente chileno llega a Hanói para una visita oficial a Vietnam",
       "link": "https://vovworld.vn/es-ES/noticias/presidente-chileno-llega-a-hanoi-para-una-visita-oficial-a-vietnam-2480557.vov5"
@@ -251,18 +280,6 @@
     {
       "titulo": "La comunidad internacional insta a Israel a levantar el bloqueo sobre Gaza",
       "link": "https://vovworld.vn/es-ES/noticias/la-comunidad-internacional-insta-a-israel-a-levantar-el-bloqueo-sobre-gaza-2480565.vov5"
-    },
-    {
-      "titulo": "Vietnam difunde su cultura en el extranjero",
-      "link": "https://vovworld.vn/es-ES/noticias/vietnam-difunde-su-cultura-en-el-extranjero-2480517.vov5"
-    },
-    {
-      "titulo": "Vietnam, mil y una historias",
-      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
-    },
-    {
-      "titulo": "Máximo líder de Vietnam participa en el Festival de la Gran Unidad Nacional y el Día de la Cultura Vietnamita",
-      "link": "https://vovworld.vn/es-ES/noticias/maximo-lider-de-vietnam-participa-en-el-festival-de-la-gran-unidad-nacional-y-el-dia-de-la-cultura-2480362.vov5"
     }
   ]
 }
