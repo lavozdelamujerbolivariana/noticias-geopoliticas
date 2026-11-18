@@ -89,46 +89,46 @@
   ],
   "VTV": [
     {
+      "titulo": "Venezuela cae 2-0 ante Rusia en amistoso de fecha FIFA",
+      "link": "https://vtv.com.ve/venezuela-cae-ante-rusia-amistoso-fifa/"
+    },
+    {
+      "titulo": "AN autoriza gira internacional de la presidenta Delcy Rodríguez para fortalecer alianzas económicas",
+      "link": "https://vtv.com.ve/an-autoriza-gira-presidenta-delcy-rodriguez-alianza-economica/"
+    },
+    {
+      "titulo": "Programa «Con Silva de Noche» lleva a toda Venezuela la tradición de la Feria Internacional de La Chinita",
+      "link": "https://vtv.com.ve/con-silva-noche-venezuela-tradicion-feria-la-chinita/"
+    },
+    {
       "titulo": "Mesa de negocios entre Venezuela y Emiratos Árabes Unidos afianza lazos de cooperación",
       "link": "https://vtv.com.ve/mesa-negocios-venezuela-emiratos-arabes-afianza-cooperacion/"
     },
     {
       "titulo": "Presidenta Delcy Rodríguez felicita a selección nacional de béisbol tras coronarse campeona del Mundial Sub-23",
       "link": "https://vtv.com.ve/presidenta-delcy-rodriguez-felicita-seleccion-nacional-beisbol-sub/"
-    },
-    {
-      "titulo": "Distrito Capital se escapa en el medallero de los Juegos Nacionales",
-      "link": "https://vtv.com.ve/distritocapital-escapa-medallero-juegos-nacionales/"
-    },
-    {
-      "titulo": "Juegos Nacionales Juveniles: Lara arrasó en BMX con par de doradas",
-      "link": "https://vtv.com.ve/juegos-nacionales-juveniles-lara-arraso-en-bmx-con-par-de-doradas/"
-    },
-    {
-      "titulo": "Programa «Con Silva de Noche» celebra los 60 años de la Feria Internacional de La Chinita",
-      "link": "https://vtv.com.ve/silva-noche-celebra-60anos-feria-internacional-chinita/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Venezuela rechaza declaraciones injerencistas de Yamandú Orsi",
-      "link": "https://rnv.gob.ve/venezuela-rechaza-declaraciones-del-presidente-de-uruguay-yamandu-orsi-y-reivindica-su-soberania-nacional/"
+      "titulo": "Diputado Pedro Infante: Presidenta Delcy Rodríguez está desbloqueando a Venezuela en el comercio internacional",
+      "link": "https://rnv.gob.ve/infante-respalda-agenda-internacional-delcy-rodriguez/"
     },
     {
-      "titulo": "Presidenta Delcy Rodríguez participa en Mesa de Negocios entre Venezuela y Emiratos Árabes Unidos",
-      "link": "https://rnv.gob.ve/emiratos-arabes-unidos-venezuela-mesa-de-negocios/"
+      "titulo": "Venezuela y Países Bajos evalúan agenda de cooperación bilateral en EEUU",
+      "link": "https://rnv.gob.ve/venezuela-paises-bajos-cooperacion-bilateral-eeuu/"
     },
     {
-      "titulo": "Presidenta Delcy Rodríguez felicita a la Selección Nacional de Béisbol Sub-23 por su destacado desempeño",
-      "link": "https://rnv.gob.ve/delcy-rodriguez-felicita-seleccion-beisbol-sub-23/"
+      "titulo": "Startups y equipos universitarios reciben premio de Emprender Juntos en el BEYOND by Venezuela Tech Week",
+      "link": "https://rnv.gob.ve/juntos-startups-universitarios-venezuela-tech-week/"
     },
     {
-      "titulo": "Ministro Sergio Lotartaro destaca proyección internacional de los emprendedores venezolanos en el evento Beyond",
-      "link": "https://rnv.gob.ve/ministro-lotartaro-proyeccion-emprendedores-beyond/"
+      "titulo": "ONG’s presentan sus propuestas a la Consulta Nacional sobre la Reforma de la Justicia Penal",
+      "link": "https://rnv.gob.ve/ong-presentan-propuestas-reforma-justicia-penal/"
     },
     {
-      "titulo": "Ejecutivo nacional avanza en recuperación de más de 1.500 planteles escolares",
-      "link": "https://rnv.gob.ve/avanza-recuperacion-planteles-escolares-venezuela/"
+      "titulo": "Venezuela concreta acuerdos comerciales y negocios por US$ 661 mil durante la 9.ª CIIE en Shanghái",
+      "link": "https://rnv.gob.ve/venezuela-acuerdos-exportacion-ciie-shanghai/"
     }
   ],
   "Radio Mundial": [
@@ -177,94 +177,106 @@
   ],
   "Ministerio de Cultura": [
     {
+      "titulo": "Rusia y Venezuela fortalecen sus lazos de hermandad en la Filven 2026",
+      "link": "https://www.mincultura.gob.ve/noticias/rusia-y-venezuela-fortalecen-sus-lazos-de-hermandad-en-la-filven-2026/"
+    },
+    {
+      "titulo": "Reivindican legado del periodista Ángel Méndez y la huella de Venezuela en la historia de la salsa en la Filven 2026",
+      "link": "https://www.mincultura.gob.ve/noticias/reivindican-legado-del-periodista-angel-mendez-y-la-huella-de-venezuela-en-la-historia-de-la-salsa-en-la-filven-2026/"
+    },
+    {
+      "titulo": "Polifonía vocal con ritmos tradicionales resonó en el Sótano Cultural de la 22.ª Filven",
+      "link": "https://www.mincultura.gob.ve/noticias/polifonia-vocal-con-ritmos-tradicionales-resono-en-el-sotano-cultural-de-la-22-a-filven/"
+    },
+    {
       "titulo": "El cuatro y la mandolina encienden una batalla de freestyle en el Sótano Cultural de la 22.ª Filven",
       "link": "https://www.mincultura.gob.ve/noticias/el-cuatro-y-la-mandolina-encienden-una-batalla-de-freestyle-en-el-sotano-cultural-de-la-22-a-filven/"
     },
     {
       "titulo": "Editorial Madriguera celebra dos décadas de poesía y resistencia cultural en la FILVEN 2026",
       "link": "https://www.mincultura.gob.ve/noticias/editorial-madriguera-celebra-dos-decadas-de-poesia-y-resistencia-cultural-en-la-filven-2026/"
-    },
-    {
-      "titulo": "Entre cuentos ecológicos, monedas de la historia y trazos wayúu: la infancia se apodera de la magia en la 22.a FILVEN",
-      "link": "https://www.mincultura.gob.ve/noticias/entre-cuentos-ecologicos-monedas-de-la-historia-y-trazos-wayuu-la-infancia-se-apodera-de-la-magia-en-la-22-a-filven/"
-    },
-    {
-      "titulo": "El reencuentro de las letras: la 22.ª Filven palpita en Caracas entre abrazos, historias y renacer",
-      "link": "https://www.mincultura.gob.ve/noticias/el-reencuentro-de-las-letras-la-22-a-filven-palpita-en-caracas-entre-abrazos-historias-y-renacer/"
-    },
-    {
-      "titulo": "Red de Editoriales de Izquierda presentó “Fidel Castro, una revolución solo podrá ser hija de la cultura y de las ideas”",
-      "link": "https://www.mincultura.gob.ve/noticias/red-de-editoriales-de-izquierda-presento-fidel-castro-una-revolucion-solo-podra-ser-hija-de-la-cultura-y-de-las-ideas/"
     }
   ],
   "Agencia Xinhua": [
     {
-      "titulo": "Cooperación espacial entre China y Tailandia transforma los intercambios científicos en proyectos tangibles",
-      "link": "https://spanish.news.cn/20261117/e74fbdf9ec4f40a7928caa0acce1519e/c.html"
+      "titulo": "Relaciones entre China y Rusia aportan estabilidad y certeza a un mundo turbulento, afirma Xi",
+      "link": "https://spanish.news.cn/20261118/340e6838b77c45029fa8a8e8e4a4ef5d/c.html"
     },
     {
-      "titulo": "#AmazingChina | Recorrido del influencer mexicano por la ciudad sede de APEC 2026",
-      "link": "https://spanish.news.cn/20261116/13270a6acf4749b2a48cbb7e096d5d1a/c.html"
+      "titulo": "Xi pide promover el desarrollo constante y sólido de las relaciones China-República de Corea",
+      "link": "https://spanish.news.cn/20261118/670b4e7d24074551ae8f7d119fcbef8c/c.html"
     },
     {
-      "titulo": "Xi se reúne con presidente chileno en Shenzhen",
-      "link": "20261117/e5e56ed4fb9d4f01a8fac3f5476a04dc/c.html"
+      "titulo": "Relaciones entre China y Rusia aportan estabilidad y certeza a un mundo turbulento, afirma Xi",
+      "link": "20261118/340e6838b77c45029fa8a8e8e4a4ef5d/c.html"
     },
     {
-      "titulo": "Xi: Intercambios de alto nivel entre China y Vietnam inyectan energía positiva a la paz y el desarrollo regionales",
-      "link": "20261117/f06a1e7baef04edc8886ab2fb2736cd5/c.html"
+      "titulo": "Cumbre China-Rusia-EEUU discutirá paz mundial",
+      "link": "20261118/2f73554d310342c4bac67eb22b5a1222/c.html"
     },
     {
-      "titulo": "Xi: Llevar los lazos entre China y Papúa Nueva Guinea a nuevas alturas",
-      "link": "20261117/c1e1b83c21464d2eb2b2f4dfefcd0401/c.html"
+      "titulo": "Terminales BDS no destinadas a consumo aumentan 27% hasta casi 42 millones en China",
+      "link": "20261118/238b7603a93049e1a04a504f622a3fda/c.html"
     }
   ],
   "RT en Español": [
     {
-      "titulo": "Rusia lanza un ataque masivo en varias provincias de Ucrania: ¿qué blancos golpeó?",
-      "link": "https://actualidad.rt.com/actualidad/638173-rusia-lanza-ataque-masivo-fabricas"
+      "titulo": "Trump llega a China para la cumbre de la APEC, que concentra la atención mundial",
+      "link": "https://actualidad.rt.com/actualidad/638090-trump-arriba-china-participar-cumbre"
     },
     {
-      "titulo": "Rusia expone la estrategia de la OTAN en la región del Sudeste Asiático para contener a China",
-      "link": "https://actualidad.rt.com/actualidad/638200-rusia-expone-estrategia-otan-region-china"
+      "titulo": "El vecino de EE.UU. coquetea con China mientras Trump le cierra su mercado",
+      "link": "https://actualidad.rt.com/actualidad/638027-vecino-eeuu-coquetea-china-trump-cierra-mercado"
     },
     {
-      "titulo": "Drones de ataque y más de 700 kg de explosivos: Rusia frustra atentados masivos preparados por Kiev",
-      "link": "https://actualidad.rt.com/actualidad/638177-drones-ataque-explosivos-rusia-atentados-kiev"
+      "titulo": "Xi Jinping define la alianza entre China y Rusia como \"una montaña frente a las tempestades\"",
+      "link": "https://actualidad.rt.com/actualidad/638393-xi-jinping-define-alianza-china"
     },
     {
-      "titulo": "Global Times: Lo que esperan en China de la cumbre entre Xi, Putin y Trump",
-      "link": "https://actualidad.rt.com/actualidad/638172-global-times-cumbre-china"
+      "titulo": "Rusia golpea un carguero e instalaciones portuarias usados por fuerzas de Kiev",
+      "link": "https://actualidad.rt.com/actualidad/638391-rusia-golpea-carguero-e-instalaciones"
     },
     {
-      "titulo": "Rusia ataca dos puentes en Kiev",
-      "link": "https://actualidad.rt.com/actualidad/638180-rusia-ataca-dos-puentes-kiev"
+      "titulo": "VIDEOS: Así recibe China a Putin con alfombra roja y guardia de honor",
+      "link": "https://actualidad.rt.com/actualidad/638295-china-putin-alfombra-roja-guardia-honor"
     }
   ],
   "Telesur": [
     {
-      "titulo": "China impulsa multilateralismo en la antesala de la cumbre de la APEC",
-      "link": "https://www.telesurtv.net/china-impulsa-multilateralismo-en-la-antesala-de-la-cumbre-de-la-apec/"
+      "titulo": "Putin: Los intentos de aislar a Rusia mediante sanciones han fracasado",
+      "link": "https://www.telesurtv.net/putin-los-intentos-de-aislar-a-rusia-mediante-sanciones-han-fracasado/"
     },
     {
-      "titulo": "Delcy Rodríguez y presidente de Emiratos Árabes Unidos revisan agenda de inversión y desarrollo",
-      "link": "https://www.telesurtv.net/delcy-rodriguez-emiratos-inversion-desarrollo/"
+      "titulo": "Trabajadores convocan a movilización nacional contra recortes de recursos en Chile",
+      "link": "https://www.telesurtv.net/trabajadores-convocan-a-movilizacion-nacional-contra-recortes-de-recursos-en-chile/"
     },
     {
-      "titulo": "Número de empresas empleadoras en Argentina cae 6,3 por ciento en gobierno de Milei",
-      "link": "https://www.telesurtv.net/numero-de-empresas-empleadoras-en-argentina-cae-63-por-ciento-en-gobierno-de-milei/"
+      "titulo": "China impulsa apertura comercial y desarrollo verde ante el unilateralismo en APEC",
+      "link": "https://www.telesurtv.net/china-impulsa-apertura-comercial-y-desarrollo-verde-ante-el-unilateralismo-en-apec/"
     },
     {
-      "titulo": "Primer ministro de Granada instala nuevo Gobierno y promete liderar con humildad",
-      "link": "https://www.telesurtv.net/primer-ministro-de-granada-instala-nuevo-gobierno-y-promete-liderar-con-humildad/"
+      "titulo": "Demandan al Gobierno de Trump por atacar y torturar a 17 pescadores ecuatorianos",
+      "link": "https://www.telesurtv.net/demandan-al-gobierno-de-trump-por-atacar-y-torturar-a-17-pescadores-ecuatorianos/"
     },
     {
-      "titulo": "Gobierno de Venezuela califica de injerencistas declaraciones del presidente de Uruguay",
-      "link": "https://www.telesurtv.net/venezuela-injerencistas-declaraciones-uruguay/"
+      "titulo": "Rusia abre investigación penal por terrorismo tras ataque de Ucrania contra puente de Crimea",
+      "link": "https://www.telesurtv.net/rusia-terrorismo-ataque-ucrania-crimea/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
+    {
+      "titulo": "Vietnam y provincia china buscan impulsar los mecanismos de cooperación entre sectores y localidades",
+      "link": "https://vovworld.vn/es-ES/noticias/vietnam-y-provincia-china-buscan-impulsar-los-mecanismos-de-cooperacion-entre-sectores-y-localidades-2481490.vov5"
+    },
+    {
+      "titulo": "Hanói organiza numerosas actividades con motivo del Día de la Cultura Vietnamita",
+      "link": "https://vovworld.vn/es-ES/noticias/hanoi-organiza-numerosas-actividades-con-motivo-del-dia-de-la-cultura-vietnamita-2481500.vov5"
+    },
+    {
+      "titulo": "Argentina impulsa el comercio y refuerza su presencia cultural en Vietnam",
+      "link": "https://vovworld.vn/es-ES/noticias/argentina-impulsa-el-comercio-y-refuerza-su-presencia-cultural-en-vietnam-2481501.vov5"
+    },
     {
       "titulo": "Vietnam, mil y una historias",
       "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
@@ -272,18 +284,6 @@
     {
       "titulo": "Presidente de Chile y su esposa concluyen su visita oficial a Vietnam",
       "link": "https://vovworld.vn/es-ES/noticias/presidente-de-chile-y-su-esposa-concluyen-su-visita-oficial-a-vietnam-2481091.vov5"
-    },
-    {
-      "titulo": "El primer Festival de la Cultura de Vietnam 2026 se celebrará del 23 al 27 de noviembre",
-      "link": "https://vovworld.vn/es-ES/noticias/el-primer-festival-de-la-cultura-de-vietnam-2026-se-celebrara-del-23-al-27-de-noviembre-2481103.vov5"
-    },
-    {
-      "titulo": "Vietnam difunde su cultura en el extranjero",
-      "link": "https://vovworld.vn/es-ES/noticias/vietnam-difunde-su-cultura-en-el-extranjero-2480517.vov5"
-    },
-    {
-      "titulo": "Consolidan la confianza estratégica y mantienen un entorno de paz y estabilidad entre la ASEAN y China",
-      "link": "https://vovworld.vn/es-ES/noticias/consolidan-la-confianza-estrategica-y-mantienen-un-entorno-de-paz-y-estabilidad-entre-la-asean-y-2480787.vov5"
     }
   ]
 }
