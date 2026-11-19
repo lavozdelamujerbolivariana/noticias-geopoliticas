@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "De origen ancestral al mercado global: Cacao venezolano se posiciona como motor de la economía Comunal",
+      "link": "https://www.comunas.gob.ve/2026/11/18/de-origen-ancestral-al-mercado-global-cacao-venezolano-se-posiciona-como-motor-de-la-economia-comunal/"
+    },
+    {
       "titulo": "​Comuna Viviremos y Venceremos realizó rendición de cuentas sobre proyectos aprobados en la Consulta Popular",
       "link": "https://www.comunas.gob.ve/2026/11/06/comuna-viviremos-y-venceremos-realizo-rendicion-de-cuentas-sobre-proyectos-aprobados-en-la-consulta-popular/"
     },
@@ -15,13 +19,17 @@
     {
       "titulo": "Sistema de Registro de Consejos Comunales",
       "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
-    },
-    {
-      "titulo": "Comunas en Red Digital",
-      "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
     }
   ],
   "Mippci Medios Comunitarios": [
+    {
+      "titulo": "Comuna Árbol de las 5 Raíces ejecuta proyectos de salud y educación en Cojedes",
+      "link": "https://mippci.gob.ve/comuna-arbol-de-las-5-raices-ejecuta-proyectos-de-salud-y-educacion-en-cojedes/"
+    },
+    {
+      "titulo": "Celebran el Día del Músico en Monagas con agenda cultural dedicada a los géneros tradicionales",
+      "link": "https://mippci.gob.ve/celebran-el-dia-del-musico-en-monagas-con-agenda-cultural-dedicada-a-los-generos-tradicionales/"
+    },
     {
       "titulo": "Comuna de Falcón entrega proyecto deportivo a 31 comunidades",
       "link": "https://mippci.gob.ve/comuna-falcon-proyecto-deportivo-31-comunidades/"
@@ -33,17 +41,13 @@
     {
       "titulo": "Celebran el Mes del Estudiante Universitario en Guárico con agenda académica, cultural y deportiva",
       "link": "https://mippci.gob.ve/celebran-el-mes-del-estudiante-universitario-en-guarico-con-agenda-academica-cultural-y-deportiva/"
-    },
-    {
-      "titulo": "Inauguran Museo Didáctico para la Enseñanza de las Ciencias Dr. Humberto Fernández-Morán en Zulia",
-      "link": "https://mippci.gob.ve/inauguran-museo-didactico-para-la-ensenanza-de-las-ciencias-dr-humberto-fernandez-moran-en-zulia/"
-    },
-    {
-      "titulo": "Programa Nacional Semilleros Científicos llega a más de 200 estudiantes en Portuguesa",
-      "link": "https://mippci.gob.ve/programa-nacional-semilleros-cientificos-llega-a-mas-de-200-estudiantes-en-portuguesa/"
     }
   ],
   "Correo del Orinoco": [
+    {
+      "titulo": "Diputado Jorge Arreaza: Reforma penal requiere respaldo normativo y consenso nacional",
+      "link": "https://www.correodelorinoco.gob.ve/diputado-jorge-arreaza-reforma-penal-requiere-respaldo-normativo-y-consenso-nacional/"
+    },
     {
       "titulo": "Venezuela rechazó declaraciones injerencistas del presidente de Uruguay",
       "link": "https://www.correodelorinoco.gob.ve/venezuela-rechazo-declaraciones-injerencistas-del-presidente-de-uruguay/"
@@ -59,10 +63,6 @@
     {
       "titulo": "Venezuela presentará su oferta exportable en la I Semana Diplomática de Suriname",
       "link": "https://www.correodelorinoco.gob.ve/venezuela-presentara-su-oferta-exportable-en-la-i-semana-diplomatica-de-suriname/"
-    },
-    {
-      "titulo": "Inicia cuarto ciclo de diálogo entre el Gobierno nacional y exdiputados de la AN de 2015",
-      "link": "https://www.correodelorinoco.gob.ve/inicia-cuarto-ciclo-de-dialogo-entre-el-gobierno-nacional-y-exdiputados-de-la-an-de-2015/"
     }
   ],
   "El Mazo Dando": [
@@ -89,68 +89,68 @@
   ],
   "VTV": [
     {
-      "titulo": "Venezuela cae 2-0 ante Rusia en amistoso de fecha FIFA",
-      "link": "https://vtv.com.ve/venezuela-cae-ante-rusia-amistoso-fifa/"
+      "titulo": "Presidenta Rodríguez: Venezuela tiene una juventud que nació para hacer historia",
+      "link": "https://vtv.com.ve/presidenta-rodriguez-venezuela-juventud-nacio-hacer-historia/"
     },
     {
-      "titulo": "AN autoriza gira internacional de la presidenta Delcy Rodríguez para fortalecer alianzas económicas",
-      "link": "https://vtv.com.ve/an-autoriza-gira-presidenta-delcy-rodriguez-alianza-economica/"
+      "titulo": "Venezuela y EE. UU. reanudan cooperación técnico-militar",
+      "link": "https://vtv.com.ve/venezuela-eeuu-reanudan-cooperacion-militar/"
     },
     {
-      "titulo": "Programa «Con Silva de Noche» lleva a toda Venezuela la tradición de la Feria Internacional de La Chinita",
-      "link": "https://vtv.com.ve/con-silva-noche-venezuela-tradicion-feria-la-chinita/"
+      "titulo": "Jefa de Estado envía mensaje al pueblo zuliano en el Día de La Chinita",
+      "link": "https://vtv.com.ve/jefa-de-estado-envia-mensaje-al-pueblo-zuliano-en-el-dia-de-la-chinita/"
     },
     {
-      "titulo": "Mesa de negocios entre Venezuela y Emiratos Árabes Unidos afianza lazos de cooperación",
-      "link": "https://vtv.com.ve/mesa-negocios-venezuela-emiratos-arabes-afianza-cooperacion/"
+      "titulo": "Venezuela asciende al tercer lugar del ranking mundial de béisbol masculino",
+      "link": "https://vtv.com.ve/venezuela-asciende-tercer-lugar-ranking-mundial-beisbol-masculino/"
     },
     {
-      "titulo": "Presidenta Delcy Rodríguez felicita a selección nacional de béisbol tras coronarse campeona del Mundial Sub-23",
-      "link": "https://vtv.com.ve/presidenta-delcy-rodriguez-felicita-seleccion-nacional-beisbol-sub/"
+      "titulo": "Joyas musicales que no pueden faltar estas Navidades en Venezuela",
+      "link": "https://vtv.com.ve/joyas-musicales-no-pueden-faltar-navidades-venezuela/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Diputado Pedro Infante: Presidenta Delcy Rodríguez está desbloqueando a Venezuela en el comercio internacional",
-      "link": "https://rnv.gob.ve/infante-respalda-agenda-internacional-delcy-rodriguez/"
+      "titulo": "Presidente de la Asamblea Nacional destaca papel de Venezuela como anfitriona del Mundial de Ajedrez Sub-20",
+      "link": "https://rnv.gob.ve/jorge-rodriguez-inauguracion-mundial-ajedrez-caracas/"
     },
     {
-      "titulo": "Venezuela y Países Bajos evalúan agenda de cooperación bilateral en EEUU",
-      "link": "https://rnv.gob.ve/venezuela-paises-bajos-cooperacion-bilateral-eeuu/"
+      "titulo": "Venezuela y Estados Unidos acuerdan reanudar la cooperación técnico-militar",
+      "link": "https://rnv.gob.ve/venezuela-y-eeuu-reanudar-cooperacion-tecnico-militar/"
     },
     {
-      "titulo": "Startups y equipos universitarios reciben premio de Emprender Juntos en el BEYOND by Venezuela Tech Week",
-      "link": "https://rnv.gob.ve/juntos-startups-universitarios-venezuela-tech-week/"
+      "titulo": "Premio Nacional de Turismo 2026 selecciona a 347 nominados",
+      "link": "https://rnv.gob.ve/premio-nacional-de-turismo-2026-selecciona-a-347-nomina/"
     },
     {
-      "titulo": "ONG’s presentan sus propuestas a la Consulta Nacional sobre la Reforma de la Justicia Penal",
-      "link": "https://rnv.gob.ve/ong-presentan-propuestas-reforma-justicia-penal/"
+      "titulo": "Copa Airlines registra un 20 % de incremento en el flujo de pasajeros hacia Venezuela",
+      "link": "https://rnv.gob.ve/copa-airlines-registra-un-20-de-incremento-en-el-fluj/"
     },
     {
-      "titulo": "Venezuela concreta acuerdos comerciales y negocios por US$ 661 mil durante la 9.ª CIIE en Shanghái",
-      "link": "https://rnv.gob.ve/venezuela-acuerdos-exportacion-ciie-shanghai/"
+      "titulo": "Gobierno de Sucre impulsa integración portuaria y comercial con Trinidad y Tobago",
+      "link": "https://rnv.gob.ve/sucre-integracion-portuaria-comercial-trinidad-y-tobago/"
     }
   ],
   "Radio Mundial": [
     {
-      "titulo": "Alcaldía de Miranda recibe proyectos comunales para el presupuesto fiscal 2027",
-      "link": "alcaldia-de-miranda-recibe-proyectos-comunales-para-el-presupuesto-fiscal-2027/"
+      "titulo": "Plan Techo Comunal llega a 58 torres de Ciudad Caribia",
+      "link": "plan-techo-comunal-llega-a-58-torres-de-ciudad-caribia/"
     },
     {
-      "titulo": "Dotación tecnológica fortalece las salas de autogobierno del estado Mérida",
-      "link": "dotacion-tecnologica-fortalece-las-salas-de-autogobierno-del-estado-merida/"
+      "titulo": "Venezuela y Francia acuerdan reactivar cooperación académica",
+      "link": "venezuela-y-francia-acuerdan-reactivar-cooperacion-academica/"
     },
     {
-      "titulo": "Reinauguran sede de Mercal en la Comuna Cacique Paramacay de Naguanagua",
-      "link": "reinauguran-sede-de-mercal-en-la-comuna-cacique-paramacay-de-naguanagua/"
+      "titulo": "Iadecebne celebra Día Internacional del Músico con variada programación artística",
+      "link": "iadecebne-celebra-dia-internacional-del-musico-con-variada-programacion-artistica/"
     },
     {
-      "titulo": "Gobierno Bolivariano y sector privado garantizan abastecimiento pleno de alimentos para las fechas navideñas",
-      "link": "gobierno-sector-privado-garantizan-suministro-alimentos-fechas-navidenas/"
+      "titulo": "Gobierno Nacional realiza demoliciones controladas de edificios afectados por sismos en La Guaira y Chacao",
+      "link": "gobierno-nacional-realiza-demoliciones-controladas-de-edificios-afectados-por-sismos-en-la-guaira-y-chacao/"
     },
     {
-      "titulo": "Letras, teatro y conciencia digital conectan a los jóvenes en el Pabellón Infantil de la 22.ª FILVEN",
-      "link": "letras-teatro-y-conciencia-digital-conectan-a-los-jovenes-en-el-pabellon-infantil-de-la-22-a-filven/"
+      "titulo": "Programa Venezuela Renace recupera 10.000 apartamentos y reactiva comercio en La Guaira",
+      "link": "programa-venezuela-renace-recupera-apartamentos-la-guaira/"
     }
   ],
   "La Radio del Sur": [
@@ -177,113 +177,109 @@
   ],
   "Ministerio de Cultura": [
     {
+      "titulo": "Representante del gobierno ruso reivindica vigencia del arte como expresión humana frente a la inteligencia artificial",
+      "link": "https://www.mincultura.gob.ve/noticias/representante-del-gobierno-ruso-reivindica-vigencia-del-arte-como-expresion-humana-frente-a-la-inteligencia-artificial/"
+    },
+    {
+      "titulo": "Entre vitrales y actividades culturales se fomentan los valores humanos en el Pabellón Infantil de la Filven",
+      "link": "https://www.mincultura.gob.ve/noticias/entre-vitrales-y-actividades-culturales-se-fomentan-los-valores-humanos-en-el-pabellon-infantil-de-la-filven/"
+    },
+    {
+      "titulo": "Un oficio silencioso y la memoria zuliana avivan expresiones culturales en torno a la Chinita",
+      "link": "https://www.mincultura.gob.ve/noticias/un-oficio-silencioso-y-la-memoria-zuliana-avivan-expresiones-culturales-en-torno-a-la-chinita/"
+    },
+    {
       "titulo": "Rusia y Venezuela fortalecen sus lazos de hermandad en la Filven 2026",
       "link": "https://www.mincultura.gob.ve/noticias/rusia-y-venezuela-fortalecen-sus-lazos-de-hermandad-en-la-filven-2026/"
     },
     {
       "titulo": "Reivindican legado del periodista Ángel Méndez y la huella de Venezuela en la historia de la salsa en la Filven 2026",
       "link": "https://www.mincultura.gob.ve/noticias/reivindican-legado-del-periodista-angel-mendez-y-la-huella-de-venezuela-en-la-historia-de-la-salsa-en-la-filven-2026/"
-    },
-    {
-      "titulo": "Polifonía vocal con ritmos tradicionales resonó en el Sótano Cultural de la 22.ª Filven",
-      "link": "https://www.mincultura.gob.ve/noticias/polifonia-vocal-con-ritmos-tradicionales-resono-en-el-sotano-cultural-de-la-22-a-filven/"
-    },
-    {
-      "titulo": "El cuatro y la mandolina encienden una batalla de freestyle en el Sótano Cultural de la 22.ª Filven",
-      "link": "https://www.mincultura.gob.ve/noticias/el-cuatro-y-la-mandolina-encienden-una-batalla-de-freestyle-en-el-sotano-cultural-de-la-22-a-filven/"
-    },
-    {
-      "titulo": "Editorial Madriguera celebra dos décadas de poesía y resistencia cultural en la FILVEN 2026",
-      "link": "https://www.mincultura.gob.ve/noticias/editorial-madriguera-celebra-dos-decadas-de-poesia-y-resistencia-cultural-en-la-filven-2026/"
     }
   ],
   "Agencia Xinhua": [
     {
-      "titulo": "Relaciones entre China y Rusia aportan estabilidad y certeza a un mundo turbulento, afirma Xi",
-      "link": "https://spanish.news.cn/20261118/340e6838b77c45029fa8a8e8e4a4ef5d/c.html"
+      "titulo": "China es defensora, promotora y pionera de cooperación económica de Asia-Pacífico, afirma Xi",
+      "link": "https://spanish.news.cn/20261119/9568c388fcc146e481227409ccaae6b0/c.html"
     },
     {
-      "titulo": "Xi pide promover el desarrollo constante y sólido de las relaciones China-República de Corea",
-      "link": "https://spanish.news.cn/20261118/670b4e7d24074551ae8f7d119fcbef8c/c.html"
+      "titulo": "Xi se reúne con Trump y pide esfuerzos continuos para conducir las relaciones China-EEUU por el camino correcto",
+      "link": "https://spanish.news.cn/20261119/0454e3c18ac546b8a2dd7ea11f6132be/c.html"
     },
     {
-      "titulo": "Relaciones entre China y Rusia aportan estabilidad y certeza a un mundo turbulento, afirma Xi",
-      "link": "20261118/340e6838b77c45029fa8a8e8e4a4ef5d/c.html"
+      "titulo": "Conferencia de Internet Industrial 5G+ de China 2026 se celebra en Wuhan",
+      "link": "20261119/38e15660d6f0493daee8466e469097e3/c.html"
     },
     {
-      "titulo": "Cumbre China-Rusia-EEUU discutirá paz mundial",
-      "link": "20261118/2f73554d310342c4bac67eb22b5a1222/c.html"
+      "titulo": "El rompehielos de investigación Xuelong de China llega a Hobart para la 43ª expedición científica antártica",
+      "link": "20261119/b062998808334e8d9913b79367b38455/c.html"
     },
     {
-      "titulo": "Terminales BDS no destinadas a consumo aumentan 27% hasta casi 42 millones en China",
-      "link": "20261118/238b7603a93049e1a04a504f622a3fda/c.html"
+      "titulo": "Cumbre China-Rusia-EEUU ha sido positiva, constructiva y fructífera, dice Xi",
+      "link": "20261119/a1f3f4926e7940e8a1ca5884e09474e7/c.html"
     }
   ],
   "RT en Español": [
     {
+      "titulo": "Putin sobre territorios: Es inútil intentar 'desplazar' a Rusia hacia donde no tiene intención de regresar",
+      "link": "https://actualidad.rt.com/actualidad/638763-putin-territorios-inutil-intentar-desplazar"
+    },
+    {
+      "titulo": "Colombia vive una jornada de protestas contra el Gobierno de De la Espriella (VIDEOS)",
+      "link": "https://actualidad.rt.com/actualidad/638803-colombia-vive-jornada-protestas-gobierno"
+    },
+    {
+      "titulo": "Sheinbaum responde a las dudas sobre el acercamiento a China y su relación con Washington",
+      "link": "https://actualidad.rt.com/actualidad/638724-sheinbaum-acercamiento-mexico-china-afectar-eeuu"
+    },
+    {
+      "titulo": "La original (y polémica) propuesta alimentaria de la jefa de Gobierno de Ciudad de México",
+      "link": "https://actualidad.rt.com/actualidad/638771-gallinas-original-propuesta-alimentaria-mexico"
+    },
+    {
       "titulo": "Trump llega a China para la cumbre de la APEC, que concentra la atención mundial",
       "link": "https://actualidad.rt.com/actualidad/638090-trump-arriba-china-participar-cumbre"
-    },
-    {
-      "titulo": "El vecino de EE.UU. coquetea con China mientras Trump le cierra su mercado",
-      "link": "https://actualidad.rt.com/actualidad/638027-vecino-eeuu-coquetea-china-trump-cierra-mercado"
-    },
-    {
-      "titulo": "Xi Jinping define la alianza entre China y Rusia como \"una montaña frente a las tempestades\"",
-      "link": "https://actualidad.rt.com/actualidad/638393-xi-jinping-define-alianza-china"
-    },
-    {
-      "titulo": "Rusia golpea un carguero e instalaciones portuarias usados por fuerzas de Kiev",
-      "link": "https://actualidad.rt.com/actualidad/638391-rusia-golpea-carguero-e-instalaciones"
-    },
-    {
-      "titulo": "VIDEOS: Así recibe China a Putin con alfombra roja y guardia de honor",
-      "link": "https://actualidad.rt.com/actualidad/638295-china-putin-alfombra-roja-guardia-honor"
     }
   ],
   "Telesur": [
     {
-      "titulo": "Putin: Los intentos de aislar a Rusia mediante sanciones han fracasado",
-      "link": "https://www.telesurtv.net/putin-los-intentos-de-aislar-a-rusia-mediante-sanciones-han-fracasado/"
+      "titulo": "China, Rusia y EE.UU. sellan cumbre con declaración conjunta sobre estabilidad global, control nuclear",
+      "link": "https://www.telesurtv.net/china-rusia-eeuu-acuerdo-estabilidad-control-nuclear/"
     },
     {
-      "titulo": "Trabajadores convocan a movilización nacional contra recortes de recursos en Chile",
-      "link": "https://www.telesurtv.net/trabajadores-convocan-a-movilizacion-nacional-contra-recortes-de-recursos-en-chile/"
+      "titulo": "China: Académico chino resalta cumbre APEC en Shenzhen para impulsar multilateralismo y cooperación",
+      "link": "https://www.telesurtv.net/china-cumbre-apec-shenzhen-multilateralismo/"
     },
     {
-      "titulo": "China impulsa apertura comercial y desarrollo verde ante el unilateralismo en APEC",
-      "link": "https://www.telesurtv.net/china-impulsa-apertura-comercial-y-desarrollo-verde-ante-el-unilateralismo-en-apec/"
+      "titulo": "Ondas cortas y ondas largas en la cultura Fobaproa de México",
+      "link": "https://www.telesurtv.net/blogs/ondas-cortas-y-ondas-largas-en-la-cultura-fobaproa-de-mexico/"
     },
     {
-      "titulo": "Demandan al Gobierno de Trump por atacar y torturar a 17 pescadores ecuatorianos",
-      "link": "https://www.telesurtv.net/demandan-al-gobierno-de-trump-por-atacar-y-torturar-a-17-pescadores-ecuatorianos/"
+      "titulo": "El acuerdo entre el Ministerio de Turismo dominicano y la franquicia de la NBA busca captar viajeros en el mercado de Florida mediante el alcance del baloncesto profesional.",
+      "link": "https://www.telesurtv.net/republica-dominicana-heat-alianza-turistica/"
     },
     {
-      "titulo": "Rusia abre investigación penal por terrorismo tras ataque de Ucrania contra puente de Crimea",
-      "link": "https://www.telesurtv.net/rusia-terrorismo-ataque-ucrania-crimea/"
+      "titulo": "El G/J González López afirmó que cualquier iniciativa de cooperación militar se desarrollará en estricto apego a la Constitución, el ordenamiento jurídico y la soberanía de Venezuela, así como el liderazgo y competencias de su Fuerza Armada.",
+      "link": "https://www.telesurtv.net/venezuela-acuerdo-militar-eeuu-constitucion/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
     {
-      "titulo": "Vietnam y provincia china buscan impulsar los mecanismos de cooperación entre sectores y localidades",
-      "link": "https://vovworld.vn/es-ES/noticias/vietnam-y-provincia-china-buscan-impulsar-los-mecanismos-de-cooperacion-entre-sectores-y-localidades-2481490.vov5"
+      "titulo": "Primer ministro vietnamita: La educación debe orientar el desarrollo nacional",
+      "link": "https://vovworld.vn/es-ES/noticias/primer-ministro-vietnamita-la-educacion-debe-orientar-el-desarrollo-nacional-2481881.vov5"
     },
     {
-      "titulo": "Hanói organiza numerosas actividades con motivo del Día de la Cultura Vietnamita",
-      "link": "https://vovworld.vn/es-ES/noticias/hanoi-organiza-numerosas-actividades-con-motivo-del-dia-de-la-cultura-vietnamita-2481500.vov5"
+      "titulo": "Homenaje a 335 docentes destacados y reconocimiento de los valores del magisterio",
+      "link": "https://vovworld.vn/es-ES/noticias/homenaje-a-335-docentes-destacados-y-reconocimiento-de-los-valores-del-magisterio-2481795.vov5"
     },
     {
-      "titulo": "Argentina impulsa el comercio y refuerza su presencia cultural en Vietnam",
-      "link": "https://vovworld.vn/es-ES/noticias/argentina-impulsa-el-comercio-y-refuerza-su-presencia-cultural-en-vietnam-2481501.vov5"
+      "titulo": "La cumbre China - Rusia - Estados Unidos emite la Declaración Conjunta de cuatro puntos",
+      "link": "https://vovworld.vn/es-ES/noticias/la-cumbre-china-rusia-estados-unidos-emite-la-declaracion-conjunta-de-cuatro-puntos-2481875.vov5"
     },
     {
-      "titulo": "Vietnam, mil y una historias",
-      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
-    },
-    {
-      "titulo": "Presidente de Chile y su esposa concluyen su visita oficial a Vietnam",
-      "link": "https://vovworld.vn/es-ES/noticias/presidente-de-chile-y-su-esposa-concluyen-su-visita-oficial-a-vietnam-2481091.vov5"
+      "titulo": "Estados Unidos y Venezuela restablecen la cooperación militar",
+      "link": "https://vovworld.vn/es-ES/noticias/estados-unidos-y-venezuela-restablecen-la-cooperacion-militar-2481794.vov5"
     }
   ]
 }
