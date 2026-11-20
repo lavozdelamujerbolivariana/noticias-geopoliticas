@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "Comunas en Red Digital",
+      "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
+    },
+    {
       "titulo": "De origen ancestral al mercado global: Cacao venezolano se posiciona como motor de la economía Comunal",
       "link": "https://www.comunas.gob.ve/2026/11/18/de-origen-ancestral-al-mercado-global-cacao-venezolano-se-posiciona-como-motor-de-la-economia-comunal/"
     },
@@ -15,10 +19,6 @@
     {
       "titulo": "El Poder Popular Organizado del estado Táchira consolida su protagonismo en asamblea Comunal desde en el Liceo Nacional Antonio José de Sucre",
       "link": "https://www.comunas.gob.ve/2026/11/14/el-poder-popular-organizado-del-estado-tachira-consolida-su-protagonismo-en-asamblea-comunal-desde-en-el-liceo-nacional-antonio-jose-de-sucre/"
-    },
-    {
-      "titulo": "Sistema de Registro de Consejos Comunales",
-      "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
     }
   ],
   "Mippci Medios Comunitarios": [
@@ -45,6 +45,14 @@
   ],
   "Correo del Orinoco": [
     {
+      "titulo": "Venezuela y la ONU revisan prioridades para un nuevo marco de cooperación",
+      "link": "https://www.correodelorinoco.gob.ve/venezuela-y-la-onu-revisan-prioridades-para-un-nuevo-marco-de-cooperacion/"
+    },
+    {
+      "titulo": "Venezuela ratifica rechazo al Laudo de 1899 y desconoce jurisdicción de la CIJ sobre la Guayana Esequiba",
+      "link": "https://www.correodelorinoco.gob.ve/venezuela-ratifica-rechazo-al-laudo-de-1899-y-desconoce-jurisdiccion-de-la-cij-sobre-la-guayana-esequiba/"
+    },
+    {
       "titulo": "Diputado Jorge Arreaza: Reforma penal requiere respaldo normativo y consenso nacional",
       "link": "https://www.correodelorinoco.gob.ve/diputado-jorge-arreaza-reforma-penal-requiere-respaldo-normativo-y-consenso-nacional/"
     },
@@ -55,14 +63,6 @@
     {
       "titulo": "Presidenta Delcy Rodríguez felicita a la Selección Nacional de Béisbol Sub-23 por su destacado desempeño",
       "link": "https://www.correodelorinoco.gob.ve/presidenta-delcy-rodriguez-felicita-a-la-seleccion-nacional-de-beisbol-sub-23-por-su-destacado-desempeno/"
-    },
-    {
-      "titulo": "Inauguran en Caracas Juegos Nacionales y Paranacionales Juveniles 2026",
-      "link": "https://www.correodelorinoco.gob.ve/inauguran-en-caracas-juegos-nacionales-y-paranacionales-juveniles-2026/"
-    },
-    {
-      "titulo": "Venezuela presentará su oferta exportable en la I Semana Diplomática de Suriname",
-      "link": "https://www.correodelorinoco.gob.ve/venezuela-presentara-su-oferta-exportable-en-la-i-semana-diplomatica-de-suriname/"
     }
   ],
   "El Mazo Dando": [
@@ -89,68 +89,68 @@
   ],
   "VTV": [
     {
-      "titulo": "Presidenta Rodríguez: Venezuela tiene una juventud que nació para hacer historia",
-      "link": "https://vtv.com.ve/presidenta-rodriguez-venezuela-juventud-nacio-hacer-historia/"
+      "titulo": "Venezuela reafirma su postura histórica de rechazo al Laudo Arbitral de 1899",
+      "link": "https://vtv.com.ve/venezuela-reafirma-postura-historica-rechazo-laudo-arbitral-1899/"
     },
     {
-      "titulo": "Venezuela y EE. UU. reanudan cooperación técnico-militar",
-      "link": "https://vtv.com.ve/venezuela-eeuu-reanudan-cooperacion-militar/"
+      "titulo": "Jefa de Estado se reúne con Alto Mando Político y Militar para evaluar alcances de la Gira Internacional",
+      "link": "https://vtv.com.ve/jefa-estado-alto-mando-politico-militar-alcances-gira-internacional/"
     },
     {
-      "titulo": "Jefa de Estado envía mensaje al pueblo zuliano en el Día de La Chinita",
-      "link": "https://vtv.com.ve/jefa-de-estado-envia-mensaje-al-pueblo-zuliano-en-el-dia-de-la-chinita/"
+      "titulo": "Gobierno Nacional y sector naval coordinan plan operativo para la temporada decembrina",
+      "link": "https://vtv.com.ve/gobierno-nacional-sector-naval-coordinan-plan-operativo/"
     },
     {
-      "titulo": "Venezuela asciende al tercer lugar del ranking mundial de béisbol masculino",
-      "link": "https://vtv.com.ve/venezuela-asciende-tercer-lugar-ranking-mundial-beisbol-masculino/"
+      "titulo": "CMB: Así fueron recibidos los Campeones del Mundo en Venezuela",
+      "link": "https://vtv.com.ve/asi-fue-recibimiento-campeones-clasico-mundial-beisbol-2026/"
     },
     {
-      "titulo": "Joyas musicales que no pueden faltar estas Navidades en Venezuela",
-      "link": "https://vtv.com.ve/joyas-musicales-no-pueden-faltar-navidades-venezuela/"
+      "titulo": "Venezuela y la ONU evalúan nuevo marco de cooperación bilateral",
+      "link": "https://vtv.com.ve/venezuela-onu-perfilan-nuevo-marco-cooperacion-bilateral/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Presidente de la Asamblea Nacional destaca papel de Venezuela como anfitriona del Mundial de Ajedrez Sub-20",
-      "link": "https://rnv.gob.ve/jorge-rodriguez-inauguracion-mundial-ajedrez-caracas/"
+      "titulo": "Venezuela ratifica defensa histórica de la Guayana Esequiba y desconoce injerencia de la CIJ",
+      "link": "https://rnv.gob.ve/venezuela-ratifica-defensa-historica-de-la-guayana-eseq/"
     },
     {
-      "titulo": "Venezuela y Estados Unidos acuerdan reanudar la cooperación técnico-militar",
-      "link": "https://rnv.gob.ve/venezuela-y-eeuu-reanudar-cooperacion-tecnico-militar/"
+      "titulo": "Venezuela recibe a los Campeones del World Baseball Classic 2026",
+      "link": "https://rnv.gob.ve/venezuela-recibe-campeones-de-beisbol-en-maiquetia/"
     },
     {
-      "titulo": "Premio Nacional de Turismo 2026 selecciona a 347 nominados",
-      "link": "https://rnv.gob.ve/premio-nacional-de-turismo-2026-selecciona-a-347-nomina/"
+      "titulo": "Presidenta Delcy Rodríguez destaca balance de gira internacional, acuerdos con EE. UU. y lanzamiento del Plan Venezuela Vive",
+      "link": "https://rnv.gob.ve/delcy-rodriguez-presenta-balance-de-gira-internacional/"
     },
     {
-      "titulo": "Copa Airlines registra un 20 % de incremento en el flujo de pasajeros hacia Venezuela",
-      "link": "https://rnv.gob.ve/copa-airlines-registra-un-20-de-incremento-en-el-fluj/"
+      "titulo": "Gustavo Dudamel dona su Premio Howland al fondo de reconstrucción de Venezuela",
+      "link": "https://rnv.gob.ve/gustavo-dudamel-dona-su-premio-howland-al-fondo-de-reco/"
     },
     {
-      "titulo": "Gobierno de Sucre impulsa integración portuaria y comercial con Trinidad y Tobago",
-      "link": "https://rnv.gob.ve/sucre-integracion-portuaria-comercial-trinidad-y-tobago/"
+      "titulo": "Suscriben alianza binacional en Lara para comercializar fertilizantes junto a firma rusa",
+      "link": "https://rnv.gob.ve/suscriben-alianza-binacional-en-lara-para-comercializar/"
     }
   ],
   "Radio Mundial": [
     {
+      "titulo": "Venezuela y Rusia profundizan lazos diplomáticos y de cooperación cultural en Caracas",
+      "link": "venezuela-y-rusia-profundizan-lazos-diplomaticos-y-de-cooperacion-cultural-en-caracas/"
+    },
+    {
+      "titulo": "Autoridades y Embajador de China supervisan avances del Plan de Despeje Digno y Seguro",
+      "link": "autoridades-y-embajador-de-china-supervisan-avances-del-plan-de-despeje-digno-y-seguro/"
+    },
+    {
+      "titulo": "Diputada Carola Chávez destaca vocación de paz del pueblo venezolano y diálogo social",
+      "link": "diputada-carola-chavez-destaca-vocacion-de-paz-del-pueblo-venezolano-y-dialogo-social/"
+    },
+    {
+      "titulo": "Venezuela y la ONU evalúan nueva agenda de cooperación enfocada en el desarrollo sostenible",
+      "link": "venezuela-y-la-onu-evaluan-nueva-agenda-de-cooperacion-enfocada-en-el-desarrollo-sostenible/"
+    },
+    {
       "titulo": "Plan Techo Comunal llega a 58 torres de Ciudad Caribia",
       "link": "plan-techo-comunal-llega-a-58-torres-de-ciudad-caribia/"
-    },
-    {
-      "titulo": "Venezuela y Francia acuerdan reactivar cooperación académica",
-      "link": "venezuela-y-francia-acuerdan-reactivar-cooperacion-academica/"
-    },
-    {
-      "titulo": "Iadecebne celebra Día Internacional del Músico con variada programación artística",
-      "link": "iadecebne-celebra-dia-internacional-del-musico-con-variada-programacion-artistica/"
-    },
-    {
-      "titulo": "Gobierno Nacional realiza demoliciones controladas de edificios afectados por sismos en La Guaira y Chacao",
-      "link": "gobierno-nacional-realiza-demoliciones-controladas-de-edificios-afectados-por-sismos-en-la-guaira-y-chacao/"
-    },
-    {
-      "titulo": "Programa Venezuela Renace recupera 10.000 apartamentos y reactiva comercio en La Guaira",
-      "link": "programa-venezuela-renace-recupera-apartamentos-la-guaira/"
     }
   ],
   "La Radio del Sur": [
@@ -177,109 +177,113 @@
   ],
   "Ministerio de Cultura": [
     {
+      "titulo": "Percusión afrodescendiente llenó de ritmo el Sótano Cultural de la Filven 2026",
+      "link": "https://www.mincultura.gob.ve/noticias/percusion-afrodescendiente-lleno-de-ritmo-el-sotano-cultural-de-la-filven-2026/"
+    },
+    {
+      "titulo": "Ministro de Cultura llama a los estudiantes a defender los valores de nuestra identidad nacional",
+      "link": "https://www.mincultura.gob.ve/noticias/ministro-de-cultura-llama-a-los-estudiantes-a-defender-los-valores-de-nuestra-identidad-nacional/"
+    },
+    {
+      "titulo": "Hidrocarburos, juventud y soberanía nacional dicen presente en la Filven 2026",
+      "link": "https://www.mincultura.gob.ve/noticias/hidrocarburos-juventud-y-soberania-nacional-dicen-presente-en-la-filven-2026/"
+    },
+    {
       "titulo": "Representante del gobierno ruso reivindica vigencia del arte como expresión humana frente a la inteligencia artificial",
       "link": "https://www.mincultura.gob.ve/noticias/representante-del-gobierno-ruso-reivindica-vigencia-del-arte-como-expresion-humana-frente-a-la-inteligencia-artificial/"
     },
     {
       "titulo": "Entre vitrales y actividades culturales se fomentan los valores humanos en el Pabellón Infantil de la Filven",
       "link": "https://www.mincultura.gob.ve/noticias/entre-vitrales-y-actividades-culturales-se-fomentan-los-valores-humanos-en-el-pabellon-infantil-de-la-filven/"
-    },
-    {
-      "titulo": "Un oficio silencioso y la memoria zuliana avivan expresiones culturales en torno a la Chinita",
-      "link": "https://www.mincultura.gob.ve/noticias/un-oficio-silencioso-y-la-memoria-zuliana-avivan-expresiones-culturales-en-torno-a-la-chinita/"
-    },
-    {
-      "titulo": "Rusia y Venezuela fortalecen sus lazos de hermandad en la Filven 2026",
-      "link": "https://www.mincultura.gob.ve/noticias/rusia-y-venezuela-fortalecen-sus-lazos-de-hermandad-en-la-filven-2026/"
-    },
-    {
-      "titulo": "Reivindican legado del periodista Ángel Méndez y la huella de Venezuela en la historia de la salsa en la Filven 2026",
-      "link": "https://www.mincultura.gob.ve/noticias/reivindican-legado-del-periodista-angel-mendez-y-la-huella-de-venezuela-en-la-historia-de-la-salsa-en-la-filven-2026/"
     }
   ],
   "Agencia Xinhua": [
     {
-      "titulo": "China es defensora, promotora y pionera de cooperación económica de Asia-Pacífico, afirma Xi",
-      "link": "https://spanish.news.cn/20261119/9568c388fcc146e481227409ccaae6b0/c.html"
+      "titulo": "China está dispuesta a estrechar cooperación con Malasia, afirma Xi",
+      "link": "https://spanish.news.cn/20261120/df3a16332ad042c49d32cee9fd202ca8/c.html"
     },
     {
-      "titulo": "Xi se reúne con Trump y pide esfuerzos continuos para conducir las relaciones China-EEUU por el camino correcto",
-      "link": "https://spanish.news.cn/20261119/0454e3c18ac546b8a2dd7ea11f6132be/c.html"
+      "titulo": "Xi pide promover a nivel superior la construcción de una comunidad de futuro compartido China-Tailandia",
+      "link": "https://spanish.news.cn/20261120/e79cfc112eba40dbb7e838a22b87d4e8/c.html"
     },
     {
-      "titulo": "Conferencia de Internet Industrial 5G+ de China 2026 se celebra en Wuhan",
-      "link": "20261119/38e15660d6f0493daee8466e469097e3/c.html"
+      "titulo": "China y Singapur deben fortalecer comunicación estratégica y reforzar coordinación, afirma Xi",
+      "link": "https://spanish.news.cn/20261120/9b4250b7a1f44768a5a33d50d292cb89/c.html"
     },
     {
-      "titulo": "El rompehielos de investigación Xuelong de China llega a Hobart para la 43ª expedición científica antártica",
-      "link": "20261119/b062998808334e8d9913b79367b38455/c.html"
+      "titulo": "China-ALC sin distancias: Cuatro claves de APEC 2026 para impulsar la cooperación entre América Latina y Asia-Pacífico",
+      "link": "https://spanish.news.cn/20261120/945c7fe0d21749ed9d6c999006f16865/c.html"
     },
     {
-      "titulo": "Cumbre China-Rusia-EEUU ha sido positiva, constructiva y fructífera, dice Xi",
-      "link": "20261119/a1f3f4926e7940e8a1ca5884e09474e7/c.html"
+      "titulo": "Xi afirma que China y Australia deben ser socios de confianza mutua",
+      "link": "20261120/75e6582111f34929804282da2fbbb193/c.html"
     }
   ],
   "RT en Español": [
     {
-      "titulo": "Putin sobre territorios: Es inútil intentar 'desplazar' a Rusia hacia donde no tiene intención de regresar",
-      "link": "https://actualidad.rt.com/actualidad/638763-putin-territorios-inutil-intentar-desplazar"
+      "titulo": "Rusia arrasa fábricas de misiles y drones en ataques masivos en Ucrania mientras libera nuevas localidades",
+      "link": "https://actualidad.rt.com/actualidad/638930-infraestructuras-rusia-poblados-fuerzas"
     },
     {
-      "titulo": "Colombia vive una jornada de protestas contra el Gobierno de De la Espriella (VIDEOS)",
-      "link": "https://actualidad.rt.com/actualidad/638803-colombia-vive-jornada-protestas-gobierno"
+      "titulo": "Dura advertencia de Rusia a Estonia: el intento de aislarla saldrá \"muy caro\" a sus promotores",
+      "link": "https://actualidad.rt.com/actualidad/638942-advertencia-dura-rusia-estonia-intento"
     },
     {
-      "titulo": "Sheinbaum responde a las dudas sobre el acercamiento a China y su relación con Washington",
-      "link": "https://actualidad.rt.com/actualidad/638724-sheinbaum-acercamiento-mexico-china-afectar-eeuu"
+      "titulo": "La embajada de China en México se lanza contra EE.UU. por el narcotráfico",
+      "link": "https://actualidad.rt.com/actualidad/638924-embajada-china-mexico-lanzar-eeuu-narcotrafico"
     },
     {
-      "titulo": "La original (y polémica) propuesta alimentaria de la jefa de Gobierno de Ciudad de México",
-      "link": "https://actualidad.rt.com/actualidad/638771-gallinas-original-propuesta-alimentaria-mexico"
+      "titulo": "VIDEO: Multitud pide \"¡cuatro años más!\" a Obama y así responde el expresidente",
+      "link": "https://actualidad.rt.com/actualidad/638941-video-multitud-pedir-cuatro-anos"
     },
     {
-      "titulo": "Trump llega a China para la cumbre de la APEC, que concentra la atención mundial",
-      "link": "https://actualidad.rt.com/actualidad/638090-trump-arriba-china-participar-cumbre"
+      "titulo": "Desde mar, tierra y aire: Rusia lanza un ataque masivo contra Ucrania con armas de alta precisión",
+      "link": "https://actualidad.rt.com/actualidad/638874-mar-tierra-aire-rusia-lanza"
     }
   ],
   "Telesur": [
     {
-      "titulo": "China, Rusia y EE.UU. sellan cumbre con declaración conjunta sobre estabilidad global, control nuclear",
-      "link": "https://www.telesurtv.net/china-rusia-eeuu-acuerdo-estabilidad-control-nuclear/"
+      "titulo": "Venezuela ratifica rechazo al laudo de 1899 y desconoce CIJ para resolver disputa esequiba",
+      "link": "https://www.telesurtv.net/venezuela-rechazo-laudo-1899-cij-disputa-esequiba/"
     },
     {
-      "titulo": "China: Académico chino resalta cumbre APEC en Shenzhen para impulsar multilateralismo y cooperación",
-      "link": "https://www.telesurtv.net/china-cumbre-apec-shenzhen-multilateralismo/"
+      "titulo": "Tribunal de EE.UU. fija audiencia del presidente Nicolás Maduro para 17 de diciembre",
+      "link": "https://www.telesurtv.net/tribunal-eeuu-audiencia-presidente-maduro-diciembre/"
     },
     {
-      "titulo": "Ondas cortas y ondas largas en la cultura Fobaproa de México",
-      "link": "https://www.telesurtv.net/blogs/ondas-cortas-y-ondas-largas-en-la-cultura-fobaproa-de-mexico/"
+      "titulo": "Brasil: Lula reafirma compromiso antirracista durante conmemoración del Día de la Conciencia Negra",
+      "link": "https://www.telesurtv.net/brasil-lula-compromiso-antirracista-conciencia-negra/"
     },
     {
-      "titulo": "El acuerdo entre el Ministerio de Turismo dominicano y la franquicia de la NBA busca captar viajeros en el mercado de Florida mediante el alcance del baloncesto profesional.",
-      "link": "https://www.telesurtv.net/republica-dominicana-heat-alianza-turistica/"
+      "titulo": "Gobierno de Perú crea registro antiterrorista y anuncia megapenales con apoyo de EE.UU.",
+      "link": "https://www.telesurtv.net/peru-registro-antiterrorista-megapenales-apoyo-ee-uu/"
     },
     {
-      "titulo": "El G/J González López afirmó que cualquier iniciativa de cooperación militar se desarrollará en estricto apego a la Constitución, el ordenamiento jurídico y la soberanía de Venezuela, así como el liderazgo y competencias de su Fuerza Armada.",
-      "link": "https://www.telesurtv.net/venezuela-acuerdo-militar-eeuu-constitucion/"
+      "titulo": "Barranquilla impulsa turismo e infraestructura con final de Copa Sudamericana",
+      "link": "https://www.telesurtv.net/barranquilla-impulsa-turismo-sudamericana/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
     {
+      "titulo": "Vietnam, mil y una historias",
+      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
+    },
+    {
+      "titulo": "To Lam concluye con éxito su participación en la Semana de Alto Nivel de APEC 2026 y su visita de trabajo bilateral a China",
+      "link": "https://vovworld.vn/es-ES/noticias/to-lam-concluye-con-exito-su-participacion-en-la-semana-de-alto-nivel-de-apec-2026-y-su-visita-de-2482092.vov5"
+    },
+    {
+      "titulo": "Jóvenes de Vietnam y China abrirán una nueva etapa de amistad",
+      "link": "https://vovworld.vn/es-ES/noticias/jovenes-de-vietnam-y-china-abriran-una-nueva-etapa-de-amistad-2482084.vov5"
+    },
+    {
+      "titulo": "Vietnam recibe el respaldo internacional y despierta expectativas como anfitrión del Año APEC 2027",
+      "link": "https://vovworld.vn/es-ES/noticias/vietnam-recibe-el-respaldo-internacional-y-despierta-expectativas-como-anfitrion-del-ano-apec-2027-2482113.vov5"
+    },
+    {
       "titulo": "Primer ministro vietnamita: La educación debe orientar el desarrollo nacional",
       "link": "https://vovworld.vn/es-ES/noticias/primer-ministro-vietnamita-la-educacion-debe-orientar-el-desarrollo-nacional-2481881.vov5"
-    },
-    {
-      "titulo": "Homenaje a 335 docentes destacados y reconocimiento de los valores del magisterio",
-      "link": "https://vovworld.vn/es-ES/noticias/homenaje-a-335-docentes-destacados-y-reconocimiento-de-los-valores-del-magisterio-2481795.vov5"
-    },
-    {
-      "titulo": "La cumbre China - Rusia - Estados Unidos emite la Declaración Conjunta de cuatro puntos",
-      "link": "https://vovworld.vn/es-ES/noticias/la-cumbre-china-rusia-estados-unidos-emite-la-declaracion-conjunta-de-cuatro-puntos-2481875.vov5"
-    },
-    {
-      "titulo": "Estados Unidos y Venezuela restablecen la cooperación militar",
-      "link": "https://vovworld.vn/es-ES/noticias/estados-unidos-y-venezuela-restablecen-la-cooperacion-militar-2481794.vov5"
     }
   ]
 }
