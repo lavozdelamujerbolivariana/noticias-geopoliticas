@@ -1,6 +1,10 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "Escuela Decolonial Comuna o Nada",
+      "link": "https://www.comunas.gob.ve/decolonial/"
+    },
+    {
       "titulo": "Sistema de Registro de Consejos Comunales",
       "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
     },
@@ -15,10 +19,6 @@
     {
       "titulo": "De origen ancestral al mercado global: Cacao venezolano se posiciona como motor de la economía Comunal",
       "link": "https://www.comunas.gob.ve/2026/11/18/de-origen-ancestral-al-mercado-global-cacao-venezolano-se-posiciona-como-motor-de-la-economia-comunal/"
-    },
-    {
-      "titulo": "​Comuna Viviremos y Venceremos realizó rendición de cuentas sobre proyectos aprobados en la Consulta Popular",
-      "link": "https://www.comunas.gob.ve/2026/11/06/comuna-viviremos-y-venceremos-realizo-rendicion-de-cuentas-sobre-proyectos-aprobados-en-la-consulta-popular/"
     }
   ],
   "Mippci Medios Comunitarios": [
@@ -45,6 +45,14 @@
   ],
   "Correo del Orinoco": [
     {
+      "titulo": "Venezuela cierra su participación en la COP31 con cinco alianzas y defensa de la industria petrolera",
+      "link": "https://www.correodelorinoco.gob.ve/venezuela-cierra-su-participacion-en-la-cop31-con-cinco-alianzas-y-defensa-de-la-industria-petrolera/"
+    },
+    {
+      "titulo": "Venezuela rechazó declaraciones injerencistas del presidente de Uruguay",
+      "link": "https://www.correodelorinoco.gob.ve/venezuela-rechazo-declaraciones-injerencistas-del-presidente-de-uruguay/"
+    },
+    {
       "titulo": "Inauguran en Caracas Juegos Nacionales y Paranacionales Juveniles 2026",
       "link": "https://www.correodelorinoco.gob.ve/inauguran-en-caracas-juegos-nacionales-y-paranacionales-juveniles-2026/"
     },
@@ -55,14 +63,6 @@
     {
       "titulo": "Venezuela y la ONU revisan prioridades para un nuevo marco de cooperación",
       "link": "https://www.correodelorinoco.gob.ve/venezuela-y-la-onu-revisan-prioridades-para-un-nuevo-marco-de-cooperacion/"
-    },
-    {
-      "titulo": "Venezuela ratifica rechazo al Laudo de 1899 y desconoce jurisdicción de la CIJ sobre la Guayana Esequiba",
-      "link": "https://www.correodelorinoco.gob.ve/venezuela-ratifica-rechazo-al-laudo-de-1899-y-desconoce-jurisdiccion-de-la-cij-sobre-la-guayana-esequiba/"
-    },
-    {
-      "titulo": "Diputado Jorge Arreaza: Reforma penal requiere respaldo normativo y consenso nacional",
-      "link": "https://www.correodelorinoco.gob.ve/diputado-jorge-arreaza-reforma-penal-requiere-respaldo-normativo-y-consenso-nacional/"
     }
   ],
   "El Mazo Dando": [
@@ -89,46 +89,46 @@
   ],
   "VTV": [
     {
+      "titulo": "Ministro Pérez Pirela defiende la soberanía nacional durante presentación del libro «Leer con El Libertador»",
+      "link": "https://vtv.com.ve/ministro-perez-pirela-defiende-soberania-nacional-libro/"
+    },
+    {
+      "titulo": "Cierra la Expo Venezuela Energética Oriente 2026 con 120 ruedas de negocios",
+      "link": "https://vtv.com.ve/cierra-expo-venezuela-energetica-oriente-ruedas-negocios/"
+    },
+    {
+      "titulo": "Arranca pruebas de remo en Lara de los Juegos Deportivos Nacionales y Paranacionales Juveniles 2026",
+      "link": "https://www.youtube.com/watch?v=p3iG-5fAnZw"
+    },
+    {
+      "titulo": "Venezuela se posiciona en el mundo con los acuerdos internacionales por la paz",
+      "link": "https://www.youtube.com/watch?v=W4urKz-a3Nw"
+    },
+    {
       "titulo": "Gobierno nacional impulsa desbloqueo de plataformas tecnológicas de IA para el desarrollo propio",
       "link": "https://vtv.com.ve/gobierno-nacional-acceso-plataformas-ia-emprendimiento-pais/"
-    },
-    {
-      "titulo": "Mundial Sub 17: así va Venezuela tras el triunfo ante Camerún",
-      "link": "https://vtv.com.ve/mundial-sub-17-asi-va-venezuela-tras-el-triunfo-ante-camerun/"
-    },
-    {
-      "titulo": "Poder Popular inicia movilización en Caracas para conmemorar el Día Nacional del Estudiante Universitario",
-      "link": "https://vtv.com.ve/movilizaciones-caracas-celebran-dia-estudiante/"
-    },
-    {
-      "titulo": "Héctor Rodríguez: El estudiante representa la esperanza más firme de Venezuela",
-      "link": "https://vtv.com.ve/hector-rodriguez-estudiante-representa-esperanza-venezuela/"
-    },
-    {
-      "titulo": "Venezuela Renace Fest dio una noche histórica en el Puente El Boquete de Valencia",
-      "link": "https://vtv.com.ve/venezuela-renace-fest-noche-historica-valencia/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Presidenta Rodríguez destaca que el emprendimiento aporta el 26% a la economía nacional",
-      "link": "https://rnv.gob.ve/presidenta-rodriguez-destaca-que-el-emprendimiento-apor/"
+      "titulo": "Maturín llevó su historia y restauración patrimonial a la FILVEN 2026 en Caracas",
+      "link": "https://rnv.gob.ve/maturin-historia-restauracion-patrimonial-filven-2026/"
     },
     {
-      "titulo": "Premio Nacional de Turismo 2026 registra récord de 2.032 postulaciones",
-      "link": "https://rnv.gob.ve/premio-nacional-turismo-2026-record-postulaciones/"
+      "titulo": "Venezuela participa en las Olimpiadas de Informática de Centroamérica y el Caribe",
+      "link": "https://rnv.gob.ve/venezuela-participa-olimpiada-informatica-centroamerica/"
     },
     {
-      "titulo": "Cancilleres de Venezuela y Brasil abordan agenda económica y comercial bilateral",
-      "link": "https://rnv.gob.ve/cancilleres-venezuela-brasil-agenda-economica/"
+      "titulo": "Mincyt impulsa capacitación en ciencias ambientales y productivas para jóvenes investigadores",
+      "link": "https://rnv.gob.ve/mincyt-impulsa-formacion-ambiental-y-productiva-jovenes/"
     },
     {
-      "titulo": "Alcaldía de Caracas refuerza el plan «Caracas se ve mejor» en la avenida Páez con despliegue interinstitucional y comunal",
-      "link": "https://rnv.gob.ve/alcaldia-de-caracas-plan-caracas-mejor-avenida-paez/"
+      "titulo": "Plan Venezuela Renace avanza en restauración de la Iglesia Altagracia y construcción de su plaza",
+      "link": "https://rnv.gob.ve/avanza-restauracion-de-iglesia-altagracia-y-nueva-plaza/"
     },
     {
-      "titulo": "Venezuela ratifica defensa histórica de la Guayana Esequiba y desconoce injerencia de la CIJ",
-      "link": "https://rnv.gob.ve/venezuela-ratifica-defensa-historica-de-la-guayana-eseq/"
+      "titulo": "Venezuela y la ONU afianzan agenda de trabajo y cooperación bilateral",
+      "link": "https://www.youtube.com/watch?v=uO8CZlf76-k"
     }
   ],
   "Radio Mundial": [
@@ -177,94 +177,106 @@
   ],
   "Ministerio de Cultura": [
     {
-      "titulo": "Desde leer el cine hasta pasearse por la cultura iraní: un recorrido por la Filven 2026",
-      "link": "https://www.mincultura.gob.ve/noticias/desde-leer-el-cine-hasta-pasearse-por-la-cultura-irani-un-recorrido-por-la-filven-2026/"
+      "titulo": "Alcaldía de Caracas premia el talento literario juvenil en la primera edición del concurso «Historias a 10° Norte»",
+      "link": "https://www.mincultura.gob.ve/noticias/alcaldia-de-caracas-premia-el-talento-literario-juvenil-en-la-primera-edicion-del-concurso-historias-a-10-norte/"
     },
     {
-      "titulo": "Círculo de lectura promueve la historia como eje transversal de la literatura venezolana",
-      "link": "https://www.mincultura.gob.ve/noticias/circulo-de-lectura-promueve-la-historia-como-eje-transversal-de-la-literatura-venezolana/"
+      "titulo": "El joropo tuyero reafirmó su vigencia y arraigo en el Sótano Cultural de la Filven",
+      "link": "https://www.mincultura.gob.ve/noticias/el-joropo-tuyero-reafirmo-su-vigencia-y-arraigo-en-el-sotano-cultural-de-la-filven/"
     },
     {
-      "titulo": "Reivindican la Historia Insurgente como corriente para defender la memoria del pueblo",
-      "link": "https://www.mincultura.gob.ve/noticias/reivindican-la-historia-insurgente-como-corriente-para-defender-la-memoria-del-pueblo/"
+      "titulo": "La ciencia ficción venezolana reivindica su historia y vitalidad",
+      "link": "https://www.mincultura.gob.ve/noticias/la-ciencia-ficcion-venezolana-reivindica-su-historia-y-vitalidad/"
     },
     {
-      "titulo": "Percusión afrodescendiente llenó de ritmo el Sótano Cultural de la Filven 2026",
-      "link": "https://www.mincultura.gob.ve/noticias/percusion-afrodescendiente-lleno-de-ritmo-el-sotano-cultural-de-la-filven-2026/"
+      "titulo": "CESB homenajeó a historiadora Karin Pestano con la publicación de sus escritos",
+      "link": "https://www.mincultura.gob.ve/noticias/cesb-homenajeo-a-historiadora-karin-pestano-con-la-publicacion-de-sus-escritos/"
     },
     {
-      "titulo": "Ministro de Cultura llama a los estudiantes a defender los valores de nuestra identidad nacional",
-      "link": "https://www.mincultura.gob.ve/noticias/ministro-de-cultura-llama-a-los-estudiantes-a-defender-los-valores-de-nuestra-identidad-nacional/"
+      "titulo": "Experiencia del Plan Nacional de Lectura llegó a la Filven con el libro «Leer con el Libertador»",
+      "link": "https://www.mincultura.gob.ve/noticias/experiencia-del-plan-nacional-de-lectura-llego-a-la-filven-con-el-libro-leer-con-el-libertador/"
     }
   ],
   "Agencia Xinhua": [
     {
+      "titulo": "Zona de lanzamiento está lista para misión espacial Shenzhou-24 de China",
+      "link": "https://spanish.news.cn/20261122/4d0b8d0e51574c93a3d82da34d485681/c.html"
+    },
+    {
+      "titulo": "La 14 Exposición de Inversión y Comercio de China Central se lleva a cabo en Henan",
+      "link": "20261122/c65168ee506a4783989b3e84c9f36e0f/c.html"
+    },
+    {
+      "titulo": "Turistas se divierten en la Zona de Turismo Cultural de la Selva de Yanoda en Hainan",
+      "link": "20261122/90692872e3844a9fb9446e2ce926b1fb/c.html"
+    },
+    {
+      "titulo": "Xi afirma que China y Australia deben ser socios de confianza mutua",
+      "link": "20261120/75e6582111f34929804282da2fbbb193/c.html"
+    },
+    {
       "titulo": "Xi y Prabowo anuncian lanzamiento de negociaciones sobre asociación económica integral China-Indonesia",
       "link": "20261120/52cd732906d540df8cf03b8ab460994a/c.html"
-    },
-    {
-      "titulo": "China está dispuesta a estrechar cooperación con Malasia, afirma Xi",
-      "link": "https://spanish.news.cn/20261120/df3a16332ad042c49d32cee9fd202ca8/c.html"
-    },
-    {
-      "titulo": "Xi pide promover a nivel superior la construcción de una comunidad de futuro compartido China-Tailandia",
-      "link": "https://spanish.news.cn/20261120/e79cfc112eba40dbb7e838a22b87d4e8/c.html"
-    },
-    {
-      "titulo": "China y Singapur deben fortalecer comunicación estratégica y reforzar coordinación, afirma Xi",
-      "link": "https://spanish.news.cn/20261120/9b4250b7a1f44768a5a33d50d292cb89/c.html"
-    },
-    {
-      "titulo": "China-ALC sin distancias: Cuatro claves de APEC 2026 para impulsar la cooperación entre América Latina y Asia-Pacífico",
-      "link": "https://spanish.news.cn/20261120/945c7fe0d21749ed9d6c999006f16865/c.html"
     }
   ],
   "RT en Español": [
     {
+      "titulo": "China denuncia acto de \"discriminación\" por parte de EE.UU. y alerta de riesgo en sus relaciones",
+      "link": "https://actualidad.rt.com/actualidad/639179-china-denuncia-acto-discriminacion-eeuu"
+    },
+    {
+      "titulo": "Alemania cambia a última hora sus planes operativos para no provocar a Rusia: ¿qué hay detrás?",
+      "link": "https://actualidad.rt.com/actualidad/639169-alemania-cambia-planes-operativos-rusia"
+    },
+    {
+      "titulo": "130 años de historia en peligro: altos precios de energía golpean a gigante metalúrgico en Europa",
+      "link": "https://actualidad.rt.com/actualidad/639196-130-anos-historia-peligro-empresas"
+    },
+    {
+      "titulo": "VIDEO: Abuchean a representante de Israel en el concurso de trajes nacionales de Miss Universo",
+      "link": "https://actualidad.rt.com/actualidad/639107-video-abuchear-belleza-israel-miss-universo"
+    },
+    {
       "titulo": "Lapidario consejo de Pekín a cónsul de EE.UU. por criticar los lazos entre China y México",
       "link": "https://actualidad.rt.com/actualidad/639077-lapidario-consejo-pekin-consul-eeuu"
-    },
-    {
-      "titulo": "Candidato presidencial francés explica por qué su país no puede permitirse un conflicto nuclear con Rusia",
-      "link": "https://actualidad.rt.com/actualidad/639070-melenchon-francia-explica-nuclear-rusia"
-    },
-    {
-      "titulo": "El Gobierno de Perú confirma afectaciones tras potente sismo",
-      "link": "https://actualidad.rt.com/actualidad/639022-gobierno-peru-confirma-afectaciones-sismo"
-    },
-    {
-      "titulo": "Venezuela celebra la Feria Internacional del Libro con un homenaje especial a la cultura rusa",
-      "link": "https://actualidad.rt.com/video/639090-venezuela-celebrar-feria-internacional-libro"
-    },
-    {
-      "titulo": "¡La tripolaridad va a ritmo de China y Rusia!: ¿Sigue otra cumbre del G3 en Miami?",
-      "link": "https://actualidad.rt.com/opinion/alfredo-jalife-rahme/638981-tripolaridad-ritmo-china-rusia-otra-cumbre-miami"
     }
   ],
   "Telesur": [
     {
+      "titulo": "¿Orden tripolar sinocéntrico pacifista? Parusía de Rusia,declive de EU y catatonia europea",
+      "link": "https://www.telesurtv.net/blogs/orden-tripolar-sinocentrico-pacifista-parusia-de-rusiadeclive-de-eu-y-catatonia-europea/"
+    },
+    {
+      "titulo": "La desconexión entre lo nuevo que surge, la falta de conciencia y la persistencia de la estupidez",
+      "link": "https://www.telesurtv.net/blogs/la-desconexion-entre-lo-nuevo-que-surge-la-falta-de-conciencia-y-la-persistencia-de-la-estupidez/"
+    },
+    {
+      "titulo": "La capital venezolana volverá a recibir unos Juegos Centroamericanos y del Caribe 71 años después. Será la tercera vez que Venezuela albergará la cita multideportiva regional más antigua del mundo, tras Caracas 1959 y Maracaibo 1998.",
+      "link": "https://www.telesurtv.net/caracas-juegos-centroamericanos-caribe-2030/"
+    },
+    {
+      "titulo": "El hackeo a Binance y la soberanía digital en Venezuela",
+      "link": "https://www.telesurtv.net/opinion/el-hackeo-a-binance-y-la-soberania-digital-en-venezuela/"
+    },
+    {
       "titulo": "Conferencia Nacional Árabe inaugura su 35.ª edición centrada en Gaza e Irán",
       "link": "https://www.telesurtv.net/conferencia-arabe-inaugura-edicion-gaza-iran/"
-    },
-    {
-      "titulo": "México representado con más de 30 cintas en el Festival Internacional del Nuevo Cine Latinoamericano de La Habana",
-      "link": "https://www.telesurtv.net/mexico-festival-cine-latinoamericano-habana/"
-    },
-    {
-      "titulo": "Presidente de Cuba aboga por un diálogo «sin condicionamientos» con EE.UU.",
-      "link": "https://www.telesurtv.net/presidente-de-cuba-aboga-por-un-dialogo-sin-condicionamientos-con-ee-uu/"
-    },
-    {
-      "titulo": "Ondas cortas y ondas largas en la cultura Fobaproa de México",
-      "link": "https://www.telesurtv.net/blogs/ondas-cortas-y-ondas-largas-en-la-cultura-fobaproa-de-mexico/"
-    },
-    {
-      "titulo": "Venezuela homenajea en La Guaira a campeones del Clásico Mundial de Béisbol",
-      "link": "https://www.telesurtv.net/venezuela-campeones-clasico-mundial-la-guaira/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
+    {
+      "titulo": "Festival Internacional de Gastronomía en Vietnam continúa conectando culturas y difundiendo la amistad",
+      "link": "https://vovworld.vn/es-ES/noticias/festival-internacional-de-gastronomia-en-vietnam-continua-conectando-culturas-y-difundiendo-la-2482468.vov5"
+    },
+    {
+      "titulo": "Vibrantes actividades en las tres regiones que convergen los colores culturales de Vietnam",
+      "link": "https://vovworld.vn/es-ES/noticias/vibrantes-actividades-en-las-tres-regiones-que-convergen-los-colores-culturales-de-vietnam-2482470.vov5"
+    },
+    {
+      "titulo": "Colores de la cultura, fuerza de la gran unidad nacional",
+      "link": "https://vovworld.vn/es-ES/musica/colores-de-la-cultura-fuerza-de-la-gran-unidad-nacional-2482523.vov5"
+    },
     {
       "titulo": "La Asamblea Nacional de Vietnam reafirma su espíritu de acción y su firme determinación de impulsar una renovación sustancial",
       "link": "https://vovworld.vn/es-ES/noticias/la-asamblea-nacional-de-vietnam-reafirma-su-espiritu-de-accion-y-su-firme-determinacion-de-impulsar-2482314.vov5"
@@ -272,18 +284,6 @@
     {
       "titulo": "Inauguran el Día de la Cultura Vietnamita en Hanói 2026",
       "link": "https://vovworld.vn/es-ES/noticias/inauguran-el-dia-de-la-cultura-vietnamita-en-hanoi-2026-2482257.vov5"
-    },
-    {
-      "titulo": "Cerca de 100 pabellones participan en el Festival Internacional de Cultura Gastronómica 2026",
-      "link": "https://vovworld.vn/es-ES/noticias/cerca-de-100-pabellones-participan-en-el-festival-internacional-de-cultura-gastronomica-2026-2482346.vov5"
-    },
-    {
-      "titulo": "Trump destaca los resultados de su gira por Asia y aborda diversos asuntos internacionales",
-      "link": "https://vovworld.vn/es-ES/noticias/trump-destaca-los-resultados-de-su-gira-por-asia-y-aborda-diversos-asuntos-internacionales-2482229.vov5"
-    },
-    {
-      "titulo": "Vietnam, mil y una historias",
-      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
     }
   ]
 }
