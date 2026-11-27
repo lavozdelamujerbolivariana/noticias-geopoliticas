@@ -1,6 +1,14 @@
 {
   "Ministerio de Comunas": [
     {
+      "titulo": "Comunas en Red Digital",
+      "link": "https://www.comunas.gob.ve/numeros-poder-popular/comunas-en-red-digital/"
+    },
+    {
+      "titulo": "Poder Popular Organizado impulsa la eficiencia territorial durante el 1er Encuentro Nacional de Coordinadores y Coordinadoras Estadales de Safonapp",
+      "link": "https://www.comunas.gob.ve/2026/11/27/poder-popular-organizado-impulsa-la-eficiencia-territorial-durante-el-1er-encuentro-nacional-de-coordinadores-y-coordinadoras-estadales-de-safonapp/"
+    },
+    {
       "titulo": "Poder Popular de Guafita y Barranca Amarilla impulsa la producción agrícola Comunal en Apure",
       "link": "https://www.comunas.gob.ve/2026/11/26/poder-popular-de-guafita-y-barranca-amarilla-impulsa-la-produccion-agricola-comunal-en-apure/"
     },
@@ -11,17 +19,13 @@
     {
       "titulo": "Escuela Decolonial Comuna o Nada",
       "link": "https://www.comunas.gob.ve/decolonial/"
-    },
-    {
-      "titulo": "Sistema de Registro de Consejos Comunales",
-      "link": "https://www.comunas.gob.ve/consejos-comunales-vocerias/"
-    },
-    {
-      "titulo": "UNACOM y escuelas de medicina tradicional china sellan convenio interinstitucional",
-      "link": "https://www.comunas.gob.ve/2026/11/20/unacom-y-escuelas-de-medicina-tradicional-china-sellan-convenio-interinstitucional/"
     }
   ],
   "Mippci Medios Comunitarios": [
+    {
+      "titulo": "Operativo social entregó medicinas y ayudas técnicas en Guayana Esequiba",
+      "link": "https://mippci.gob.ve/operativo-medicinas-ayudas-tecnicas-guayana-esequiba/"
+    },
     {
       "titulo": "Despliegan jornada de atención social y dotación escolar en Páramo Los Torres de Valera",
       "link": "https://mippci.gob.ve/despliegan-jornada-de-atencion-social-y-dotacion-escolar-en-paramo-los-torres-de-valera/"
@@ -37,13 +41,21 @@
     {
       "titulo": "Comuna de Falcón entrega proyecto deportivo a 31 comunidades",
       "link": "https://mippci.gob.ve/comuna-falcon-proyecto-deportivo-31-comunidades/"
-    },
-    {
-      "titulo": "Jornada de salud en Amazonas beneficia al pueblo yanonami",
-      "link": "https://mippci.gob.ve/jornada-de-salud-en-amazonas-beneficia-al-pueblo-yanonami/"
     }
   ],
   "Correo del Orinoco": [
+    {
+      "titulo": "Gobierno Nacional reitera su compromiso con la recuperación del Sistema Eléctrico Nacional",
+      "link": "https://www.correodelorinoco.gob.ve/gobierno-nacional-reitera-su-compromiso-con-la-recuperacion-del-sistema-electrico-nacional/"
+    },
+    {
+      "titulo": "Venezuela publica su plan de estabilización macroeconómica y recuperación financiera",
+      "link": "https://www.correodelorinoco.gob.ve/venezuela-publica-su-plan-de-estabilizacion-macroeconomica-y-recuperacion-financiera/"
+    },
+    {
+      "titulo": "Ejecutivo Nacional anuncia construcción de un centro de alto rendimiento para el béisbol venezolano",
+      "link": "https://www.correodelorinoco.gob.ve/ejecutivo-nacional-anuncia-construccion-de-un-centro-de-alto-rendimiento-para-el-beisbol-venezolano/"
+    },
     {
       "titulo": "Calixto Ortega: Plan «Venezuela Renace» está enfocado en el bienestar del pueblo venezolano",
       "link": "https://www.correodelorinoco.gob.ve/calixto-ortega-plan-venezuela-renace-esta-enfocado-en-el-bienestar-del-pueblo-venezolano/"
@@ -51,106 +63,94 @@
     {
       "titulo": "Vicepresidente sectorial de Economía, Calixto Ortega, presenta el Plan Venezuela Renace",
       "link": "https://www.correodelorinoco.gob.ve/vicepresidente-sectorial-de-economia-calixto-ortega-presenta-el-plan-venezuela-renace/"
-    },
-    {
-      "titulo": "Gobierno nacional y ex diputados de la AN de 2015 alcanzan acuerdos tras cuarto ciclo de diálogo",
-      "link": "https://www.correodelorinoco.gob.ve/gobierno-nacional-y-exdiputados-de-la-an-2015-alcanzan-acuerdos-en-medios-reformas-legales-y-defensa-del-esequibo-tras-cuarto-ciclo-de-dialogo/"
-    },
-    {
-      "titulo": "Presidenta Delcy Rodríguez: Queremos una Venezuela libre de bloqueo y sanciones",
-      "link": "https://www.correodelorinoco.gob.ve/presidenta-delcy-rodriguez-queremos-una-venezuela-libre-de-bloqueo-y-sanciones/"
-    },
-    {
-      "titulo": "Venezuela y Shell concretan nuevas órdenes de servicio para elevar producción de crudo y gas",
-      "link": "https://www.correodelorinoco.gob.ve/venezuela-y-shell-concretan-nuevas-ordenes-de-servicio-para-elevar-produccion-de-crudo-y-gas/"
     }
   ],
   "El Mazo Dando": [
     {
+      "titulo": "27/11/2026 02:19 PMPresidenta Delcy Rodríguez reiteró su compromiso con la recuperación del Sistema Eléctrico Nacional",
+      "link": "https://mazo4f.com/presidenta-delcy-rodriguez-reitero-su-compromiso-con-la-recuperacion-del-sistema-electrico-nacional"
+    },
+    {
+      "titulo": "27/11/2026 03:02 PM\nVenezuela expresó su solidaridad al Pueblo y gobierno ecuatoriano ante las consecuencias de las inundaciones",
+      "link": "https://mazo4f.com/venezuela-expreso-su-solidaridad-al-pueblo-y-gobierno-ecuatoriano-ante-las-consecuencias-de-las-inundaciones"
+    },
+    {
+      "titulo": "27/11/2026 02:29 PM\nCONSECOMERCIO propone iniciativas en el marco del Plan Venezuela Renace",
+      "link": "https://mazo4f.com/consecomercio-propone-iniciativas-en-el-marco-del-plan-venezuela-renace"
+    },
+    {
+      "titulo": "27/11/2026 02:18 PM\nPresidenta Rodríguez destacó la importancia del turismo de la mano del sector comercial",
+      "link": "https://mazo4f.com/presidenta-rodriguez-destaco-la-importancia-del-turismo-de-la-mano-del-sector-comercial"
+    },
+    {
       "titulo": "26/11/2026 01:30 PM\nPresidenta Rodríguez activó el Programa Nacional de Atención Integral para Adultos Mayores",
       "link": "https://mazo4f.com/presidenta-rodriguez-activo-el-programa-nacional-de-atencion-integral-para-adultos-mayores"
-    },
-    {
-      "titulo": "25/11/2026 06:59 PMPresidenta Rodríguez: Gracias al diálogo diplomático podemos firmar acuerdos en beneficio del Pueblo",
-      "link": "https://mazo4f.com/presidenta-rodriguez-gracias-al-dialogo-diplomatico-podemos-firmar-acuerdos-en-beneficio-del-pueblo"
-    },
-    {
-      "titulo": "26/11/2026 02:33 PM\nCompañía Nacional de Música realizará ciclo de conciertos navideños",
-      "link": "https://mazo4f.com/compania-nacional-de-musica-realizara-ciclo-de-conciertos-navidenos"
-    },
-    {
-      "titulo": "26/11/2026 02:19 PM\nVenezuela felicitó a la República de la India por el Día de la Constitución",
-      "link": "https://mazo4f.com/venezuela-felicito-a-la-republica-de-la-india-por-el-dia-de-la-constitucion"
-    },
-    {
-      "titulo": "25/11/2026 01:55 PMGobierno Nacional entregó más de 2 mil 500 viviendas rehabilitadas a través del Plan Venezuela Renace",
-      "link": "https://mazo4f.com/gobierno-nacional-entrego-mas-de-2-mil-500-viviendas-rehabilitadas-a-traves-del-plan-venezuela-renace"
     }
   ],
   "VTV": [
     {
-      "titulo": "Seminario de Modernización impulsa transformación digital de la justicia penal en Venezuela",
-      "link": "https://vtv.com.ve/seminiario-impulsa-transformacion-digital-justicia-penal/"
+      "titulo": "Ejecutivo nacional suprimirá visas a Panamá para el impulso de Venezuela como destino turístico",
+      "link": "https://vtv.com.ve/ejecutivo-suprimira-visas-panama-venezuela-destino-turistico/"
     },
     {
-      "titulo": "Reinaldo Quintero: El destino del Plan Económico Venezuela Renace es el ingreso familiar",
-      "link": "https://vtv.com.ve/quintero-destino-plan-venezuela-renace-ingreso-familiar/"
+      "titulo": "BID aprobó primera dispensa para Venezuela: Empresarios y emprendedores tienen disponible créditos desde hoy",
+      "link": "https://vtv.com.ve/bid-aprobo-primera-dispensa-para-venezuela-empresarios-y-emprendedores-tienen-disponible-creditos-desde-hoy/"
     },
     {
-      "titulo": "Inauguran 68.° Salón Arturo Michelena en el Museo de la Cultura de Carabobo",
-      "link": "https://vtv.com.ve/inauguran-salon-arturo-michelena-museocultura-carabobo/"
+      "titulo": "Venezuela espera romper el Récord Guinness de la banda de marcha más grande del mundo",
+      "link": "https://vtv.com.ve/venezuela-espera-romper-record-guinness-banda-marcha-mas-grande-mundo/"
     },
     {
-      "titulo": "Compañía Nacional de Música realizará ciclo de conciertos navideños",
-      "link": "https://vtv.com.ve/compania-nacional-musica-ciclo-conciertos-navidenos/"
+      "titulo": "Bolipuertos proyecta transformar puertos en Hub Internacional",
+      "link": "https://vtv.com.ve/bolipuertos-proyecta-transformar-puertos-en-hub-internacional/"
     },
     {
-      "titulo": "Miguel Jaimes: Venezuela impulsa un nuevo canon energético con la meta de producción de 3 millones de barriles",
-      "link": "https://vtv.com.ve/miguel-jaimes-venezuela-impulsa-un-nuevo-canon-energetico-con-la-meta-de-produccion-de-3-millones-de-barriles/"
+      "titulo": "Miguel Mateos regresa a Venezuela: Conozca la fecha para su tour por los 40 años de «Solos en América»",
+      "link": "https://vtv.com.ve/miguel-mateos-regresa-a-venezuela-conozca-la-fecha-para-su-tour-por-los-40-anos-de-solos-en-america/"
     }
   ],
   "RNV": [
     {
-      "titulo": "Vicepresidente sectorial de Economía resaltó que Venezuela acumula 22 trimestres consecutivos de crecimiento económico",
-      "link": "https://rnv.gob.ve/venezuela-acumula-22-trimestres-crecimiento-economico/"
+      "titulo": "Venezuela y Eslovaquia revisan agenda para reactivar consultas políticas",
+      "link": "https://rnv.gob.ve/venezuela-y-eslovaquia-revisan-agenda-para-reactivar-co/"
     },
     {
-      "titulo": "Venezuela felicita al pueblo de la India por aniversario de su Constitución",
-      "link": "https://rnv.gob.ve/venezuela-felicita-al-pueblo-de-la-india-por-aniversari/"
+      "titulo": "Instalado el Estado Mayor de Alimentación para impulsar en Zulia el plan Venezuela Alimenta: Hambre Cero",
+      "link": "https://rnv.gob.ve/estado-mayor-de-alimentacion-zulia-venezuela-alimenta/"
     },
     {
-      "titulo": "Gobierno de Carabobo dirige programas de prevención para la mujer en el Mes Violeta",
-      "link": "https://rnv.gob.ve/carabobo-programas-prevencion-mujer-mes-violeta/"
+      "titulo": "Apure aportará más del 50 % de la cosecha nacional de caraotas",
+      "link": "https://rnv.gob.ve/apure-aportara-mas-del-50-cosecha-nacional-de-caraotas/"
     },
     {
-      "titulo": "Carabobo y Miranda dominan la primera jornada de bolas criollas en los Juegos Nacionales Juveniles",
-      "link": "https://rnv.gob.ve/carabobo-miranda-bolas-criollas-juegos-juveniles/"
+      "titulo": "Director general de la OMS arriba a Venezuela para cumplir agenda de cooperación sanitaria",
+      "link": "https://rnv.gob.ve/director-general-de-la-oms-arriba-a-venezuela-para-cump/"
     },
     {
-      "titulo": "Venezuela expresó su solidaridad con Egipto tras incendio en El Cairo",
-      "link": "https://rnv.gob.ve/venezuela-expreso-su-solidaridad-con-egipto-tras-incend/"
+      "titulo": "RNV conmemora el Día Internacional de la Violencia contra la Mujer.",
+      "link": "https://www.youtube.com/watch?v=A47_VMjcJ1k"
     }
   ],
   "Radio Mundial": [
     {
+      "titulo": "Delcy Rodríguez conmemora el 106.º aniversario de la Aviación Militar Bolivariana",
+      "link": "delcy-rodriguez-felicita-aviacion-militar-bolivariana-aniversario/"
+    },
+    {
+      "titulo": "Plan Económico Venezuela Renace sienta bases para la estabilización macroeconómica",
+      "link": "plan-economico-venezuela-renace-estabilidad-macroeconomica/"
+    },
+    {
+      "titulo": "Egresan 2.655 nuevos sargentos segundos de la Guardia Nacional Bolivariana",
+      "link": "egresan-2655-nuevos-sargentos-guardia-nacional-bolivariana/"
+    },
+    {
+      "titulo": "Director general de la OMS cumple visita oficial en Venezuela para fortalecer la salud",
+      "link": "director-general-oms-visita-oficial-venezuela-salud/"
+    },
+    {
       "titulo": "Cuba conmemora diez años de la partida física de Fidel Castro con jornada nacional de homenajes",
       "link": "cuba-conmemora-diez-anos-partida-fisica-fidel-castro-homenajes/"
-    },
-    {
-      "titulo": "Banco Interamericano de Desarrollo respalda el programa económico y social Venezuela Renace",
-      "link": "bid-respalda-programa-economico-social-venezuela-renace/"
-    },
-    {
-      "titulo": "Viceministro Christiam Hernández destaca amplio respaldo al Plan Económico Venezuela Renace",
-      "link": "viceministro-christiam-hernandez-destaca-respaldo-plan-venezuela-renace/"
-    },
-    {
-      "titulo": "Presidenta Delcy Rodríguez entrega viviendas rehabilitadas en 22 edificios de La Trinidad mediante el Plan Venezuela Renace",
-      "link": "delcy-rodriguez-entrega-viviendas-rehabilitadas-la-trinidad-miranda/"
-    },
-    {
-      "titulo": "Vicepresidente Calixto Ortega Sánchez presenta el Plan Venezuela Renace para la recuperación económica",
-      "link": "calixto-ortega-sanchez-presenta-plan-venezuela-renace/"
     }
   ],
   "La Radio del Sur": [
@@ -199,91 +199,83 @@
   ],
   "Agencia Xinhua": [
     {
-      "titulo": "China: Puerto de Nanjing registra un fuerte aumento de las exportaciones de vehículos",
-      "link": "20261126/a033af51b6e3463c9ce2cafac59b172d/c.html"
+      "titulo": "La 28 Feria de Alta Tecnología de China comienza en Shenzhen",
+      "link": "20261127/9c8bc9a2749640d29439239491092a37/c.html"
     },
     {
-      "titulo": "Se inaugura la Exposición Internacional de Equipos y Tecnología de Energía (Qingdao) 2026 en Shandong",
-      "link": "20261126/d1aa8b3fc4d944dda19c1bd9e4d2b1c9/c.html"
+      "titulo": "Túnel carretero submarino más largo del mundo construido con tuneladora de escudo alcanza hito en este de China",
+      "link": "20261126/bdc56378133d4a3c860ca3fe7e8fb283/c.html"
     },
     {
-      "titulo": "Panameños destacan oportunidades de cooperación académica y tecnológica con China",
-      "link": "https://spanish.news.cn/20261126/00cc1d1e9d8f4dbf8904a45a14d87a2d/c.html"
+      "titulo": "Foro Jurídico China-CELAC resalta valor de Estado de derecho como base de confianza y cooperación",
+      "link": "https://spanish.news.cn/20261127/61ae96c58e03403096be2f478c5990c3/c.html"
     },
     {
-      "titulo": "Expertos destacan oportunidades para ampliar cooperación e inversión con China durante foro en Bogotá",
-      "link": "https://spanish.news.cn/20261126/23de21acfe7640d998ab0fc33170b231/c.html"
+      "titulo": "Diálogo Transpacífico | Distancia no separa: diálogo entre civilizaciones de China y América Latina",
+      "link": "https://spanish.news.cn/20261127/3da5ffcb08cf46c982bc3a6a924fcfc7/c.html"
     },
     {
-      "titulo": "Astronautas de Shenzhou-24, incluyendo primer extranjero, ingresan a estación espacial Tiangong de China",
-      "link": "https://spanish.news.cn/20261125/50f18c374a584672b7c105cbe2d8011c/c.html"
+      "titulo": "Nuevos motores de crecimiento impulsan aumento de beneficios industriales en China",
+      "link": "20261127/ad56ef4713fe4c828adbcd345c99b674/c.html"
     }
   ],
   "RT en Español": [
     {
+      "titulo": "China lanza una advertencia a EE.UU. ante nuevos aranceles propuestos por Trump",
+      "link": "https://actualidad.rt.com/actualidad/639976-china-lanza-advertencia-eeuu-nuevos-aranceles"
+    },
+    {
+      "titulo": "La UE perdió la cuenta de cuántas sanciones aprobó contra Rusia",
+      "link": "https://actualidad.rt.com/comics/639731-ue-perdio-cuenta-sanciones-aprobo"
+    },
+    {
+      "titulo": "El futuro del 'delivery' ya está aquí: Rusia ensaya un modelo de entregas con robots y humanoides (VIDEO)",
+      "link": "https://actualidad.rt.com/actualidad/640001-futuro-delivery-rusia-ensaya-entregas-robots"
+    },
+    {
+      "titulo": "Enviado de Putin: Rusia posee una de las mayores bases de recursos en el mundo para el desarrollo de la IA",
+      "link": "https://actualidad.rt.com/actualidad/640022-enviado-putin-rusia-posee-mayores-recursos-ia"
+    },
+    {
       "titulo": "Putin plantea renovar la estrategia nacional rusa sobre la IA: ¿qué propone?",
       "link": "https://actualidad.rt.com/actualidad/639840-putin-plantea-renovar-estrategia-nacional-ia"
-    },
-    {
-      "titulo": "Moscú rechaza el ultimátum energético de Bruselas: \"Rusia no debe nada\"",
-      "link": "https://actualidad.rt.com/actualidad/639809-moscu-rechaza-ultimatum-energetico-bruselas"
-    },
-    {
-      "titulo": "Los dos pilares de EE.UU. contra China entran en 'terapia intensiva'",
-      "link": "https://actualidad.rt.com/actualidad/639699-alianzas-hacen-aguas-tropiezos-ee"
-    },
-    {
-      "titulo": "Rusia ofrece detalles sobre su ataque nocturno en Kiev: ¿qué blancos golpeó?",
-      "link": "https://actualidad.rt.com/actualidad/639804-rusia-ofrece-detalles-ataque-nocturno-kiev"
-    },
-    {
-      "titulo": "La esquina de Europa que juega con arrastrar a la OTAN a un choque directo con Rusia",
-      "link": "https://actualidad.rt.com/actualidad/639728-bastion-antirruso-europa-puede-arrastrar"
     }
   ],
   "Telesur": [
     {
+      "titulo": "Cuba: conforman la Primera Brigada Internacional “Fidel Castro Ruz”",
+      "link": "https://www.telesurtv.net/cuba-primera-brigada-internacional-fidel-castro-ruz/"
+    },
+    {
+      "titulo": "¿Orden tripolar sinocéntrico pacifista? Parusía de Rusia,declive de EU y catatonia europea",
+      "link": "https://www.telesurtv.net/blogs/orden-tripolar-sinocentrico-pacifista-parusia-de-rusiadeclive-de-eu-y-catatonia-europea/"
+    },
+    {
+      "titulo": "La desconexión entre lo nuevo que surge, la falta de conciencia y la persistencia de la estupidez",
+      "link": "https://www.telesurtv.net/blogs/la-desconexion-entre-lo-nuevo-que-surge-la-falta-de-conciencia-y-la-persistencia-de-la-estupidez/"
+    },
+    {
+      "titulo": "Previo al encuentro de Venezuela, Cuba perdió contra su similar de Barbados y este viernes se tendrá que buscar la redención ante Ecuador.",
+      "link": "https://www.telesurtv.net/venezuela-debuta-con-contundente-victoria-ante-ecuador-rumbo-al-americup-2029/"
+    },
+    {
       "titulo": "CGT marcha en Argentina contra desfinanciamiento de obras sociales sindicales",
       "link": "https://www.telesurtv.net/cgt-marcha-argentina-desfinanciamiento-obras-sociales-sindicales/"
-    },
-    {
-      "titulo": "China rechaza nuevos aranceles de Estados Unidos y alerta riesgos globales",
-      "link": "https://www.telesurtv.net/china-rechazo-aranceles-eeuu-riesgos-globales/"
-    },
-    {
-      "titulo": "Argentina: Justicia suspende los despidos en Instituto de Obra Social de las FF.AA.",
-      "link": "https://www.telesurtv.net/argentina-justicia-suspende-despidos/"
-    },
-    {
-      "titulo": "Inicia en Caracas el Congreso Internacional de Saberes Africanos y del Sur Global",
-      "link": "https://www.telesurtv.net/caracas-congreso-internacional-saberes-africanos/"
-    },
-    {
-      "titulo": "MST destina ingresos de feria en Brasilia a solidaridad internacional con Cuba",
-      "link": "https://www.telesurtv.net/mst-ingresos-feria-brasil-solidaridad-cuba/"
     }
   ],
   "HispanTV": [],
   "La Voz de Vietnam": [
     {
-      "titulo": "Ciudad Ho Chi Minh aspira a convertirse en centro logístico internacional",
-      "link": "https://vovworld.vn/es-ES/noticias/ciudad-ho-chi-minh-aspira-a-convertirse-en-centro-logistico-internacional-2483301.vov5"
+      "titulo": "Vietnam y Rusia intensifican la cooperación entre sus localidades",
+      "link": "https://vovworld.vn/es-ES/noticias/vietnam-y-rusia-intensifican-la-cooperacion-entre-sus-localidades-2483586.vov5"
     },
     {
-      "titulo": "Mil colores de Vietnam: la cultura ilumina el camino y el país vibra al unísono",
-      "link": "https://vovworld.vn/es-ES/noticias/mil-colores-de-vietnam-la-cultura-ilumina-el-camino-y-el-pais-vibra-al-unisono-2483086.vov5"
+      "titulo": "Primer ministro de Vietnam: La seguridad energética nacional debe garantizarse en todas las circunstancias",
+      "link": "https://vovworld.vn/es-ES/noticias/primer-ministro-de-vietnam-la-seguridad-energetica-nacional-debe-garantizarse-en-todas-las-2483588.vov5"
     },
     {
-      "titulo": "Celebran el Día de la Cultura de Vietnam",
-      "link": "https://vovworld.vn/es-ES/noticias/celebran-el-dia-de-la-cultura-de-vietnam-2482881.vov5"
-    },
-    {
-      "titulo": "Escuchar al pueblo para que cada política cobre vida",
-      "link": "https://vovworld.vn/es-ES/enfoque-de-actualidad/escuchar-al-pueblo-para-que-cada-politica-cobre-vida-2483402.vov5"
-    },
-    {
-      "titulo": "Vietnam, mil y una historias",
-      "link": "https://vovworld.vn/es-ES/vietnam-mil-y-una-historias"
+      "titulo": "Apertura del Festival Internacional de Cultura Gastronómica de Hanói 2026",
+      "link": "https://vovworld.vn/es-ES/noticias/apertura-del-festival-internacional-de-cultura-gastronomica-de-hanoi-2026-2483651.vov5"
     }
   ]
 }
